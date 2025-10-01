@@ -1,0 +1,142 @@
+[
+  {
+    "id": "prop-1",
+    "title": "築100年の古民家 田園風景に囲まれた広々物件",
+    "regionId": "region-1",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "address": "松本市安曇",
+    "price": 5800000,
+    "landArea": 450,
+    "buildingArea": 180,
+    "rooms": "6DK",
+    "age": 100,
+    "structure": "木造",
+    "condition": "要リフォーム",
+    "features": ["庭付き", "駐車場2台", "畑付き", "温泉近く"],
+    "images": {
+      "main": "/images/properties/prop1-main.jpg",
+      "sub": ["/images/properties/prop1-sub1.jpg", "/images/properties/prop1-sub2.jpg"],
+      "beforeRenovation": "/images/renovations/prop1-before.jpg",
+      "afterRenovation": "/images/renovations/prop1-after.jpg"
+    },
+    "renovationCost": 8000000,
+    "demolitionCost": 1500000,
+    "coordinates": {
+      "lat": 36.2048,
+      "lng": 137.9680
+    },
+    "nearbyFacilities": {
+      "station": "松本駅まで車で30分",
+      "school": "小学校まで徒歩15分",
+      "hospital": "総合病院まで車で20分",
+      "supermarket": "スーパーまで車で10分"
+    },
+    "description": "アルプスの美しい景観を楽しめる古民家。広い敷地で家庭菜園も可能。DIYリフォームにも最適。"
+  },
+  {
+    "id": "prop-2",
+    "title": "海まで徒歩5分 サーファーに人気のエリア",
+    "regionId": "region-2",
+    "prefecture": "千葉県",
+    "city": "南房総市",
+    "address": "南房総市白浜町",
+    "price": 4500000,
+    "landArea": 200,
+    "buildingArea": 120,
+    "rooms": "4LDK",
+    "age": 45,
+    "structure": "木造",
+    "condition": "即入居可",
+    "features": ["オーシャンビュー", "リフォーム済み", "駐車場", "サーフボード置き場"],
+    "images": {
+      "main": "/images/properties/prop2-main.jpg",
+      "sub": ["/images/properties/prop2-sub1.jpg", "/images/properties/prop2-sub2.jpg"],
+      "beforeRenovation": "/images/renovations/prop2-before.jpg",
+      "afterRenovation": "/images/renovations/prop2-after.jpg"
+    },
+    "renovationCost": 0,
+    "demolitionCost": 1200000,
+    "coordinates": {
+      "lat": 34.9269,
+      "lng": 139.8398
+    },
+    "nearbyFacilities": {
+      "station": "館山駅まで車で20分",
+      "school": "小学校まで徒歩10分",
+      "hospital": "診療所まで徒歩15分",
+      "supermarket": "コンビニまで徒歩5分"
+    },
+    "description": "海が近く、マリンスポーツを楽しみたい方に最適。リフォーム済みですぐに住める物件。"
+  },
+  {
+    "id": "prop-3",
+    "title": "広大な敷地の農家住宅 自給自足の生活を",
+    "regionId": "region-3",
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "address": "真庭市蒜山",
+    "price": 3200000,
+    "landArea": 800,
+    "buildingArea": 150,
+    "rooms": "5DK",
+    "age": 60,
+    "structure": "木造",
+    "condition": "一部リフォーム要",
+    "features": ["農地付き", "蔵あり", "井戸水", "薪ストーブ"],
+    "images": {
+      "main": "/images/properties/prop3-main.jpg",
+      "sub": ["/images/properties/prop3-sub1.jpg", "/images/properties/prop3-sub2.jpg"],
+      "beforeRenovation": "/images/renovations/prop3-before.jpg",
+      "afterRenovation": "/images/renovations/prop3-after.jpg"
+    },
+    "renovationCost": 3000000,
+    "demolitionCost": 1300000,
+    "coordinates": {
+      "lat": 35.3081,
+      "lng": 133.6639
+    },
+    "nearbyFacilities": {
+      "station": "中国勝山駅まで車で25分",
+      "school": "小中学校まで車で10分",
+      "hospital": "診療所まで車で15分",
+      "supermarket": "道の駅まで車で5分"
+    },
+    "description": "広大な農地付きで自給自足の生活が可能。蒜山高原の自然を満喫できる物件。"
+  },
+  {
+    "id": "prop-4",
+    "title": "リノベーション済みのモダン古民家",
+    "regionId": "region-1",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "address": "松本市奈川",
+    "price": 12000000,
+    "landArea": 300,
+    "buildingArea": 140,
+    "rooms": "3LDK",
+    "age": 80,
+    "structure": "木造",
+    "condition": "リノベーション済み",
+    "features": ["薪ストーブ", "システムキッチン", "温泉権付き", "ガレージ"],
+    "images": {
+      "main": "/images/properties/prop4-main.jpg",
+      "sub": ["/images/properties/prop4-sub1.jpg", "/images/properties/prop4-sub2.jpg"],
+      "beforeRenovation": "/images/renovations/prop4-before.jpg",
+      "afterRenovation": "/images/renovations/prop4-after.jpg"
+    },
+    "renovationCost": 0,
+    "demolitionCost": 1400000,
+    "coordinates": {
+      "lat": 36.0642,
+      "lng": 137.6859
+    },
+    "nearbyFacilities": {
+      "station": "松本駅まで車で40分",
+      "school": "小学校まで車で15分",
+      "hospital": "診療所まで車で20分",
+      "supermarket": "商店まで徒歩10分"
+    },
+    "description": "プロの建築家によりフルリノベーション済み。古民家の味わいと現代の快適性を両立。"
+  }
+]

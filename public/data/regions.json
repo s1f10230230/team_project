@@ -1,0 +1,53 @@
+[
+  {
+    "id": "region-1",
+    "name": "長野県松本市",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "population": 240000,
+    "features": ["アルプスの眺望", "温泉多数", "城下町", "教育環境充実"],
+    "infrastructure": {
+      "schools": 45,
+      "hospitals": 12,
+      "supermarkets": 28,
+      "stations": 8
+    },
+    "internetSpeed": "光ファイバー対応",
+    "community": "移住者支援コミュニティあり",
+    "subsidies": ["移住支援金最大100万円", "子育て支援", "リフォーム補助金"]
+  },
+  {
+    "id": "region-2",
+    "name": "千葉県南房総市",
+    "prefecture": "千葉県",
+    "city": "南房総市",
+    "population": 37000,
+    "features": ["海沿い", "東京アクセス良好", "農業体験", "サーフィン"],
+    "infrastructure": {
+      "schools": 12,
+      "hospitals": 5,
+      "supermarkets": 8,
+      "stations": 3
+    },
+    "internetSpeed": "光ファイバー対応",
+    "community": "地域交流イベント多数",
+    "subsidies": ["空き家バンク", "新規就農支援", "子育て支援金"]
+  },
+  {
+    "id": "region-3",
+    "name": "岡山県真庭市",
+    "prefecture": "岡山県",
+    "city": "真庭市",
+    "population": 44000,
+    "features": ["自然豊か", "バイオマス都市", "温泉", "スローライフ"],
+    "infrastructure": {
+      "schools": 18,
+      "hospitals": 6,
+      "supermarkets": 10,
+      "stations": 5
+    },
+    "internetSpeed": "光ファイバー一部対応",
+    "community": "移住者ネットワーク活発",
+    "subsidies": ["住宅取得支援", "起業支援", "医療費助成"]
+  }
+]
