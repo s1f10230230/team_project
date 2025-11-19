@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_USER: localuser #ユーザー名
+      POSTGRES_PASSWORD: iniad #パスワード
+      POSTGRES_DB: testdb #データベース名
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data
