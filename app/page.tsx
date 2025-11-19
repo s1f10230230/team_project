@@ -20,7 +20,6 @@ export default function Home() {
     };
     fetchSession();
 
-    // セッション変更時にリアルタイムで更新
     const { data: listener } = supabase.auth.onAuthStateChange((_event, newSession) => {
       setSession(newSession);
     });
@@ -32,6 +31,14 @@ export default function Home() {
 
   return (
     <div className="container mx-auto px-4 py-8">
+
+      {/* --- ここを追加：ログイン中ユーザーを表示 --- */}
+      {session && (
+        <div className="text-right text-sm text-gray-500 mb-4">
+          ログイン中: <span className="font-bold">{session.user.email}</span>
+        </div>
+      )}
+
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-4">
           空き家で始める新しい暮らし
@@ -102,7 +109,6 @@ export default function Home() {
         </Card>
       </div>
 
-      {/* サービスの特徴部分はそのまま */}
     </div>
   );
 }
