@@ -1,12 +1,6 @@
-import { createClient } from '@supabase/supabase-js';
+import { supabase } from '@/lib/supabase';
 import { NextResponse } from 'next/server';
 import housesData from '@/houses.json';
-
-// Supabase設定
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
-const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
-
-const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
 export async function POST() {
   try {
@@ -16,13 +10,13 @@ export async function POST() {
     const batchSize = 50;
     let successCount = 0;
     let errorCount = 0;
-    const errors: any[] = [];
+    const errors: { batch: number; error: string }[] = [];
 
     for (let i = 0; i < housesData.length; i += batchSize) {
       const batch = housesData.slice(i, i + batchSize);
 
       // バッチごとにデータを挿入
-      const { data, error } = await supabase
+      const { error } = await supabase
         .from('houses')
         .upsert(
           batch.map(house => ({
