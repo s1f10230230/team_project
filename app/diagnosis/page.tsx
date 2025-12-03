@@ -1,27 +1,56 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { DiagnosisForm } from '@/components/diagnosis-form';
 import { DiagnosisResult } from '@/lib/types';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
+import { supabase } from '@/lib/supabase';
 
 export default function DiagnosisPage() {
   const [result, setResult] = useState<DiagnosisResult | null>(null);
   const router = useRouter();
 
-  const handleDiagnosisComplete = (diagnosisResult: DiagnosisResult) => {
+  const handleDiagnosisComplete = async (diagnosisResult: DiagnosisResult) => {
     setResult(diagnosisResult);
-    // 結果をLocalStorageに保存
+    
+    // Supabaseに保存
+    const { data: { session } } = await supabase.auth.getSession();
+    if (session) {
+      const { error } = await supabase
+        .from('diagnosis_results')
+        .insert([
+          { 
+            user_id: session.user.id,
+            result: diagnosisResult 
+          }
+        ]);
+      
+      if (error) {
+        console.error('Error saving diagnosis:', error);
+      }
+    }
+
+    // 結果をLocalStorageに保存 (バックアップ)
     localStorage.setItem('diagnosisResult', JSON.stringify(diagnosisResult));
   };
 
   const handleRedirect = () => {
-    // 推奨地域がある場合は物件一覧へ遷移
-    router.push('/recommendations');
+    router.push('/dashboard');
   };
+
+  // セッションチェック
+  useEffect(() => {
+    const checkSession = async () => {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (!session) {
+        router.push('/login?next=/diagnosis');
+      }
+    };
+    checkSession();
+  }, [router]);
 
   if (result) {
     return (

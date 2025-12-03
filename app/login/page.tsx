@@ -18,7 +18,10 @@ export default function AuthForm() {
     } = supabase.auth.onAuthStateChange(async (event, session) => {
       if (session) {
         console.log("ログイン検知:", session.user.email);
-        router.push("/"); // メインページへ
+        const params = new URLSearchParams(window.location.search);
+        const next = params.get("next") || "/";
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        router.push(next as any); 
       }
     });
 
@@ -45,7 +48,10 @@ export default function AuthForm() {
 
     if (data.session) {
       setMessage("サインアップ成功！ログイン状態です。");
-      router.push("/");
+      const params = new URLSearchParams(window.location.search);
+      const next = params.get("next") || "/";
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      router.push(next as any);
     } else {
       setMessage(
         "サインアップ成功！確認メールを開くと自動的にログインします。"
@@ -75,7 +81,10 @@ export default function AuthForm() {
 
     if (data.session) {
       setMessage("ログイン成功！");
-      router.push("/");
+      const params = new URLSearchParams(window.location.search);
+      const next = params.get("next") || "/";
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      router.push(next as any);
     }
   };
 

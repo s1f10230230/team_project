@@ -31,42 +31,44 @@ export default function Home() {
   }, []);
 
   const navItems = [
-    { name: "Home", link: "/", icon: <HomeIcon className="h-4 w-4 text-muted-foreground" /> },
-    { name: "Listings", link: "/listings", icon: <Search className="h-4 w-4 text-muted-foreground" /> },
-    { name: "Favorites", link: "/favorites", icon: <Heart className="h-4 w-4 text-muted-foreground" /> },
+    { name: "Home", link: "/", icon: <HomeIcon className="h-4 w-4 text-neutral-500 dark:text-white" /> },
+    { name: "Listings", link: "/listings", icon: <Search className="h-4 w-4 text-neutral-500 dark:text-white" /> },
+    { name: "Favorites", link: "/favorites", icon: <Heart className="h-4 w-4 text-neutral-500 dark:text-white" /> },
   ];
 
   if (session) {
-    navItems.push({ name: "Dashboard", link: "/dashboard", icon: <User className="h-4 w-4 text-muted-foreground" /> });
+    navItems.push({ name: "Dashboard", link: "/dashboard", icon: <User className="h-4 w-4 text-neutral-500 dark:text-white" /> });
   }
 
   return (
-    <main className="min-h-screen bg-background text-foreground">
+    <main className="min-h-screen bg-background text-foreground selection:bg-primary/20">
       <FloatingNav navItems={navItems} />
       <HeroSection />
       
       <div className="max-w-7xl mx-auto px-4 py-20">
-        <h2 className="text-3xl font-bold text-center mb-10 text-foreground">Features</h2>
-        <BentoGrid>
+        <h2 className="text-3xl md:text-5xl font-bold text-center mb-16 text-foreground tracking-tight">
+          Features
+        </h2>
+        <BentoGrid className="max-w-4xl mx-auto">
           <BentoGridItem
             title="AIマッチング診断"
             description="ライフスタイルや希望条件から、最適な地域と物件をご提案します。"
-            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-secondary" />}
-            icon={<Search className="h-4 w-4 text-muted-foreground" />}
+            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br from-neutral-200 to-neutral-100 dark:from-neutral-900 dark:to-neutral-800" />}
+            icon={<Search className="h-4 w-4 text-neutral-500" />}
             className="md:col-span-1"
           />
           <BentoGridItem
             title="物件を探す"
             description="全国の空き家物件から、条件に合う物件を検索できます。"
-            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-secondary" />}
-            icon={<HomeIcon className="h-4 w-4 text-muted-foreground" />}
+            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br from-neutral-200 to-neutral-100 dark:from-neutral-900 dark:to-neutral-800" />}
+            icon={<HomeIcon className="h-4 w-4 text-neutral-500" />}
             className="md:col-span-1"
           />
           <BentoGridItem
             title="お気に入り"
             description="気になる物件を保存して、じっくり比較検討できます。"
-            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-secondary" />}
-            icon={<Heart className="h-4 w-4 text-muted-foreground" />}
+            header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-gradient-to-br from-neutral-200 to-neutral-100 dark:from-neutral-900 dark:to-neutral-800" />}
+            icon={<Heart className="h-4 w-4 text-neutral-500" />}
             className="md:col-span-1"
           />
         </BentoGrid>

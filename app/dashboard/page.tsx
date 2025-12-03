@@ -11,20 +11,36 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 export default function Dashboard() {
   const [session, setSession] = useState<Session | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const [diagnosisHistory, setDiagnosisHistory] = useState<any[]>([]);
   const router = useRouter();
 
   useEffect(() => {
-    const fetchSession = async () => {
+    const fetchSessionAndData = async () => {
       const { data } = await supabase.auth.getSession();
       if (!data.session) {
         router.push("/login");
+        return;
       }
       setSession(data.session);
+
+      // 診断結果を取得
+      const { data: results } = await supabase
+        .from('diagnosis_results')
+        .select('*')
+        .eq('user_id', data.session.user.id)
+        .order('created_at', { ascending: false });
+      
+      if (results) {
+        setDiagnosisHistory(results);
+      }
     };
-    fetchSession();
+    fetchSessionAndData();
   }, [router]);
 
   if (!session) return <div>Loading...</div>;
+
+  const latestDiagnosis = diagnosisHistory[0]?.result;
 
   return (
     <div className="min-h-screen bg-background py-20 px-4">
@@ -45,8 +61,26 @@ export default function Dashboard() {
             description="View your favorite properties."
             header={<div className="flex flex-1 w-full h-full min-h-[6rem] rounded-xl bg-secondary" />}
             icon={<Heart className="h-4 w-4 text-muted-foreground" />}
-            className="md:col-span-2"
+            className="md:col-span-1"
           />
+           {latestDiagnosis && (
+            <BentoGridItem
+              title="Latest Diagnosis"
+              description={`Lifestyle: ${latestDiagnosis.lifestyle.join(", ")}`}
+              header={
+                <div className="p-4 bg-secondary/50 rounded-xl h-full">
+                    <p className="font-semibold">Recommended Regions:</p>
+                    <ul className="list-disc list-inside text-sm text-muted-foreground">
+                        {latestDiagnosis.preferredRegions.map((r: string) => (
+                            <li key={r}>{r}</li>
+                        ))}
+                    </ul>
+                </div>
+              }
+              icon={<Heart className="h-4 w-4 text-muted-foreground" />}
+              className="md:col-span-1"
+            />
+          )}
         </BentoGrid>
       </div>
     </div>
