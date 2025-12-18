@@ -1,128 +1,145 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { Property, Region } from '@/lib/types';
-import { useFavorites } from '@/hooks/use-favorites';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { Button } from '@/components/ui/button';
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 
+type Property = {
+  id: string;
+  title: string;
+  price: number;
+  address?: string;
+  image_url?: string;
+};
+
+type Region = {
+  id: string;
+  name: string;
+};
+
+const PAGE_SIZE = 12;
+const PAGE_RANGE = 2;
+
 export function ListingsExplorer() {
-  const [properties, setProperties] = useState<Property[]>([]);
   const [regions, setRegions] = useState<Region[]>([]);
-  const [filter, setFilter] = useState({
-    prefecture: '',
-    maxPrice: 50000000,
-    minRooms: 0,
-  });
-  const { toggleFavorite, isFavorite } = useFavorites();
+  const [region, setRegion] = useState<string>('');
+  const [properties, setProperties] = useState<Property[]>([]);
+  const [page, setPage] = useState(1);
 
+  /* ---------------- 地域一覧を取得 ---------------- */
   useEffect(() => {
-    // データを読み込む
-    fetch('/data/properties.json')
-      .then((res) => res.json())
-      .then((data) => setProperties(data));
-
-    fetch('/data/regions.json')
-      .then((res) => res.json())
-      .then((data) => setRegions(data));
+    fetch('/scraped/index.json')
+      .then(res => res.json())
+      .then((data: Region[]) => {
+        setRegions(data);
+        if (data.length > 0) {
+          setRegion(data[0].id);
+        }
+      });
   }, []);
 
-  const filteredProperties = properties.filter((property) => {
-    if (filter.prefecture && property.prefecture !== filter.prefecture) {
-      return false;
-    }
-    if (property.price > filter.maxPrice) {
-      return false;
-    }
-    return true;
-  });
+  /* ---------------- 地域変更時に物件取得 ---------------- */
+  useEffect(() => {
+    if (!region) return;
 
-  const getRegionName = (regionId: string) => {
-    const region = regions.find((r) => r.id === regionId);
-    return region ? region.name : '';
-  };
+    fetch(`/scraped/${region}.json`)
+      .then(res => res.json())
+      .then((data: Property[]) => {
+        setProperties(data);
+        setPage(1);
+      });
+  }, [region]);
 
+  /* ---------------- ページング計算 ---------------- */
+  const totalPages = Math.ceil(properties.length / PAGE_SIZE);
+  const start = (page - 1) * PAGE_SIZE;
+  const paged = properties.slice(start, start + PAGE_SIZE);
+
+  const startPage = Math.max(1, page - PAGE_RANGE);
+  const endPage = Math.min(totalPages, page + PAGE_RANGE);
+
+  /* ---------------- UI ---------------- */
   return (
-    <div className="container mx-auto p-4">
-      <div className="mb-6">
-        <h2 className="text-2xl font-bold mb-4">物件を探す</h2>
-        <div className="flex gap-4 mb-4">
-          <select
-            className="px-3 py-2 border rounded-lg"
-            value={filter.prefecture}
-            onChange={(e) => setFilter({ ...filter, prefecture: e.target.value })}
-          >
-            <option value="">すべての地域</option>
-            <option value="長野県">長野県</option>
-            <option value="千葉県">千葉県</option>
-            <option value="岡山県">岡山県</option>
-          </select>
-          <select
-            className="px-3 py-2 border rounded-lg"
-            value={filter.maxPrice}
-            onChange={(e) => setFilter({ ...filter, maxPrice: Number(e.target.value) })}
-          >
-            <option value={5000000}>500万円以下</option>
-            <option value={10000000}>1000万円以下</option>
-            <option value={20000000}>2000万円以下</option>
-            <option value={50000000}>すべての価格</option>
-          </select>
-        </div>
+    <div className="space-y-6">
+      {/* 地域選択 */}
+      <div className="flex items-center gap-4">
+        <label className="font-semibold">地域</label>
+        <select
+          value={region}
+          onChange={(e) => setRegion(e.target.value)}
+          className="border rounded px-3 py-1"
+        >
+          {regions.map(r => (
+            <option key={r.id} value={r.id}>
+              {r.name}
+            </option>
+          ))}
+        </select>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {filteredProperties.map((property) => (
-          <Card key={property.id} className="overflow-hidden">
-            <div className="h-48 bg-gray-300">
-              {/* 画像プレースホルダー */}
-              <div className="h-full flex items-center justify-center text-gray-600">
-                物件画像
-              </div>
+      {/* 物件一覧 */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {paged.map(p => (
+          <div key={p.id} className="border rounded overflow-hidden">
+            <div className="h-48 w-full overflow-hidden">
+              {p.image_url ? (
+                <img
+                  src={p.image_url}
+                  alt={p.title}
+                  className="w-full h-full object-cover"
+                />
+              ) : (
+                <div className="h-full flex items-center justify-center bg-gray-300 text-gray-600">
+                  物件画像なし
+                </div>
+              )}
             </div>
-            <CardHeader>
-              <CardTitle className="text-lg">{property.title}</CardTitle>
-              <p className="text-sm text-gray-600">{getRegionName(property.regionId)}</p>
-            </CardHeader>
-            <CardContent>
-              <div className="space-y-2">
-                <div className="flex justify-between">
-                  <span className="font-bold text-xl">
-                    ¥{property.price.toLocaleString()}
-                  </span>
-                  <Badge>{property.condition}</Badge>
-                </div>
-                <div className="text-sm text-gray-600">
-                  <p>{property.rooms} / {property.buildingArea}㎡</p>
-                  <p>築{property.age}年 / {property.structure}</p>
-                </div>
-                <div className="flex flex-wrap gap-1">
-                  {property.features.slice(0, 3).map((feature, index) => (
-                    <Badge key={index} variant="secondary" className="text-xs">
-                      {feature}
-                    </Badge>
-                  ))}
-                </div>
-                <div className="flex gap-2 mt-4">
-                  <Link href={`/listings/${property.id}`} className="flex-1">
-                    <Button className="w-full" variant="outline">
-                      詳細を見る
-                    </Button>
-                  </Link>
-                  <Button
-                    onClick={() => toggleFavorite(property.id)}
-                    variant={isFavorite(property.id) ? 'default' : 'outline'}
-                    size="icon"
-                  >
-                    ♥
-                  </Button>
-                </div>
-              </div>
-            </CardContent>
-          </Card>
+            <div className="p-4 space-y-2">
+              <h3 className="font-semibold text-lg">{p.title}</h3>
+              <p className="text-gray-600 text-sm">{p.address || '住所不明'}</p>
+              <p className="font-bold">
+                ¥{p.price?.toLocaleString() || '価格不明'}
+              </p>
+              <Link
+                href={`/listings/${p.id}`}
+                className="text-blue-600 text-sm underline"
+              >
+                詳細を見る
+              </Link>
+            </div>
+          </div>
         ))}
       </div>
+
+      {/* ページャ */}
+      {totalPages > 1 && (
+        <div className="flex justify-center items-center gap-1">
+          <button
+            disabled={page === 1}
+            onClick={() => setPage(page - 1)}
+            className="px-2 py-1 border rounded disabled:opacity-50"
+          >
+            ←
+          </button>
+
+          {Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i).map(pn => (
+            <button
+              key={pn}
+              onClick={() => setPage(pn)}
+              className={`px-3 py-1 border rounded ${pn === page ? 'bg-black text-white' : ''}`}
+            >
+              {pn}
+            </button>
+          ))}
+
+          <button
+            disabled={page === totalPages}
+            onClick={() => setPage(page + 1)}
+            className="px-2 py-1 border rounded disabled:opacity-50"
+          >
+            →
+          </button>
+        </div>
+      )}
     </div>
   );
 }
