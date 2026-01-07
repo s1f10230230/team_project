@@ -1,18 +1,18 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
 
 type Property = {
-  id: string;
-  title: string;
+  house_id: number | string;
+  _title: string;          // JSONのキーに合わせる
   price: number;
   address?: string;
   image_url?: string;
+  _detail_url?: string;    // 外部リンク
 };
 
 type Region = {
-  id: string;
+  id: string;   // ← 地域は id
   name: string;
 };
 
@@ -21,7 +21,7 @@ const PAGE_RANGE = 2;
 
 export function ListingsExplorer() {
   const [regions, setRegions] = useState<Region[]>([]);
-  const [region, setRegion] = useState<string>('');
+  const [region, setRegion] = useState<string>(''); // 地域ID
   const [properties, setProperties] = useState<Property[]>([]);
   const [page, setPage] = useState(1);
 
@@ -34,7 +34,8 @@ export function ListingsExplorer() {
         if (data.length > 0) {
           setRegion(data[0].id);
         }
-      });
+      })
+      .catch(err => console.error('地域一覧の取得に失敗:', err));
   }, []);
 
   /* ---------------- 地域変更時に物件取得 ---------------- */
@@ -46,7 +47,8 @@ export function ListingsExplorer() {
       .then((data: Property[]) => {
         setProperties(data);
         setPage(1);
-      });
+      })
+      .catch(err => console.error('物件一覧の取得に失敗:', err));
   }, [region]);
 
   /* ---------------- ページング計算 ---------------- */
@@ -79,12 +81,12 @@ export function ListingsExplorer() {
       {/* 物件一覧 */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {paged.map(p => (
-          <div key={p.id} className="border rounded overflow-hidden">
+          <div key={String(p.house_id)} className="border rounded overflow-hidden">
             <div className="h-48 w-full overflow-hidden">
               {p.image_url ? (
                 <img
                   src={p.image_url}
-                  alt={p.title}
+                  alt={p._title}
                   className="w-full h-full object-cover"
                 />
               ) : (
@@ -94,17 +96,25 @@ export function ListingsExplorer() {
               )}
             </div>
             <div className="p-4 space-y-2">
-              <h3 className="font-semibold text-lg">{p.title}</h3>
+              <h3 className="font-semibold text-lg">{p._title}</h3>
               <p className="text-gray-600 text-sm">{p.address || '住所不明'}</p>
               <p className="font-bold">
                 ¥{p.price?.toLocaleString() || '価格不明'}
               </p>
-              <Link
-                href={`/listings/${p.id}`}
-                className="text-blue-600 text-sm underline"
-              >
-                詳細を見る
-              </Link>
+
+              {/* ★ 外部サイトへ遷移 */}
+              {p._detail_url ? (
+                <a
+                  href={p._detail_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 text-sm underline"
+                >
+                  詳細を見る（公式）
+                </a>
+              ) : (
+                <span className="text-gray-400 text-sm">詳細URLなし</span>
+              )}
             </div>
           </div>
         ))}
