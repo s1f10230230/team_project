@@ -1,23 +1,26 @@
 "use client";
 
-import { Geist, Geist_Mono } from "next/font/google";
-import Link from "next/link";
+import { Outfit, Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
 import { useEffect, useState } from "react";
 import { createClient, Session } from "@supabase/supabase-js";
+import { FavoritesProvider } from '@/components/favorites-context';
+import { FloatingNavbar } from "@/components/ui/floating-navbar"; // Import FloatingNavbar
 
 const SUPABASE_URL = "https://uawjbioilmhuuybnlhcv.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVhd2piaW9pbG1odXV5Ym5saGN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjExMDA5NjUsImV4cCI6MjA3NjY3Njk2NX0.aX9wqc7j1AYW3-Oz311GiH5eckAbR47Cuwy68pWbSqs";
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const outfit = Outfit({
   subsets: ["latin"],
+  variable: "--font-heading",
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
+const notoSansJP = Noto_Sans_JP({
   subsets: ["latin"],
+  variable: "--font-sans",
+  display: "swap",
 });
 
 export default function RootLayout({
@@ -58,51 +61,17 @@ export default function RootLayout({
         />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${outfit.variable} ${notoSansJP.variable} font-sans antialiased`}
       >
-        <header className="border-b">
-          <nav className="container mx-auto px-4 py-4">
-            <div className="flex items-center justify-between">
-              <Link href="/" className="text-xl font-bold">
-                空き家マッチング
-              </Link>
-              <div className="flex gap-6 items-center">
-                <Link href="/diagnosis" className="hover:text-blue-600">
-                  診断
-                </Link>
-                <Link href="/listings" className="hover:text-blue-600">
-                  物件一覧
-                </Link>
-                <Link href="/recommendations" className="hover:text-blue-600">
-                  おすすめ
-                </Link>
-                <Link href="/favorites" className="hover:text-blue-600">
-                  お気に入り
-                </Link>
-
-                {/* ログイン状態で表示切替 */}
-                {session ? (
-                  <button
-                    onClick={handleLogout}
-                    className="hover:text-red-600 font-semibold"
-                  >
-                    ログアウト
-                  </button>
-                ) : (
-                  <Link href="/login" className="hover:text-blue-600">
-                    ログイン
-                  </Link>
-                )}
-              </div>
+        <FavoritesProvider>
+          <FloatingNavbar session={session} onLogout={handleLogout} />
+          <main className="min-h-screen pt-20">{children}</main> {/* pt-20 added for floating nav space */}
+          <footer className="border-t mt-12 bg-white/50 backdrop-blur-sm">
+            <div className="container mx-auto px-4 py-8 text-center text-gray-600">
+              <p>© 2024 空き家マッチングプラットフォーム</p>
             </div>
-          </nav>
-        </header>
-        <main className="min-h-screen">{children}</main>
-        <footer className="border-t mt-12">
-          <div className="container mx-auto px-4 py-8 text-center text-gray-600">
-            <p>© 2024 空き家マッチングプラットフォーム - MVP Demo</p>
-          </div>
-        </footer>
+          </footer>
+        </FavoritesProvider>
       </body>
     </html>
   );

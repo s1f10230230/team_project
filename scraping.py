@@ -7,7 +7,7 @@
         - houses.json 形式で保存
 
         使い方:
-        python scrape_akiya.py --pref 08 --out houses.json
+        python scraping.py --pref 08 --out houses.json
 
         依存:
         pip install requests beautifulsoup4 lxml
@@ -221,9 +221,13 @@
         def main():
         ap = argparse.ArgumentParser(description="AtHome 空き家バンク スクレイパ")
         ap.add_argument("--pref", required=True, help="都道府県コード（例: 茨城=08）")
-        ap.add_argument("--out", default="houses.json", help="出力 JSON パス")
+        ap.add_argument("--out", default=None, help="出力 JSON パス (未指定時は houses_{pref}.json)")
         ap.add_argument("--delay", type=float, default=1.0, help="ページ間スリープ秒")
         args = ap.parse_args()
+
+        # 出力ファイル名が未指定の場合、prefコードを含めた名前にする
+        if args.out is None:
+        args.out = f"houses_{args.pref}.json"
 
         data = crawl_pref(args.pref, delay=args.delay)
 

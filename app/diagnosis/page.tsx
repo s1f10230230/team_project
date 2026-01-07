@@ -29,7 +29,10 @@ export default function DiagnosisPage() {
         ]);
       
       if (error) {
-        console.error('Error saving diagnosis:', error);
+        console.error('Error saving diagnosis details:', error);
+        console.error('Error message:', error.message);
+        console.error('Error details:', error.details);
+        console.error('Error hint:', error.hint);
       }
     }
 

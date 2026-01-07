@@ -12,7 +12,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/42651",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と便利さが共存する土地",
+      "ai_description": "三重県四日市市稲葉町に位置する145.61㎡の売土地。都市と自然が調和した理想的な環境で、家庭菜園や趣味のスペースにも最適です。手頃な価格で新しい生活を始めませんか。",
+      "ai_tags": [
+        "売土地",
+        "四日市",
+        "自然",
+        "家庭菜園",
+        "便利な立地"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 3
+      }
     }
   },
   {
@@ -28,7 +45,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42482",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "海と山に囲まれた田舎の家",
+      "ai_description": "三重県紀北町に位置する、自然豊かな環境の戸建て住宅。広がる海と山の景色を楽しみながら、落ち着いた田舎暮らしを実現できます。59年の歴史を持つこの家で、新しい生活を始めませんか。",
+      "ai_tags": [
+        "田舎暮らし",
+        "自然豊か",
+        "海近",
+        "家庭菜園",
+        "リノベーション"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 4,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 4
+      }
     }
   },
   {
@@ -44,7 +78,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42460",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然満喫！田舎の隠れ家",
+      "ai_description": "三重県紀北町に位置する46年の歴史を持つ戸建て。118.41m²の広々とした空間で、家庭菜園や自然を楽しむのに最適です。静かな環境で、心豊かな生活を始めませんか。",
+      "ai_tags": [
+        "田舎暮らし",
+        "家庭菜園",
+        "自然豊か",
+        "リノベーション",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 3,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -60,7 +111,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42458",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共に暮らす、古民家の魅力",
+      "ai_description": "三重県紀北町に位置するこの古民家は、自然に囲まれた落ち着いた環境で、家庭菜園やDIYが楽しめます。手頃な価格で新しい暮らしを始めませんか？",
+      "ai_tags": [
+        "古民家",
+        "自然",
+        "家庭菜園",
+        "DIY",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 5
+      }
     }
   },
   {
@@ -76,7 +144,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42456",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然豊かな郊外の快適空間",
+      "ai_description": "紀北町東長島に位置する、家庭菜園や自然を楽しむのに最適な物件です。47年の歴史を持つ売戸建で、のんびりとした暮らしを実現できます。",
+      "ai_tags": [
+        "自然",
+        "家庭菜園",
+        "郊外",
+        "静かな環境",
+        "古民家"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 3,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -92,7 +177,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42455",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共に生きる、田舎の魅力",
+      "ai_description": "三重県紀北町古里に位置する、広々116.75㎡の戸建住宅。自然豊かな環境で、家庭菜園やアウトドアを楽しむことができます。静かな生活を求める方に最適です。",
+      "ai_tags": [
+        "田舎暮らし",
+        "自然豊か",
+        "家庭菜園",
+        "静かな環境",
+        "リノベーション"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 2,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -108,7 +210,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/42494",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と便利さが共存する土地",
+      "ai_description": "四日市市小古曽に位置する132平方メートルの売土地。周囲には自然が広がりつつ、都市の利便性も兼ね備えた理想の環境です。",
+      "ai_tags": [
+        "売土地",
+        "四日市",
+        "自然",
+        "便利",
+        "家庭菜園"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 4,
+        "parenting": 3,
+        "diy": 3
+      }
     }
   },
   {
@@ -124,7 +243,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/42422",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共に過ごす理想の土地",
+      "ai_description": "三重県四日市市桜台に位置する広々とした売土地。理想のマイホームを実現するための素晴らしい環境です。自然を感じながら、家庭菜園やDIYにも最適な物件です。",
+      "ai_tags": [
+        "売土地",
+        "家庭菜園",
+        "自然環境",
+        "DIY",
+        "静かな暮らし"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -140,7 +276,24 @@
       "_pref_government": "桑名市",
       "_type": "売戸建",
       "_detail_url": "https://kuwana-c24205.akiya-athome.jp/bukken/detail/buy/42338",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然豊かな田舎の家",
+      "ai_description": "三重県桑名市の静かな多度町に位置する、152.85m2の広々とした戸建て。自然に囲まれた環境で、家庭菜園やDIYを楽しむことができます。",
+      "ai_tags": [
+        "田舎",
+        "家庭菜園",
+        "DIY",
+        "広々",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -156,7 +309,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/42080",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共に暮らす古民家",
+      "ai_description": "紀北町の静かな環境に佇む、49年の歴史を持つ戸建て。広い庭で家庭菜園も楽しめ、自然に囲まれた生活が実現できます。",
+      "ai_tags": [
+        "古民家",
+        "家庭菜園",
+        "静かな環境",
+        "自然",
+        "リノベーション"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 4
+      }
     }
   },
   {
@@ -172,7 +342,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/42066",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然豊かな土地で夢を実現！",
+      "ai_description": "三重県四日市市蔵町の売土地。99.82㎡の広さで、家庭菜園やDIYに最適な環境です。自然を感じられる場所で、新たなライフスタイルを楽しみましょう。",
+      "ai_tags": [
+        "売土地",
+        "家庭菜園",
+        "自然",
+        "DIY",
+        "四日市市"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 3,
+        "diy": 5
+      }
     }
   },
   {
@@ -188,7 +375,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/41487",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然豊かな紀北町の家",
+      "ai_description": "三重県紀北町、自然に囲まれた静かな環境で、広々とした129㎡の戸建て。家庭菜園やアウトドアを楽しむのに最適です。",
+      "ai_tags": [
+        "自然",
+        "家庭菜園",
+        "静かな環境",
+        "広々",
+        "アウトドア"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 3,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 3
+      }
     }
   },
   {
@@ -204,7 +408,23 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/41486",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然に囲まれた静かな家",
+      "ai_description": "三重県紀北町に位置する、静かな環境の売戸建です。自然豊かな地域で、家庭菜園やアウトドアアクティビティを楽しめます。",
+      "ai_tags": [
+        "自然",
+        "田舎",
+        "家庭菜園",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 3,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 3
+      }
     }
   },
   {
@@ -220,7 +440,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/41372",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "理想の田舎暮らし、始めませんか？",
+      "ai_description": "三重県四日市市中野町の広々とした土地で、農業や家庭菜園を楽しむ理想的な環境が整っています。自然豊かな立地で、あなたの夢の住まいを実現しましょう。",
+      "ai_tags": [
+        "田舎暮らし",
+        "家庭菜園",
+        "自然豊か",
+        "広々土地",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 3
+      }
     }
   },
   {
@@ -236,7 +473,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/41256",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "理想の土地で夢を育てよう",
+      "ai_description": "三重県四日市市桜台に位置する239.8㎡の売土地。家庭菜園やDIYに最適な広さで、自然に囲まれた静かな環境。新たな生活のスタートにぴったりの場所です。",
+      "ai_tags": [
+        "売土地",
+        "家庭菜園",
+        "静かな環境",
+        "DIY向き",
+        "自然豊か"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -252,7 +506,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/40685",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と都市が融合した理想の土地",
+      "ai_description": "四日市市川原町の93.07㎡の売土地です。自然豊かな環境で、家庭菜園やDIYにも最適。都市の利便性も兼ね備えた魅力的な場所です。",
+      "ai_tags": [
+        "売土地",
+        "自然",
+        "家庭菜園",
+        "都市近郊",
+        "DIY"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 3,
+        "parenting": 3,
+        "diy": 4
+      }
     }
   },
   {
@@ -268,7 +539,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/40523",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と都市、両方を楽しむ土地",
+      "ai_description": "三重県四日市市住吉町の売土地。179.35㎡の広さで、自然環境と都市の利便性が共存。理想的な家庭菜園やDIYの可能性も広がります。",
+      "ai_tags": [
+        "土地",
+        "自然",
+        "便利",
+        "家庭菜園",
+        "DIY"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 4,
+        "convenience": 4,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -284,7 +572,24 @@
       "_pref_government": "松阪市",
       "_type": "売戸建",
       "_detail_url": "https://matsusaka-c24204.akiya-athome.jp/bukken/detail/buy/40351",
-      "_description": "・法令等制限:近隣商業地域・床面積及び土地面積は登記簿情報に基づきます。・2階室内の広範囲で雨染みが見受けられます。・倉庫等の一部建物は未登記です。"
+      "_description": "・法令等制限:近隣商業地域・床面積及び土地面積は登記簿情報に基づきます。・2階室内の広範囲で雨染みが見受けられます。・倉庫等の一部建物は未登記です。",
+      "ai_catchphrase": "歴史ある家で新しい生活を！",
+      "ai_description": "三重県松阪市に位置する52年経過した戸建て。広さ83.89㎡で、静かな環境にあり、家庭菜園やDIYの可能性も。リノベーションで自分好みに仕上げられます。",
+      "ai_tags": [
+        "戸建て",
+        "リノベーション",
+        "家庭菜園",
+        "静かな環境",
+        "歴史ある家"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 3,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -300,7 +605,24 @@
       "_pref_government": "桑名市",
       "_type": "売戸建",
       "_detail_url": "https://kuwana-c24205.akiya-athome.jp/bukken/detail/buy/38983",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共に暮らす、心安らぐ家",
+      "ai_description": "三重県桑名市多度町に佇む、57年の歴史を持つ戸建て。広々とした212.52m2の敷地は、家庭菜園やDIYにも最適。自然豊かな環境で、家族と共に充実した生活を楽しめます。",
+      "ai_tags": [
+        "戸建",
+        "自然豊か",
+        "家庭菜園",
+        "DIY",
+        "リノベーション"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 5,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -316,7 +638,24 @@
       "_pref_government": "四日市市",
       "_type": "売土地",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/40184",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "理想のマイホーム用地、四日市市！",
+      "ai_description": "三重県四日市市ときわに位置する132.23㎡の売土地。静かな環境で、家庭菜園やDIYにも最適。都市部へのアクセスも良好で、生活利便性も抜群！",
+      "ai_tags": [
+        "売土地",
+        "家庭菜園",
+        "DIY",
+        "アクセス良好",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 3,
+        "convenience": 4,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -332,7 +671,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/40077",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "歴史ある家で田舎暮らしを満喫",
+      "ai_description": "三重県紀北町の魅力的な物件。102年の歴史を持ち、広々とした庭で家庭菜園や自然を楽しめます。静かな環境で、家族との時間を大切にできる場所です。",
+      "ai_tags": [
+        "田舎暮らし",
+        "家庭菜園",
+        "歴史的物件",
+        "静かな環境",
+        "家族向け"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 3,
+        "nature": 4,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -348,7 +704,24 @@
       "_pref_government": "桑名市",
       "_type": "売戸建",
       "_detail_url": "https://kuwana-c24205.akiya-athome.jp/bukken/detail/buy/39298",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共生する古民家",
+      "ai_description": "三重県桑名市の長島町に位置する、築50年の古民家。広がる自然に囲まれた環境で、家庭菜園やDIYが楽しめます。家族でのんびり過ごすのに最適です。",
+      "ai_tags": [
+        "古民家",
+        "家庭菜園",
+        "自然",
+        "DIY",
+        "家族向け"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 2,
+        "nature": 5,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -364,7 +737,24 @@
       "_pref_government": "伊賀市",
       "_type": "売戸建",
       "_detail_url": "https://iga-c24216.akiya-athome.jp/bukken/detail/buy/39402",
-      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=580内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29"
+      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=580内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29",
+      "ai_catchphrase": "自然と共に暮らす、理想の家",
+      "ai_description": "三重県伊賀市に位置する広々とした戸建て。家庭菜園やDIYに最適な環境で、自然を満喫しながら快適な生活ができます。",
+      "ai_tags": [
+        "自然",
+        "家庭菜園",
+        "DIY",
+        "広々",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 1,
+        "nature": 4,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -380,7 +770,24 @@
       "_pref_government": "四日市市",
       "_type": "売戸建",
       "_detail_url": "https://yokkaichi-c24202.akiya-athome.jp/bukken/detail/buy/39709",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "歴史ある家で新生活を！",
+      "ai_description": "四日市市小古曽に位置する、69年の歴史を持つ戸建て。静かな環境で、家庭菜園やDIYを楽しむのに最適です。手頃な価格で新しい生活を始めませんか。",
+      "ai_tags": [
+        "戸建て",
+        "DIY",
+        "静かな環境",
+        "家庭菜園",
+        "歴史的物件"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 3,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -396,7 +803,24 @@
       "_pref_government": "伊賀市",
       "_type": "売戸建",
       "_detail_url": "https://iga-c24216.akiya-athome.jp/bukken/detail/buy/39400",
-      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=577内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29"
+      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=577内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29",
+      "ai_catchphrase": "自然と共に生きる、理想の家",
+      "ai_description": "三重県伊賀市に位置する41年の歴史を持つ戸建て。自然豊かな環境で、家庭菜園やDIYを楽しむことができます。静かな生活を求める方にぴったりの物件です。",
+      "ai_tags": [
+        "自然",
+        "家庭菜園",
+        "DIY",
+        "静かな環境",
+        "古民家"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 5,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -412,7 +836,24 @@
       "_pref_government": "伊賀市",
       "_type": "売戸建",
       "_detail_url": "https://iga-c24216.akiya-athome.jp/bukken/detail/buy/39318",
-      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=576内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29"
+      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=576内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29",
+      "ai_catchphrase": "自然と共に暮らす古民家",
+      "ai_description": "三重県伊賀市の静かな場所に位置する62年の古民家。広々とした庭で家庭菜園やDIYを楽しむことができます。自然豊かな環境で、家族との時間を大切にできる理想の住まいです。",
+      "ai_tags": [
+        "古民家",
+        "家庭菜園",
+        "自然豊か",
+        "DIY",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 1,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 5
+      }
     }
   },
   {
@@ -428,7 +869,24 @@
       "_pref_government": "伊賀市",
       "_type": "売戸建",
       "_detail_url": "https://iga-c24216.akiya-athome.jp/bukken/detail/buy/39223",
-      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=564内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29"
+      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=564内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29",
+      "ai_catchphrase": "自然に囲まれた広々戸建て",
+      "ai_description": "三重県伊賀市の広々とした279.99m2の戸建て。43年経過した味わい深い家で、家庭菜園やDIYを楽しむのに最適です。自然に囲まれた静かな環境で、家族との時間を大切にできます。",
+      "ai_tags": [
+        "戸建て",
+        "自然豊か",
+        "DIY",
+        "家庭菜園",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 5,
+        "ocean": 1,
+        "nature": 4,
+        "convenience": 2,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {
@@ -444,7 +902,24 @@
       "_pref_government": "北牟婁郡紀北町",
       "_type": "売戸建",
       "_detail_url": "https://kihoku-t24543.akiya-athome.jp/bukken/detail/buy/39431",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "自然と共生する古民家",
+      "ai_description": "紀北町の静かな環境に佇む68年の歴史を持つ古民家。広々とした庭で家庭菜園やDIYに挑戦し、自然を満喫できる理想の住まいです。",
+      "ai_tags": [
+        "古民家",
+        "家庭菜園",
+        "自然",
+        "DIY",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 3,
+        "nature": 5,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 5
+      }
     }
   },
   {
@@ -460,7 +935,24 @@
       "_pref_government": "桑名郡木曽岬町",
       "_type": "売戸建",
       "_detail_url": "https://kisosaki-t24303.akiya-athome.jp/bukken/detail/buy/39250",
-      "_description": ""
+      "_description": "",
+      "ai_catchphrase": "田舎で叶えるスローライフ",
+      "ai_description": "三重県木曽岬町の静かな環境で、41年の歴史を持つ戸建て住宅。広々とした庭で家庭菜園やDIYを楽しみながら、自然に囲まれた生活を満喫できます。",
+      "ai_tags": [
+        "田舎暮らし",
+        "家庭菜園",
+        "DIY",
+        "自然",
+        "静かな環境"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 4,
+        "convenience": 2,
+        "parenting": 3,
+        "diy": 4
+      }
     }
   },
   {
@@ -476,7 +968,24 @@
       "_pref_government": "伊賀市",
       "_type": "売戸建",
       "_detail_url": "https://iga-c24216.akiya-athome.jp/bukken/detail/buy/39155",
-      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=555内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29"
+      "_description": "物件の詳細はこちら（バーチャル内覧あり）https://iga-akiyabank.com/bukken/detail.php?no=555内覧をご希望の場合は、空き家バンクへの利用者登録が必要です。＜登録はこちらから＞https://iga-akiyabank.com/akiyabank/?page_id=29",
+      "ai_catchphrase": "自然と共に暮らす、理想の家",
+      "ai_description": "三重県伊賀市小田町に位置する47年の歴史を持つ戸建て。広々とした庭で家庭菜園やBBQが楽しめ、自然豊かな環境で心安らぐ生活を実現。快適な暮らしを提供します。",
+      "ai_tags": [
+        "戸建",
+        "家庭菜園",
+        "自然豊か",
+        "静かな環境",
+        "リノベーション可"
+      ],
+      "ai_scores": {
+        "farming": 4,
+        "ocean": 1,
+        "nature": 5,
+        "convenience": 3,
+        "parenting": 4,
+        "diy": 4
+      }
     }
   },
   {

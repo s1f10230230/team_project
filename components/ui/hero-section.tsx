@@ -1,61 +1,84 @@
-import React, { useEffect, useState } from "react";
-import { createClient, Session } from "@supabase/supabase-js";
+"use client";
 
-const SUPABASE_URL = "https://uawjbioilmhuuybnlhcv.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVhd2piaW9pbG1odXV5Ym5saGN2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjExMDA5NjUsImV4cCI6MjA3NjY3Njk2NX0.aX9wqc7j1AYW3-Oz311GiH5eckAbR47Cuwy68pWbSqs";
-const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
+import { Sparkles, Search } from "lucide-react";
+import { motion } from "framer-motion";
 
 export function HeroSection() {
-  const [session, setSession] = useState<Session | null>(null);
-
-  useEffect(() => {
-    const fetchSession = async () => {
-      const { data } = await supabase.auth.getSession();
-      setSession(data.session);
-    };
-    fetchSession();
-  }, []);
   return (
-    <div className="relative h-[40rem] w-full flex items-center justify-center overflow-hidden bg-background">
-      {/* Background Image Placeholder or Actual Image */}
+    <div className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
+      {/* Background with Overlay */}
       <div className="absolute inset-0 z-0">
-         <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-background/90 z-10" />
-         {/* Fallback pattern if image is missing, or use the image if available */}
-         <div className="w-full h-full bg-neutral-900 object-cover opacity-50">
-            {/* <Image src="/hero-image.png" alt="Renovated Kominka" fill className="object-cover" priority /> */}
-            <div className="w-full h-full bg-[url('https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?q=80&w=2554&auto=format&fit=crop')] bg-cover bg-center" />
-         </div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-background z-10" />
+        {/* Placeholder for High-Quality Hero Image - using a gradient fallback for now, but imagine a beautiful architectural shot */}
+        <div 
+          className="w-full h-full bg-cover bg-center animate-scale-slow"
+          style={{ 
+            backgroundImage: "url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2670&auto=format&fit=crop')",
+            animation: "scaleIn 20s infinite alternate ease-in-out"
+          }} 
+        />
       </div>
 
-      <div className="relative z-20 p-4 max-w-7xl mx-auto w-full text-center">
-        <h1 className="text-5xl md:text-8xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 pb-4 animate-in fade-in zoom-in duration-1000">
-          空き家で始める <br />
-          <span className="text-primary">新しい暮らし</span>
-        </h1>
-        <p className="mt-4 font-normal text-lg md:text-xl text-neutral-300 max-w-lg mx-auto animate-in slide-in-from-bottom-4 duration-1000 delay-300">
-          AIマッチングで、あなたにぴったりの移住先を見つけます。
-          <br />
-          古民家からモダンなリノベーション物件まで。
-        </p>
-        
-        <div className="mt-8 flex justify-center gap-4 animate-in slide-in-from-bottom-8 duration-1000 delay-500">
-            <button className="px-8 py-3 rounded-full bg-primary text-primary-foreground font-semibold hover:bg-primary/90 transition-all shadow-lg shadow-primary/20">
-                物件を探す
-            </button>
-            <button 
-                onClick={() => {
-                    if (session) {
-                        window.location.href = "/diagnosis";
-                    } else {
-                        window.location.href = "/login?next=/diagnosis";
-                    }
-                }}
-                className="px-8 py-3 rounded-full bg-secondary/10 backdrop-blur-sm border border-white/10 text-white font-semibold hover:bg-white/10 transition-all"
-            >
-                診断を始める
-            </button>
-        </div>
+      {/* Content */}
+      <div className="container relative z-20 px-4 text-center">
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, ease: "easeOut" }}
+          className="max-w-4xl mx-auto space-y-8"
+        >
+          {/* Badge */}
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-white/90 text-sm font-medium mb-4 hover:bg-white/20 transition-colors cursor-default">
+            <Sparkles className="w-4 h-4 text-orange-400" />
+            <span>AIマッチングで理想の暮らしを</span>
+          </div>
+
+          {/* Heading */}
+          <h1 className="text-5xl md:text-7xl font-bold text-white tracking-tight leading-tight drop-shadow-lg">
+            空き家で始める、
+            <br />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-200 to-pink-200">
+              新しい物語
+            </span>
+          </h1>
+
+          {/* Subheading */}
+          <p className="text-lg md:text-xl text-white/80 max-w-2xl mx-auto font-light leading-relaxed drop-shadow-md">
+            古民家からリノベーション物件まで。
+            <br className="hidden md:block" />
+            あなたのライフスタイルに寄り添う「運命の一軒」をご提案します。
+          </p>
+
+          {/* CTAs */}
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-8">
+            <Link href="/diagnosis" className="w-full sm:w-auto">
+              <Button 
+                size="lg" 
+                className="w-full sm:w-auto min-w-[200px] h-14 text-base bg-gradient-to-r from-orange-500 to-pink-600 hover:from-orange-600 hover:to-pink-700 text-white rounded-full shadow-xl hover:shadow-orange-500/25 border-0"
+              >
+                <Sparkles className="mr-2 w-5 h-5" />
+                AI診断で探す
+              </Button>
+            </Link>
+            
+            <Link href="/listings" className="w-full sm:w-auto">
+              <Button 
+                size="lg" 
+                variant="outline" 
+                className="w-full sm:w-auto min-w-[200px] h-14 text-base bg-white/10 backdrop-blur-sm border-white/30 text-white hover:bg-white/20 rounded-full"
+              >
+                <Search className="mr-2 w-5 h-5" />
+                すべての物件を見る
+              </Button>
+            </Link>
+          </div>
+        </motion.div>
       </div>
+
+      {/* Decorative Bottom Fade */}
+      <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-background to-transparent z-10" />
     </div>
   );
 }
