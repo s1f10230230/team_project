@@ -1,0 +1,435 @@
+[
+  {
+    "house_id": 1,
+    "address": "東京都西多摩郡奥多摩町原",
+    "area": 250.77,
+    "age": null,
+    "structure": "売戸建",
+    "price": 4300000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD2iNV2nidmG15IEEG5ZHoxPxUy_EhY9RyvcjBPWmDBBBzeAozSJ7SM8lUPNDAiW90fK3o6EGBGfvMwQQGySJiPxTbx387G7qlvpQlJTD3R99dCtWPepg9J1",
+    "_title": "物件番号：121",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/43556",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた理想の住まい",
+    "ai_description": "東京都奥多摩町に位置する広々とした250.77m²の戸建て。自然に恵まれ、静かな環境で心豊かな生活が送れます。",
+    "ai_tags": [
+      "自然",
+      "広々",
+      "静かな環境",
+      "家庭菜園",
+      "アウトドア"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 2,
+    "address": "東京都西多摩郡奥多摩町氷川",
+    "area": 74.51,
+    "age": null,
+    "structure": "売戸建",
+    "price": 1800000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD2-VARFO6yV2Dpv5XWq0B7ZjFmOilMe-ztNmYWVqVt1urON8HTegmrmyEZ9jY0JaZiD3TxWagacoqYAT7uVcNzuThwHnjTadCfAlP9u2XdO91ms8EmuMwRt",
+    "_title": "物件番号：119",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/42371",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた隠れ家",
+    "ai_description": "奥多摩の美しい自然に囲まれた一戸建て。静かな環境でのんびりと暮らしませんか？手頃な価格で新しい生活のスタートを応援します。",
+    "ai_tags": [
+      "自然",
+      "静かな環境",
+      "一戸建て",
+      "奥多摩",
+      "隠れ家"
+    ],
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 3,
+    "address": "東京都西多摩郡奥多摩町小丹波",
+    "area": 195.5,
+    "age": null,
+    "structure": "売土地",
+    "price": 9800000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD21lYpP2EtXHzpv5XWq0B7ZjFmOilMe-zuQMqr_s0hzcnu2G149F4bjIEDMh_zqdnKLxcCv7cgkut8PN02PH75EkmWqj2bbxdbBEr7hjqMajlDj0BmeewiU",
+    "_title": "物件番号: 104",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40282",
+    "_description": "JR青梅線 古里駅 徒歩4分小学校、JA、コンビニ、郵便局等も近くに位置しており環境良好この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共に暮らす、奥多摩の土地",
+    "ai_description": "東京都奥多摩町に位置する195.5㎡の広々とした売土地。自然豊かな環境で、家庭菜園やDIYも楽しめます。静かな暮らしを求める方に最適です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "静かな環境",
+      "DIY"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 4,
+    "address": "東京都西多摩郡奥多摩町海澤",
+    "area": 92.73,
+    "age": null,
+    "structure": "売戸建",
+    "price": 3950000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1k7xFYc-l3yDpv5XWq0B7ZjFmOilMe-zsVViN_IQ83b5KH612dBCjIveLJ6EW5MR7jinABNBRy7LNELo2x8KDIc9yFA2cPnDXWpXAlFiyl90uAZHGSF7A5",
+    "_title": "物件番号：116",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40265",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた静かな家",
+    "ai_description": "奥多摩町海澤に位置する92.73m2の売戸建。自然豊かな環境で、静かな生活を楽しめます。アウトドア好きに最適。",
+    "ai_tags": [
+      "静かな生活",
+      "自然豊か",
+      "アウトドア",
+      "売戸建",
+      "奥多摩"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 5,
+    "address": "東京都西多摩郡奥多摩町氷川",
+    "area": 271.09,
+    "age": null,
+    "structure": "売土地",
+    "price": 8500000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD0757lCJnhF1jpv5XWq0B7ZjFmOilMe-zuACGs15VK-AJsLkoiQjRy2cXHQcBleCuAAiEzDbhSxvVPyp-o2frVOq_79xehNeoX6thOvouc4qFms8EmuMwRt",
+    "_title": "物件番号: 65",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40286",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた理想の土地",
+    "ai_description": "東京都西多摩郡奥多摩町氷川の売土地。広々271.09m2の土地で、農業や家庭菜園にも最適です。自然豊かな環境で、趣味やライフスタイルを楽しむ場所として理想的です。",
+    "ai_tags": [
+      "売土地",
+      "自然豊か",
+      "家庭菜園",
+      "アウトドア",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 6,
+    "address": "東京都西多摩郡奥多摩町川井",
+    "area": 3351.29,
+    "age": null,
+    "structure": "売土地",
+    "price": 17000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3co28TtUzT9JIEEG5ZHoxParIM0uPbg2L8LUtd-e9X7l_oBXecxxcP3v3nLXNTU8E5vN4mxcw3QbECvGmiKcFepNo-Mplmi1HbZrjjTYyTzwv55yKPnhvu",
+    "_title": "物件番号: 68",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40275",
+    "_description": "日当たり良好JR古里駅より徒歩圏内であるこの掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共に暮らす広大な土地",
+    "ai_description": "東京都奥多摩町の広大な土地で、自然を満喫しながら新しい生活を始めませんか。大きな庭を持ち、農業や家庭菜園に最適です。",
+    "ai_tags": [
+      "自然暮らし",
+      "広大な土地",
+      "農業向き",
+      "静かな環境",
+      "リノベーション可"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 7,
+    "address": "東京都西多摩郡奥多摩町海澤",
+    "area": 162.61,
+    "age": null,
+    "structure": "売土地",
+    "price": 2700000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3wssBv7uTp4Dpv5XWq0B7ZjFmOilMe-ztNmYWVqVt1uitEWXBx7uwCc_Bekx8A8jNqZMjM0voJg7NELo2x8KDIc9yFA2cPnDXWpXAlFiyl90uAZHGSF7A5",
+    "_title": "物件番号: 89",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40279",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共生する理想の土地",
+    "ai_description": "奥多摩町海澤に位置する162.61㎡の売土地。自然豊かな環境で、家庭菜園やアウトドアライフを満喫できます。静かな住環境で新しい生活を始めませんか。",
+    "ai_tags": [
+      "自然",
+      "田舎暮らし",
+      "家庭菜園",
+      "静かな環境",
+      "アウトドア"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 8,
+    "address": "東京都西多摩郡奥多摩町川井",
+    "area": 184.43,
+    "age": null,
+    "structure": "売土地",
+    "price": 5000000,
+    "image_url": "https://img.akiya-athome.jp/?v=YzeWPz6Lo1qoHUfjkaaABDpv5XWq0B7ZbDIHSvkXoo9QmwQLR4RbTJbwDF8Qr_9nWVbwS_MkQJ5A8-WMazFW2cnpgFkMTpcYHeWX0KVOlub0bHj-NixOzagvycDf7BQS",
+    "_title": "物件番号: 17",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40281",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共に暮らす土地",
+    "ai_description": "奥多摩の美しい自然に囲まれた売土地。家庭菜園やDIYに最適な広さで、新たなライフスタイルを実現できます。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "アウトドア"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 9,
+    "address": "東京都西多摩郡奥多摩町境",
+    "area": 102.47,
+    "age": null,
+    "structure": "売戸建",
+    "price": 2300000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1iLFKpRyfmlDpv5XWq0B7ZjFmOilMe-zu_HZrAeCgDIo0lg6BBQqldnyGFwmemLPplN2I5o9kYQLmiSx3Fo_c2q_79xehNeoUP0X4P1r5hNlms8EmuMwRt",
+    "_title": "物件番号: 79",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40280",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共に暮らす、奥多摩の家",
+    "ai_description": "東京都奥多摩町に位置する、自然豊かな環境の戸建て。広々とした102.47㎡の面積で、家庭菜園やDIYに最適な空間です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "奥多摩"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 10,
+    "address": "東京都西多摩郡奥多摩町川野",
+    "area": 114.04,
+    "age": null,
+    "structure": "売戸建",
+    "price": 3000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3-j0vZ9biqGDpv5XWq0B7ZjFmOilMe-zu3pNhkb4klfModmL4U9y3N27hGEFXyUrWaFZoA2Yh4sy1PfBt0qbiSNdP_qXpiAMyOw9S1D834NKgvycDf7BQS",
+    "_title": "物件番号: 99",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40285",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた静かな暮らし",
+    "ai_description": "東京都奥多摩町、川野に位置する114㎡の戸建て。自然豊かな環境で、家庭菜園やアウトドアを楽しむのに最適。静かな生活を求める方にぴったりです。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "静かな暮らし",
+      "アウトドア",
+      "田舎"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 11,
+    "address": "東京都西多摩郡奥多摩町氷川",
+    "area": 87.99,
+    "age": null,
+    "structure": "売戸建",
+    "price": 15000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1luRwuhwD3GBrEQab1DmCB4cRJzh2Z7LgpA-45sGkAwPy5cQkKX9vaWpfbdyPSP99b7-Hx72lRRjimVGJCjq3HPseb7GlzFG17XBUvcSYRSw1KTehBKOyS",
+    "_title": "物件番号: 52",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40289",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた静かな家",
+    "ai_description": "奥多摩町氷川に位置するこの物件は、自然豊かな環境で心安らぐ生活を提供します。家庭菜園やアウトドア活動が楽しめる理想的な場所です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "アウトドア",
+      "静かな環境",
+      "リフレッシュ"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 12,
+    "address": "東京都西多摩郡奥多摩町氷川",
+    "area": 130.9,
+    "age": null,
+    "structure": "売土地",
+    "price": 2500000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD0LDKxKjj6tXjpv5XWq0B7ZqXKZaLvvprDKt7kdTMKgfdQRFYt5yI5BzvNXlM7IdAWwx0u0jMc5baVWTIm7HEytmngKtziEfPM0PGUx0mokFA..",
+    "_title": "物件番号: 50",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売土地",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40290",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共に暮らす、理想の土地",
+    "ai_description": "東京都西多摩郡奥多摩町氷川の130.9m²の売土地。自然豊かな環境で、家庭菜園やアウトドアライフを楽しめます。静かな生活を求める方に最適です。",
+    "ai_tags": [
+      "自然",
+      "農業",
+      "アウトドア",
+      "静かな環境",
+      "土地"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 13,
+    "address": "東京都西多摩郡奥多摩町境",
+    "area": 49.58,
+    "age": null,
+    "structure": "売戸建",
+    "price": 2000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD20CLo2mALrhTpv5XWq0B7ZjFmOilMe-zuACGs15VK-AJsLkoiQjRy2DcNF4cJXSXV79kJVDStnd0uHdG9_ZSK0Bpst0H9ajSMft00DHKaBwg..",
+    "_title": "物件番号: 61",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40261",
+    "_description": "この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然と共生する奥多摩の家",
+    "ai_description": "奥多摩町境に位置するこの売戸建は、自然に囲まれた静かな環境が魅力。手頃な価格で、家庭菜園やアウトドアを楽しむのにも最適です。",
+    "ai_tags": [
+      "奥多摩",
+      "自然",
+      "家庭菜園",
+      "静かな環境",
+      "手頃な価格"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 14,
+    "address": "東京都西多摩郡奥多摩町留浦",
+    "area": 191.72,
+    "age": null,
+    "structure": "売戸建",
+    "price": 1500000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD19oeK3BuHmHjpv5XWq0B7ZjFmOilMe-zsVViN_IQ83b5KH612dBCjIU8NjRyyIgFKxaGKA9ffcfrNELo2x8KDIc9yFA2cPnDXWpXAlFiyl90uAZHGSF7A5",
+    "_title": "物件番号: 109",
+    "_pref_government": "西多摩郡奥多摩町",
+    "_type": "売戸建",
+    "_detail_url": "https://okutama-t13308.akiya-athome.jp/bukken/detail/buy/40269",
+    "_description": "JR奥多摩駅より近距離にあり利便性良い。この掲載物件は、奥多摩町のHP（空家バンク）に掲載している物件です。掲載日等は相違あり。奥多摩町空家バンクは登録が必要です。手続き等の詳細は、奥多摩町のHP参照。（申込後内覧等詳細を確認できます。",
+    "ai_catchphrase": "自然に囲まれた静かな暮らし",
+    "ai_description": "東京都奥多摩町に位置する広々191.72㎡の売戸建。自然豊かな環境で心穏やかに暮らせます。手頃な価格で新しい生活を始めませんか？",
+    "ai_tags": [
+      "自然",
+      "静かな環境",
+      "広々",
+      "手頃",
+      "田舎暮らし"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  }
+]

@@ -29,10 +29,15 @@ client = OpenAI(
 )
 
 def enrich_house(house_data):
-    # すでにAI生成済みでも、スコアがない場合は再実行したいのでチェックを緩和、あるいは強制実行
-    # ここでは強制的に更新するためにスキップロジックをコメントアウト
-    # if "ai_tags" in house_data and house_data["ai_tags"]:
-    #     return house_data
+    # Determine if we are dealing with a nested structure (from houses.json) or flat (from scraping)
+    target_data = house_data.get("data", house_data)
+
+    # Skip if already enriched (check for ai_scores to be sure)
+    # But allow force update if needed (controlled by caller usually, but here checking key existence)
+    # For full scrape, we might want to skip if already done to allow resume.
+    if "ai_scores" in target_data and target_data["ai_scores"]:
+         # print(f"Skipping {target_data.get('address')} - already enriched")
+         return house_data
 
     # プロンプト作成
     prompt = f"""
@@ -54,11 +59,11 @@ def enrich_house(house_data):
     - "ai_scores" (object with keys: farming, ocean, nature, convenience, parenting, diy. Values are int 1-5)
     
     物件情報:
-    住所: {house_data.get('address')}
-    価格: {house_data.get('price')}円
-    構造: {house_data.get('structure')}
-    面積: {house_data.get('area')}m2
-    築年数: {house_data.get('age')}年
+    住所: {target_data.get('address')}
+    価格: {target_data.get('price')}円
+    構造: {target_data.get('structure')}
+    面積: {target_data.get('area')}m2
+    築年数: {target_data.get('age')}年
     """
 
     try:
@@ -74,14 +79,14 @@ def enrich_house(house_data):
         content = response.choices[0].message.content
         ai_data = json.loads(content)
         
-        house_data["ai_catchphrase"] = ai_data.get("catchphrase", "")
-        house_data["ai_description"] = ai_data.get("description", "")
-        house_data["ai_tags"] = ai_data.get("tags", [])
-        house_data["ai_scores"] = ai_data.get("ai_scores", {})
+        target_data["ai_catchphrase"] = ai_data.get("catchphrase", "")
+        target_data["ai_description"] = ai_data.get("description", "")
+        target_data["ai_tags"] = ai_data.get("tags", [])
+        target_data["ai_scores"] = ai_data.get("ai_scores", {})
         
-        print(f"Enriched: {house_data.get('address')} -> Scores: {house_data['ai_scores']}")
+        print(f"Enriched: {target_data.get('address')} -> Scores: {target_data['ai_scores']}")
     except Exception as e:
-        print(f"Error processing {house_data.get('address')}: {e}")
+        print(f"Error processing {target_data.get('address')}: {e}")
     
     return house_data
 

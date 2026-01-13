@@ -1,0 +1,622 @@
+[
+  {
+    "house_id": 1,
+    "address": "鳥取県倉吉市上神",
+    "area": 257.2,
+    "age": null,
+    "structure": "売戸建",
+    "price": 4200000,
+    "image_url": "https://img.akiya-athome.jp/?v=fSggo0pjS9qBdHvLqFZ2PI3gLT8SqCUa8ocoMwH77Y7AgxNzC3LjOVjQQ2mwRlGnGQK5JXtg1rlihDGgGuxEr6Utb_n2ShFBqjWusZyU7C96Fj6uSG8OeP9ts273lI7K",
+    "_title": "売戸建住宅【322】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/41055",
+    "_description": "増築でキッチンが２ヶ所！おうちも駐車スペースも広々な戸建て。仲介業者 株式会社へいわ (0858)26-4421○２階建ての倉庫あり○別途近隣に家庭菜園スペースあり○庭あり○増築部あり※多少の補修必要あり⚠土地及び建物が土砂災害警戒区域及び一部土砂災害特別警戒区域に入っています。",
+    "ai_catchphrase": "自然と共存する理想の住まい",
+    "ai_description": "広々とした257.2m2の土地は、家庭菜園や趣味のアウトドアに最適。静かな環境で、自然を満喫しながら生活できます。",
+    "ai_tags": [
+      "自然",
+      "広々",
+      "家庭菜園",
+      "静かな環境",
+      "田舎暮らし"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 4,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 2,
+    "address": "鳥取県倉吉市関金町大鳥居",
+    "area": 72.0,
+    "age": 24,
+    "structure": "売戸建",
+    "price": 5000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3hIdvxtn9eIpIEEG5ZHoxPZzT_SQkBOdn8vur0ROoQ9Kx-4cHcOQ_SjFndMuzXJeNtjN_D50HUHOo0V4fZpkAh_W-72h6XY8S_D-CHgrsYSA1KTehBKOyS",
+    "_title": "売戸建【333】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/43271",
+    "_description": "高台にある庭付き平家2LDK♪※仲介業者：ツインズ（TEL:0858-23-6363）☆のどかな環境☆中学校、病院、バス停が徒歩圏内☆オール電化☆物置あり☆木造スレート葺平家建※駐車場1台※再建築の際は崖条例に抵触する可能性あり",
+    "ai_catchphrase": "自然と共に暮らす、理想の家",
+    "ai_description": "鳥取県倉吉市に位置するこの売戸建は、自然豊かな環境で心安らぐ生活を提供します。家庭菜園やアウトドアを楽しむのに最適な物件です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "静かな環境",
+      "リフォーム可",
+      "子育て"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 3,
+    "address": "鳥取県倉吉市余戸谷町",
+    "area": 76.21,
+    "age": 66,
+    "structure": "売戸建",
+    "price": 3500000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3x-_JJ6mpq0ngbUIX__eL_xUy_EhY9Ryu0bOuLIF-hngR0QiN3KySym17AzbBksKDUoPt8wwDLahk_JEkA74HwjLBOp7ot9SbJViXCihZzRHcOBkcjs501",
+    "_title": "No.335 余戸谷町（よどやちょう）",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/43846",
+    "_description": "閑静な住宅街で小学校に近いリノベーション済の住宅♪※仲介業者：アレックス（TEL：0858-23-0011）☆閑静な住宅街☆街中に近い☆小学校すぐ☆木造瓦葺平屋建※賃貸相談可（賃料：5万円/月 敷金10万円 礼金0円 保証会社必須）",
+    "ai_catchphrase": "自然に囲まれた静かな家",
+    "ai_description": "鳥取県倉吉市にある、穏やかな自然環境に恵まれた66年の歴史を持つ戸建て。家庭菜園やDIYに最適な魅力的な物件です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "歴史ある家"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 4,
+    "address": "鳥取県八頭郡八頭町徳丸上徳丸",
+    "area": 535.23,
+    "age": 53,
+    "structure": "売戸建",
+    "price": 6000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1HYxjjtM82z5IEEG5ZHoxPxUy_EhY9Rysklj2zddxTFK6rnMsy192t2g-D0OYcVRugYmRpXvx3wpREDr1H60i4DC25AOcs1Y03ld3rd9pb9wv55yKPnhvu",
+    "_title": "【VR内覧】売戸建住宅No.182",
+    "_pref_government": "八頭郡八頭町",
+    "_type": "売戸建",
+    "_detail_url": "https://yazu-t31329.akiya-athome.jp/bukken/detail/buy/44226",
+    "_description": "国道沿いの店舗兼住宅VR内覧リンク > https://spacely.co.jp/yazu-1/182",
+    "ai_catchphrase": "広大な敷地で夢の田舎暮らし",
+    "ai_description": "鳥取県八頭町の静かな環境に位置する、広々とした535.23m2の売戸建。家庭菜園やDIYにも最適な物件です。",
+    "ai_tags": [
+      "田舎暮らし",
+      "家庭菜園",
+      "広々敷地",
+      "リノベーション",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 5,
+    "address": "鳥取県東伯郡北栄町東園",
+    "area": 249.19,
+    "age": null,
+    "structure": "売戸建",
+    "price": 5000000,
+    "image_url": "https://img.akiya-athome.jp/?v=YzeWPz6Lo1rGaY0EkIT6AJIEEG5ZHoxPrdrcK22K18eVFT5S25O9RcON2VCw3f-MAOoCjLQklWF0-sZU9vmGJta_EeyvV66tCvo-cKGUXMMWYS1mK0VPNlms8EmuMwRt",
+    "_title": "売戸建住宅【242】",
+    "_pref_government": "東伯郡北栄町",
+    "_type": "売戸建",
+    "_detail_url": "https://hokuei-t31372.akiya-athome.jp/bukken/detail/buy/44032",
+    "_description": "仲介業者あり／補修不要／現状有姿にて売買／2台分の駐車スペースあり／建物登記なし／駅や学校等の主要施設がやや遠い／県道・国道付近で交通利便性良好•避難場所…150m（東園浜コミュニケーションセンター）•病院…1.3km（宮川医院）•スーパー…1.9km（東宝ストア由良店）•コンビニ…1.7km（ローソン鳥取大栄店）",
+    "ai_catchphrase": "自然に囲まれた平穏な暮らし",
+    "ai_description": "鳥取県北栄町に位置する広々とした売戸建です。自然豊かな環境で、家庭菜園やアウトドアを楽しむのに最適。静かな町で、子育てにも安心の場所です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "子育て",
+      "広々",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 3
+    }
+  },
+  {
+    "house_id": 6,
+    "address": "鳥取県東伯郡北栄町由良宿",
+    "area": 144.95,
+    "age": 42,
+    "structure": "売戸建",
+    "price": 7250000,
+    "image_url": "https://img.akiya-athome.jp/?v=My4-PvDXixS8pcMS3zHeM1Did_uSoky0Wg6MuqT7VN0eGE76_RTl55RzRw5rugtCMf_OE7O59NX5bpbBEBPF4VdvZVfT_PyCr18XX7GkhpvpwEjYQgYgvoDB7MIrfxdd",
+    "_title": "売買戸建住宅【No.239】",
+    "_pref_government": "東伯郡北栄町",
+    "_type": "売戸建",
+    "_detail_url": "https://hokuei-t31372.akiya-athome.jp/bukken/detail/buy/43734",
+    "_description": "仲介業者あり／多少の補修必要(給湯器等)／屋根瓦補修済み／賃貸交渉可能／駅やコンビニ等の主要施設が徒歩圏内／県道付近で交通至便／駐車可能台数３～4台程度•こども園…650m（由良こども園）•小学校…1.2km（大栄小学校）•中学校…1km（大栄中学校）•町役場…700m（北栄町役場大栄庁舎）•スーパー…900m（東宝ストア由良店）",
+    "ai_catchphrase": "自然と共に暮らす、穏やかな家",
+    "ai_description": "鳥取県北栄町に位置する、広々とした144.95㎡の戸建て。自然に囲まれた静かな環境で、家庭菜園やDIYを楽しむのに最適です。42年の歴史を持つこの家で、新しい生活を始めませんか？",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "リノベーション"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 7,
+    "address": "鳥取県西伯郡南部町落合",
+    "area": 102.62,
+    "age": 54,
+    "structure": "売戸建",
+    "price": 5500000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD27QdQkUo4N_pIEEG5ZHoxPxUy_EhY9RysXrbm9IitO_jiIVfbbDVARVNbmPQSuNu7KcspVigHF5C2ps8se0rtETbx387G7qlvpQlJTD3R99dCtWPepg9J1",
+    "_title": "売買物件【No.0701】落合 人気の平屋物件です",
+    "_pref_government": "西伯郡南部町",
+    "_type": "売戸建",
+    "_detail_url": "https://nanbu-t31389.akiya-athome.jp/bukken/detail/buy/43356",
+    "_description": "人気の平屋物件広い庭では家庭菜園も可能町中心部から近くて便利・南部町役場まで500m・キナルなんぶまで600m・法勝寺温泉まで300m",
+    "ai_catchphrase": "自然と共に暮らす落合の家",
+    "ai_description": "鳥取県南部町の落合に位置する54年の歴史を持つ戸建て住宅。広々とした庭で家庭菜園やDIYを楽しむことができ、自然に囲まれた穏やかな生活が待っています。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "古民家"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 8,
+    "address": "鳥取県八頭郡八頭町宮谷",
+    "area": 64.2,
+    "age": 54,
+    "structure": "売戸建",
+    "price": 4000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD0iVWrml7zK35IEEG5ZHoxPZzT_SQkBOdlX73yKfGe2vZ1aGYNEu6TjFbBOBgMq7jyKqhtO5Ze9ZCYHv1vD5F2Y_W-72h6XY8SdgKQS2cSKNg1KTehBKOyS",
+    "_title": "【VR内覧】売戸建住宅No.179",
+    "_pref_government": "八頭郡八頭町",
+    "_type": "売戸建",
+    "_detail_url": "https://yazu-t31329.akiya-athome.jp/bukken/detail/buy/43521",
+    "_description": "スーパーやコンビ二も歩いて行ける中心地のコンパクト物件VR内覧リンク > https://spacely.co.jp/yazu-1/179",
+    "ai_catchphrase": "自然と共生する古民家",
+    "ai_description": "鳥取県八頭町の54年の歴史を持つ戸建て。自然豊かな環境で、家庭菜園やDIYにも最適。静かな暮らしを楽しむのにぴったりです。",
+    "ai_tags": [
+      "古民家",
+      "自然豊か",
+      "家庭菜園",
+      "DIY",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 9,
+    "address": "鳥取県東伯郡北栄町江北",
+    "area": 310.88,
+    "age": null,
+    "structure": "売戸建",
+    "price": 1000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD2taazbYCEZ43gbUIX__eL_arIM0uPbg2Lk-YUGC80kCA_Y6iIgbgQ3sfZFqxWzCChx5kD-Z9s0NAcv6KQGsHOS0VS7ZFawbUxPnVFQ0XR3iFDj0BmeewiU",
+    "_title": "売戸建住宅【No.196】",
+    "_pref_government": "東伯郡北栄町",
+    "_type": "売戸建",
+    "_detail_url": "https://hokuei-t31372.akiya-athome.jp/bukken/detail/buy/43324",
+    "_description": "仲介業者あり／多少の補修必要（廊下等）／敷地内に倉庫兼車庫あり／2台分の駐車スペースあり／駅等の主要施設がやや遠い／農地あり（応相談）／過去に増改築歴あり•病院…2.0km（信生病院）•こども園…1.9km（北条みどりこども園）•スーパー…2.1km（ダイレックス湯梨浜店）•コンビニ…1.6km（ローソンポプラ北栄町江北店）",
+    "ai_catchphrase": "自然と暮らす、広々戸建て",
+    "ai_description": "鳥取県北栄町に位置する広々とした310.88m2の売戸建て。自然環境に恵まれ、家庭菜園やDIYにも最適です。静かな暮らしを求める方におすすめ。",
+    "ai_tags": [
+      "戸建て",
+      "自然",
+      "家庭菜園",
+      "静かな環境",
+      "DIY"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 10,
+    "address": "鳥取県鳥取市青谷町蔵内",
+    "area": 197.77,
+    "age": 57,
+    "structure": "売戸建",
+    "price": 5000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3k6AYdfcMUGzpv5XWq0B7ZjFmOilMe-zu3pNhkb4klfM4_F1LqlKq4V3qXHZvBePcdZzP-RjZANBk9Hsz5ATfRc9yFA2cPnDUD4Ray2SNCAkuAZHGSF7A5",
+    "_title": "ＪＲ山陰本線 青谷駅/車10分",
+    "_pref_government": "鳥取市",
+    "_type": "売戸建",
+    "_detail_url": "https://tottori-c31201.akiya-athome.jp/bukken/detail/buy/41827",
+    "_description": "閑静な住宅街にある8DKの家。",
+    "ai_catchphrase": "自然と共に過ごす田舎の家",
+    "ai_description": "広々とした197.77㎡の敷地に、57年の歴史を持つ家があなたを待っています。自然豊かな環境で、家庭菜園やDIYも楽しめる素敵な物件です。",
+    "ai_tags": [
+      "田舎暮らし",
+      "家庭菜園",
+      "DIY",
+      "自然",
+      "リノベーション"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 11,
+    "address": "鳥取県鳥取市立川町５丁目",
+    "area": 98.11,
+    "age": 63,
+    "structure": "売戸建",
+    "price": 8090000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1YTTVZNcOvwzpv5XWq0B7ZjFmOilMe-zsjKZRA5Gzql3pxYQJBHbEcYs0DU5JMuj9mgQYxydIqxbT4HlO-a9yUc9yFA2cPnDWlvPSho5T_hqgvycDf7BQS",
+    "_title": "バス 立川町五丁目 停歩1分",
+    "_pref_government": "鳥取市",
+    "_type": "売戸建",
+    "_detail_url": "https://tottori-c31201.akiya-athome.jp/bukken/detail/buy/41930",
+    "_description": "歓楽施設や工場が周辺に無い1種住居のエリアです。",
+    "ai_catchphrase": "歴史ある家で新生活を",
+    "ai_description": "鳥取市立川町に位置する63年の歴史を持つ戸建て。広々とした98.11㎡の敷地で、家庭菜園やDIYが楽しめる。穏やかな環境で、新しい生活を始めませんか。",
+    "ai_tags": [
+      "戸建",
+      "家庭菜園",
+      "歴史的",
+      "DIY",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 3,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 12,
+    "address": "鳥取県八頭郡八頭町中",
+    "area": 228.75,
+    "age": 85,
+    "structure": "売戸建",
+    "price": 8000000,
+    "image_url": "https://img.akiya-athome.jp/?v=fSggo0pjS9oXevtepMZdQ1m3IoVth_OcnksdaZSPFkOtJhwiTTKcc8WPlp_QgbYXSKu6exyQ2fkttGZ5ycnOn1f29j4OGi2i_7WP2b28K1BGRs55l7AxDAv55yKPnhvu",
+    "_title": "【VR内覧】売戸建住宅No.177",
+    "_pref_government": "八頭郡八頭町",
+    "_type": "売戸建",
+    "_detail_url": "https://yazu-t31329.akiya-athome.jp/bukken/detail/buy/43275",
+    "_description": "フルリノベーション済みの古民家VR内覧リンク > https://spacely.co.jp/yazu-1/177",
+    "ai_catchphrase": "歴史ある古民家で田舎生活",
+    "ai_description": "広々とした228.75㎡の古民家。自然に囲まれた八頭町中で、農業や家庭菜園に最適。静かな環境で、家族でのんびりとした時間を過ごせます。",
+    "ai_tags": [
+      "古民家",
+      "田舎生活",
+      "家庭菜園",
+      "自然",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 13,
+    "address": "鳥取県倉吉市関金町関金宿",
+    "area": 16.63,
+    "age": 39,
+    "structure": "売戸建",
+    "price": 5000000,
+    "image_url": "https://img.akiya-athome.jp/?v=YzeWPz6Lo1pHogbV7B3TLpIEEG5ZHoxP2vCdbytXmhImbyC3mxlyuks1TStWTqWTMYTbcMA4CAybI5Vb0JJD1pWIjw87W4oPLvuON8i3zh4dw62AWd5HVUuAZHGSF7A5",
+    "_title": "売戸建住宅【323】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/42822",
+    "_description": "関金温泉まですぐの庭付き5DK♪※仲介業者：ライズアセット（TEL:0858-53-1114）☆関金温泉まですぐ☆コンビニが徒歩圏内☆木造瓦葺2階建☆物置（2階建）あり※駐車場1台（カーポートは修繕が必要）※灯油ボイラーはタンクのみ（要修繕）※前面道路は建築基準法上の道路では無い為、建替え時は倉吉市と協議が必要",
+    "ai_catchphrase": "自然に囲まれた魅力の古民家",
+    "ai_description": "鳥取県倉吉市に位置する、39年の歴史を持つ古民家。広々とした土地で自然を満喫し、家庭菜園やDIYも楽しめます。静かな環境で、心豊かな生活を始めてみませんか。",
+    "ai_tags": [
+      "古民家",
+      "自然",
+      "家庭菜園",
+      "静かな環境",
+      "DIY"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 14,
+    "address": "鳥取県倉吉市西福守町",
+    "area": 143.82,
+    "age": 30,
+    "structure": "売戸建",
+    "price": 12000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3yx3tVb7m92ngbUIX__eL_arIM0uPbg2LkKKIfpZGtyZGmigITuYa4WWN8OhJLus8RIM8u7AgCfPw34Cmooz3XQNDoMzdAW6dUSbuViRHtGncOBkcjs501",
+    "_title": "売戸建住宅【329】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/42663",
+    "_description": "買い物等も便利な住宅地の庭付き戸建て♪※仲介業者：（株）へいわ（TEL:0858-26-4421）☆家庭菜園可能な庭あり☆保育園、バス停、コンビニ等が徒歩圏内☆閑静な住宅地☆木造瓦葺2階建※駐車場1台",
+    "ai_catchphrase": "自然豊かな倉吉の隠れ家",
+    "ai_description": "鳥取県倉吉市に位置する、広々とした143.82㎡の戸建て住宅。30年の歴史を持つ家で、自然に囲まれた静かな環境が魅力です。家庭菜園やDIYを楽しむのにぴったり！",
+    "ai_tags": [
+      "自然豊か",
+      "家庭菜園",
+      "静かな環境",
+      "DIY向き",
+      "広々"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 15,
+    "address": "鳥取県倉吉市越中町",
+    "area": 85.0,
+    "age": null,
+    "structure": "売戸建",
+    "price": 4000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD1dU4C5upw34JIEEG5ZHoxPxUy_EhY9Ryv023CcJ8htA8fs10-aLtjw0Tfk3dQ_pwzt22fos1aRvDPTaxKs4f_PSZgfy_jPbjp401cehl833kuAZHGSF7A5",
+    "_title": "売戸建住宅【283】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/42907",
+    "_description": "便利な町なかの4LDK♪※仲介業者：ツインズ（TEL:0858-23-6363）☆コンビニやスーパー等も近い☆家財撤去済☆15～16年前にリフォーム済☆木造瓦葺2階建※駐車場なし※電気温水器は要修繕",
+    "ai_catchphrase": "自然と共に暮らす新生活",
+    "ai_description": "鳥取県倉吉市越中町の売戸建は、自然に囲まれた環境で、家庭菜園やDIYに最適です。静かな地域で、安心して子育てができる場所です。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "子育て",
+      "DIY",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 16,
+    "address": "鳥取県東伯郡北栄町松神",
+    "area": 125.11,
+    "age": 28,
+    "structure": "売戸建",
+    "price": 8000000,
+    "image_url": "https://img.akiya-athome.jp/?v=xtbi0lYjFD3Twn1mY4sxYpIEEG5ZHoxPxUy_EhY9Ryt5TRvRjrvlVp_5k2SthE3j4QQ_sTj5OukAXgEXlSr1kYugYzsg0QB_c9yFA2cPnDWEPZB1FRV2YUuAZHGSF7A5",
+    "_title": "売戸建住宅【No.251】",
+    "_pref_government": "東伯郡北栄町",
+    "_type": "売戸建",
+    "_detail_url": "https://hokuei-t31372.akiya-athome.jp/bukken/detail/buy/42938",
+    "_description": "仲介業者あり／補修不要／オール電化住宅／2台分の駐車スペースあり(1台分の車庫兼物置あり)／コンビニ等が徒歩圏内／県道付近で交通利便性良好•避難場所…400m（松神公民館）•病院…2.4km（髙見医院）•スーパー…3.7km（東宝ストア由良店）•コンビニ…240m（セブンイレブン北栄下神店）",
+    "ai_catchphrase": "自然豊かな田舎暮らしを満喫！",
+    "ai_description": "鳥取県北栄町の静かな環境に位置する28年の売戸建。広々とした土地で、家庭菜園やDIYにも最適です。自然に囲まれた生活を楽しむチャンスです。",
+    "ai_tags": [
+      "田舎暮らし",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "自然"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 4
+    }
+  },
+  {
+    "house_id": 17,
+    "address": "鳥取県倉吉市八屋",
+    "area": 66.55,
+    "age": 62,
+    "structure": "売戸建",
+    "price": 8410000,
+    "image_url": "https://img.akiya-athome.jp/?v=ATvszLJWEZh5elOAviWgB73eMQ-ah5mqYhYE6QQoaSaeQCdvYF2A-YQV79U_8k0X5XuwcUbic9KkXYnEEso24uiVxB28RIPG3O8rJ9n6La9QGpem6B1Lf1Dj0BmeewiU",
+    "_title": "売戸建住宅【328】",
+    "_pref_government": "倉吉市",
+    "_type": "売戸建",
+    "_detail_url": "https://kurayoshi-c31203.akiya-athome.jp/bukken/detail/buy/42572",
+    "_description": "コンビニやスーパーも近い住宅地にある元美容室の店舗兼住宅♪※仲介業者：（株）エヌケーシー不動産事業部（TEL:0857-30-1600）☆便利な街中☆コンビニ、スーパー、郵便局等が徒歩圏内の便利な立地☆家庭菜園も出来そうな庭あり☆平家物置あり☆木造かわらぶき平家建※駐車場4台",
+    "ai_catchphrase": "自然と共に生きる古民家",
+    "ai_description": "鳥取県倉吉市八屋にある62年の歴史を持つ古民家。広い庭で家庭菜園を楽しみ、自然に囲まれた静かな環境でリラックスできます。",
+    "ai_tags": [
+      "古民家",
+      "家庭菜園",
+      "自然豊か",
+      "静かな環境",
+      "リノベーション"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 18,
+    "address": "鳥取県八頭郡八頭町宮谷",
+    "area": 128.54,
+    "age": 70,
+    "structure": "売戸建",
+    "price": 3000000,
+    "image_url": "https://img.akiya-athome.jp/?v=fSggo0pjS9oXevtepMZdQ1m3IoVth_OcnksdaZSPFkOtJhwiTTKcc8WPlp_QgbYXjb08FiKElofsJdcHWhzoCX-M8wUuBn5wPDt3bwLDYjwecROJqqHZdNCtWPepg9J1",
+    "_title": "【VR内覧】売戸建住宅No.176",
+    "_pref_government": "八頭郡八頭町",
+    "_type": "売戸建",
+    "_detail_url": "https://yazu-t31329.akiya-athome.jp/bukken/detail/buy/42749",
+    "_description": "便利なまちなかエリアのコンパクト物件VR内覧リンク > https://spacely.co.jp/yazu-1/176",
+    "ai_catchphrase": "自然と共に暮らす古民家",
+    "ai_description": "鳥取県八頭町の静かな環境に佇む70年の古民家。広々とした庭で家庭菜園を楽しみ、自然を満喫できます。価格もお手頃で、DIYにも最適です。",
+    "ai_tags": [
+      "古民家",
+      "家庭菜園",
+      "DIY",
+      "自然",
+      "静かな環境"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 19,
+    "address": "鳥取県八頭郡八頭町水口",
+    "area": 119.83,
+    "age": 72,
+    "structure": "売戸建",
+    "price": 1500000,
+    "image_url": "https://img.akiya-athome.jp/?v=My4-PvDXixQa8HKoJXsOw9QqQI3aBSDMEvCZzelsgZNLMB6uSce7A-AyQ2HE_hg7SVXN5CBIdyec3RW9vgGGn7jj4gFZw-s2g00LOqgHtZaioXxIPRFgekuAZHGSF7A5",
+    "_title": "【VR内覧】売戸建住宅No.174",
+    "_pref_government": "八頭郡八頭町",
+    "_type": "売戸建",
+    "_detail_url": "https://yazu-t31329.akiya-athome.jp/bukken/detail/buy/42251",
+    "_description": "家庭菜園も楽しめる庭付き広々物件VR内覧リンク > https://spacely.co.jp/yazu-1/174",
+    "ai_catchphrase": "自然と共に暮らす、心地よい家",
+    "ai_description": "鳥取県八頭町の静かな環境に佇む72年の歴史を持つ戸建て。家庭菜園やDIYが楽しめる広い庭付き。自然に囲まれた生活を実現できます。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "静かな環境",
+      "歴史ある家"
+    ],
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 5,
+      "convenience": 2,
+      "parenting": 3,
+      "diy": 5
+    }
+  },
+  {
+    "house_id": 20,
+    "address": "鳥取県東伯郡北栄町国坂",
+    "area": 133.59,
+    "age": 38,
+    "structure": "売戸建",
+    "price": 8000000,
+    "image_url": "https://img.akiya-athome.jp/?v=fSggo0pjS9rIimb5GV0TZ2OMmwC_DcbdE_7vHzDbDDVsSx3TZW6aypb9RhP-i061aW0bZ4RjKmyfeMlg7ZM1GizTtJUqqGZS3f6xlSQ2qJ2-1n93hymYWKgvycDf7BQS",
+    "_title": "売戸建住宅【No.243】",
+    "_pref_government": "東伯郡北栄町",
+    "_type": "売戸建",
+    "_detail_url": "https://hokuei-t31372.akiya-athome.jp/bukken/detail/buy/42216",
+    "_description": "仲介業者あり／多少の補修必要(一部床等)／1台分のカーポートと2台分のガレージあり／物置あり／コンビニ等が徒歩圏内／田園付近で眺望良好•町役場…1.8km（北栄町役場北条支所）•スーパー…2.6km（ダイレックス湯梨浜店）•コンビニ…800m（ローソン北栄町国坂店）•避難場所…160m（国坂浜集落センター）",
+    "ai_catchphrase": "自然豊かな田舎の家",
+    "ai_description": "鳥取県北栄町にある、広々とした戸建てです。自然に囲まれた環境で、家庭菜園やDIYを楽しむことができます。",
+    "ai_tags": [
+      "自然",
+      "家庭菜園",
+      "DIY",
+      "田舎",
+      "広々"
+    ],
+    "ai_scores": {
+      "farming": 5,
+      "ocean": 2,
+      "nature": 5,
+      "convenience": 3,
+      "parenting": 4,
+      "diy": 4
+    }
+  }
+]
