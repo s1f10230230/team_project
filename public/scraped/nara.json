@@ -11,7 +11,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/43834",
-    "_description": "下北山小中学校、郵便局、下北山温泉、カーブの店が徒歩圏内。"
+    "_description": "下北山小中学校、郵便局、下北山温泉、カーブの店が徒歩圏内。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 2,
@@ -25,7 +33,15 @@
     "_pref_government": "大和郡山市",
     "_type": "売戸建",
     "_detail_url": "https://yamatokoriyama-c29203.akiya-athome.jp/bukken/detail/buy/43619",
-    "_description": "駅近の古民家物件"
+    "_description": "駅近の古民家物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 3,
@@ -39,7 +55,15 @@
     "_pref_government": "五條市",
     "_type": "売戸建",
     "_detail_url": "https://gojo-c29207.akiya-athome.jp/bukken/detail/buy/43562",
-    "_description": "家庭菜園利用可能な土地付の物件"
+    "_description": "家庭菜園利用可能な土地付の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 4,
@@ -53,7 +77,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/41686",
-    "_description": "のどかな田園にたたずむ平屋家屋"
+    "_description": "のどかな田園にたたずむ平屋家屋",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 5,
@@ -67,7 +99,15 @@
     "_pref_government": "五條市",
     "_type": "売戸建",
     "_detail_url": "https://gojo-c29207.akiya-athome.jp/bukken/detail/buy/43373",
-    "_description": "管理の行き届いた長閑な環境の古民家物件。複数棟あり。"
+    "_description": "管理の行き届いた長閑な環境の古民家物件。複数棟あり。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 6,
@@ -81,7 +121,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/43299",
-    "_description": "のどかな田園風景を望める物件"
+    "_description": "のどかな田園風景を望める物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 7,
@@ -95,7 +143,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/43155",
-    "_description": "昭和61年築の綺麗な物件、駐車スペース付き。コンビニ近くにあります！"
+    "_description": "昭和61年築の綺麗な物件、駐車スペース付き。コンビニ近くにあります！",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 8,
@@ -109,7 +165,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売土地",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/42201",
-    "_description": "下市町下市のメイン通り沿いの宅地"
+    "_description": "下市町下市のメイン通り沿いの宅地",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 9,
@@ -123,7 +187,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/42855",
-    "_description": "道路に面した便利な立地、部屋数も多く、多目的利用にぴったり。"
+    "_description": "道路に面した便利な立地、部屋数も多く、多目的利用にぴったり。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 10,
@@ -137,7 +209,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/42743",
-    "_description": "地上2階地下1階 離れありの物件"
+    "_description": "地上2階地下1階 離れありの物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 11,
@@ -151,7 +231,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/42729",
-    "_description": "別荘地にある平成3年築物件"
+    "_description": "別荘地にある平成3年築物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 12,
@@ -165,7 +253,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/42715",
-    "_description": "離れの部分のみになるため敷地は分筆が必要で水回り（トイレ、風呂、洗面、キッチン）はありません。購入後に設置工事が必要。一部雨漏りで柱が傷んでおり修繕が必要。室内外の動画はこちらからご覧いただけます。https://youtu.be/X3czcr4pYqg"
+    "_description": "離れの部分のみになるため敷地は分筆が必要で水回り（トイレ、風呂、洗面、キッチン）はありません。購入後に設置工事が必要。一部雨漏りで柱が傷んでおり修繕が必要。室内外の動画はこちらからご覧いただけます。https://youtu.be/X3czcr4pYqg",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 13,
@@ -179,7 +275,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/42728",
-    "_description": "バス停まで徒歩1分！緑が多く宅前では川が流れ 自然あふれる環境の物件"
+    "_description": "バス停まで徒歩1分！緑が多く宅前では川が流れ 自然あふれる環境の物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 14,
@@ -193,7 +297,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/42624",
-    "_description": "二世帯住宅で暮らせるきれいな物件"
+    "_description": "二世帯住宅で暮らせるきれいな物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 15,
@@ -207,7 +319,15 @@
     "_pref_government": "御所市",
     "_type": "売戸建",
     "_detail_url": "https://gose-c29208.akiya-athome.jp/bukken/detail/buy/42621",
-    "_description": "家のすぐ近くに畑のある古民家物件"
+    "_description": "家のすぐ近くに畑のある古民家物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 16,
@@ -221,7 +341,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/42664",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 17,
@@ -235,7 +363,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/42200",
-    "_description": "豊かな自然と静寂を独り占めする2階建古民家"
+    "_description": "豊かな自然と静寂を独り占めする2階建古民家",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 18,
@@ -249,7 +385,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/25577",
-    "_description": "ロフト付きで別荘使用に最適"
+    "_description": "ロフト付きで別荘使用に最適",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 19,
@@ -263,7 +407,15 @@
     "_pref_government": "吉野郡天川村",
     "_type": "売戸建",
     "_detail_url": "https://tenkawa-v29446.akiya-athome.jp/bukken/detail/buy/33319",
-    "_description": "綺麗な山と川に挟まれ素晴らしい環境にあるお家"
+    "_description": "綺麗な山と川に挟まれ素晴らしい環境にあるお家",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 20,
@@ -277,7 +429,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/41707",
-    "_description": "和室も、個室も、趣味部屋も。“ちょっと贅沢”が日常になる住まい"
+    "_description": "和室も、個室も、趣味部屋も。“ちょっと贅沢”が日常になる住まい",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 21,
@@ -291,7 +451,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/41045",
-    "_description": "元工場として使われていたお手頃な物件"
+    "_description": "元工場として使われていたお手頃な物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 22,
@@ -305,7 +473,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/41065",
-    "_description": "蔵、事務所、倉庫などの付いた多機能な物件"
+    "_description": "蔵、事務所、倉庫などの付いた多機能な物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 23,
@@ -319,7 +495,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/41714",
-    "_description": "ガレージ付の二階建て物件"
+    "_description": "ガレージ付の二階建て物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 24,
@@ -333,7 +517,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/41690",
-    "_description": "心穏やかに暮らす2階建ての家"
+    "_description": "心穏やかに暮らす2階建ての家",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 25,
@@ -347,7 +539,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/41689",
-    "_description": "静かな山間の集落に建つ昔ながらの日本家屋"
+    "_description": "静かな山間の集落に建つ昔ながらの日本家屋",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 26,
@@ -361,7 +561,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/41410",
-    "_description": "高台集落にある古民家"
+    "_description": "高台集落にある古民家",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 27,
@@ -375,7 +583,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/41363",
-    "_description": "自然と調和した眺望を愉しむ高床式別荘"
+    "_description": "自然と調和した眺望を愉しむ高床式別荘",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 28,
@@ -389,7 +605,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売土地",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/40930",
-    "_description": "スーパーも近い場所にある便利な立地。畑付きの宅地"
+    "_description": "スーパーも近い場所にある便利な立地。畑付きの宅地",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 29,
@@ -403,7 +627,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/40920",
-    "_description": "下市町下市にある元店舗の住宅"
+    "_description": "下市町下市にある元店舗の住宅",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 30,
@@ -417,7 +649,15 @@
     "_pref_government": "宇陀市",
     "_type": "売土地",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/41221",
-    "_description": "【土地のみ】閑静な住宅地"
+    "_description": "【土地のみ】閑静な住宅地",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 31,
@@ -431,7 +671,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/40843",
-    "_description": "車が5～６台駐車可能な物件"
+    "_description": "車が5～６台駐車可能な物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 32,
@@ -445,7 +693,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/40938",
-    "_description": "1～2名で住むのにぴったりな、こじんまりした2階建。"
+    "_description": "1～2名で住むのにぴったりな、こじんまりした2階建。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 33,
@@ -459,7 +715,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/40895",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 34,
@@ -473,7 +737,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/40308",
-    "_description": "高台にある平成9年築の物件"
+    "_description": "高台にある平成9年築の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 35,
@@ -487,7 +759,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/39456",
-    "_description": "綺麗な古民家物件、事業用にもご検討ください"
+    "_description": "綺麗な古民家物件、事業用にもご検討ください",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 36,
@@ -501,7 +781,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/39724",
-    "_description": "別荘地の平屋物件"
+    "_description": "別荘地の平屋物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 37,
@@ -515,7 +803,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/40049",
-    "_description": "重伝建地区に隣接する町並み"
+    "_description": "重伝建地区に隣接する町並み",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 38,
@@ -529,7 +825,15 @@
     "_pref_government": "北葛城郡上牧町",
     "_type": "売土地",
     "_detail_url": "https://kanmaki-t29424.akiya-athome.jp/bukken/detail/buy/39696",
-    "_description": "かつての丘陵の上部に造成された宅地、住宅建設歴無し"
+    "_description": "かつての丘陵の上部に造成された宅地、住宅建設歴無し",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 39,
@@ -543,7 +847,15 @@
     "_pref_government": "北葛城郡上牧町",
     "_type": "売戸建",
     "_detail_url": "https://kanmaki-t29424.akiya-athome.jp/bukken/detail/buy/39511",
-    "_description": "6年前にリフォーム実施済、駅徒歩圏内の一軒家"
+    "_description": "6年前にリフォーム実施済、駅徒歩圏内の一軒家",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 40,
@@ -557,7 +869,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/39097",
-    "_description": "山の中に佇む「ポツンと一軒家」"
+    "_description": "山の中に佇む「ポツンと一軒家」",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 41,
@@ -571,7 +891,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/39028",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 42,
@@ -585,7 +913,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/38921",
-    "_description": "広大な土地を使える方に"
+    "_description": "広大な土地を使える方に",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 43,
@@ -599,7 +935,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/38793",
-    "_description": "別荘地にある物件"
+    "_description": "別荘地にある物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 44,
@@ -613,7 +957,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/38759",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 45,
@@ -627,7 +979,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/38548",
-    "_description": "2階からの眺めが良い家。道路沿いで便利。（補修必要）"
+    "_description": "2階からの眺めが良い家。道路沿いで便利。（補修必要）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 46,
@@ -641,7 +1001,15 @@
     "_pref_government": "御所市",
     "_type": "売戸建",
     "_detail_url": "https://gose-c29208.akiya-athome.jp/bukken/detail/buy/38069",
-    "_description": "陽当たりのよい駐車場付き平屋"
+    "_description": "陽当たりのよい駐車場付き平屋",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 47,
@@ -655,7 +1023,15 @@
     "_pref_government": "桜井市",
     "_type": "売戸建",
     "_detail_url": "https://sakurai-c29206.akiya-athome.jp/bukken/detail/buy/38149",
-    "_description": "コンパクトな戸建物件。車10分圏内にスーパー・家電量販店等揃います"
+    "_description": "コンパクトな戸建物件。車10分圏内にスーパー・家電量販店等揃います",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 48,
@@ -669,7 +1045,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/37876",
-    "_description": "動シャッター付ガレージあり。室内大変綺麗に使用されております。"
+    "_description": "動シャッター付ガレージあり。室内大変綺麗に使用されております。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 49,
@@ -683,7 +1067,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/34602",
-    "_description": "名張川を見下ろす集落真ん中辺に、お好みの居住空間を創りたい方へ"
+    "_description": "名張川を見下ろす集落真ん中辺に、お好みの居住空間を創りたい方へ",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 50,
@@ -697,7 +1089,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売土地",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/37544",
-    "_description": "広い道路から少し入った静かな宅地、すぐ裏に清流が流れる立地。"
+    "_description": "広い道路から少し入った静かな宅地、すぐ裏に清流が流れる立地。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 51,
@@ -711,7 +1111,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売土地",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/37545",
-    "_description": "広い道路から少し入った静かな宅地、すぐ裏に清流か流れる立地。"
+    "_description": "広い道路から少し入った静かな宅地、すぐ裏に清流か流れる立地。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 52,
@@ -725,7 +1133,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/37485",
-    "_description": "最寄駅から徒歩18分！ビルトインガレージ付の物件"
+    "_description": "最寄駅から徒歩18分！ビルトインガレージ付の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 53,
@@ -739,7 +1155,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/37314",
-    "_description": "田園風景広がる田舎物件"
+    "_description": "田園風景広がる田舎物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 54,
@@ -753,7 +1177,15 @@
     "_pref_government": "御所市",
     "_type": "売戸建",
     "_detail_url": "https://gose-c29208.akiya-athome.jp/bukken/detail/buy/37134",
-    "_description": "トイレ・風呂リフォーム済の物件"
+    "_description": "トイレ・風呂リフォーム済の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 55,
@@ -767,7 +1199,15 @@
     "_pref_government": "生駒郡三郷町",
     "_type": "売戸建",
     "_detail_url": "https://sango-t29343.akiya-athome.jp/bukken/detail/buy/36876",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 56,
@@ -781,7 +1221,15 @@
     "_pref_government": "生駒郡三郷町",
     "_type": "売戸建",
     "_detail_url": "https://sango-t29343.akiya-athome.jp/bukken/detail/buy/36874",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 57,
@@ -795,7 +1243,15 @@
     "_pref_government": "生駒郡三郷町",
     "_type": "売戸建",
     "_detail_url": "https://sango-t29343.akiya-athome.jp/bukken/detail/buy/36866",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 58,
@@ -809,7 +1265,15 @@
     "_pref_government": "生駒郡三郷町",
     "_type": "売戸建",
     "_detail_url": "https://sango-t29343.akiya-athome.jp/bukken/detail/buy/36863",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 59,
@@ -823,7 +1287,15 @@
     "_pref_government": "生駒郡三郷町",
     "_type": "売戸建",
     "_detail_url": "https://sango-t29343.akiya-athome.jp/bukken/detail/buy/36862",
-    "_description": "多少補修必要（入居者負担）"
+    "_description": "多少補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 60,
@@ -837,7 +1309,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/36676",
-    "_description": "値下げしました。室内の動画はこちらからご覧いただけます。https://www.youtube.com/watch?v=lyQQftz-wmA"
+    "_description": "値下げしました。室内の動画はこちらからご覧いただけます。https://www.youtube.com/watch?v=lyQQftz-wmA",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 61,
@@ -851,7 +1331,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/36264",
-    "_description": "平屋建てです。価格はご相談に応じます。"
+    "_description": "平屋建てです。価格はご相談に応じます。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 62,
@@ -865,7 +1353,15 @@
     "_pref_government": "北葛城郡河合町",
     "_type": "売戸建",
     "_detail_url": "https://kawai-t29427.akiya-athome.jp/bukken/detail/buy/36287",
-    "_description": "赴きある昔ながらの集落、補修しがいのある一軒家。"
+    "_description": "赴きある昔ながらの集落、補修しがいのある一軒家。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 63,
@@ -879,7 +1375,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/35705",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 64,
@@ -893,7 +1397,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/35176",
-    "_description": "国道沿いで便利、部屋数も多い6DK。吉野建て希少家屋。"
+    "_description": "国道沿いで便利、部屋数も多い6DK。吉野建て希少家屋。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 65,
@@ -907,7 +1419,15 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/33148",
-    "_description": "日当たりのいい古民家です"
+    "_description": "日当たりのいい古民家です",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 66,
@@ -921,7 +1441,15 @@
     "_pref_government": "御所市",
     "_type": "売戸建",
     "_detail_url": "https://gose-c29208.akiya-athome.jp/bukken/detail/buy/34376",
-    "_description": "駅前の便利な立地の物件。様々な利用方法ご検討ください。"
+    "_description": "駅前の便利な立地の物件。様々な利用方法ご検討ください。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 67,
@@ -935,7 +1463,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/33960",
-    "_description": "家庭菜園可能な物件です"
+    "_description": "家庭菜園可能な物件です",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 68,
@@ -949,7 +1485,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/33747",
-    "_description": "小学校・中学校が近い物件"
+    "_description": "小学校・中学校が近い物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 3
+    }
   },
   {
     "house_id": 69,
@@ -963,7 +1507,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/33339",
-    "_description": "古民家平屋で田舎暮らししませんか？"
+    "_description": "古民家平屋で田舎暮らししませんか？",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 70,
@@ -977,7 +1529,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/33430",
-    "_description": "池原ダム湖の近く静かな地区。日当たりが良く、部屋数の多い、きれいな物件。"
+    "_description": "池原ダム湖の近く静かな地区。日当たりが良く、部屋数の多い、きれいな物件。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 71,
@@ -991,7 +1551,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/33324",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 72,
@@ -1005,7 +1573,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33185",
-    "_description": "すぐ前に清流があり、陽当たりが良く、広い駐車場付物件"
+    "_description": "すぐ前に清流があり、陽当たりが良く、広い駐車場付物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 73,
@@ -1019,7 +1595,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33182",
-    "_description": "静かな地区の農地と山林が付いた古民家。"
+    "_description": "静かな地区の農地と山林が付いた古民家。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 74,
@@ -1033,7 +1617,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33316",
-    "_description": "四季折々の風情を身近に感じられる平屋物件です"
+    "_description": "四季折々の風情を身近に感じられる平屋物件です",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 75,
@@ -1047,7 +1639,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33153",
-    "_description": "家の前が広い畑、静かで日当たりが良く、田舎暮らしをしたい方におすすめ。"
+    "_description": "家の前が広い畑、静かで日当たりが良く、田舎暮らしをしたい方におすすめ。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 76,
@@ -1061,7 +1661,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33318",
-    "_description": "道路から少し入った、静かな地区のこぶりな物件"
+    "_description": "道路から少し入った、静かな地区のこぶりな物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 77,
@@ -1075,7 +1683,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33179",
-    "_description": "作業小屋がついた、日当たりの良い農地。"
+    "_description": "作業小屋がついた、日当たりの良い農地。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 78,
@@ -1089,7 +1705,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33181",
-    "_description": "田舎暮らしを楽しみたい方、かまど付の古民家を再生しませんか。"
+    "_description": "田舎暮らしを楽しみたい方、かまど付の古民家を再生しませんか。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 79,
@@ -1103,7 +1727,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売土地",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33317",
-    "_description": "静かな集落の高台にある土地、ログハウスいかがですか！"
+    "_description": "静かな集落の高台にある土地、ログハウスいかがですか！",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 80,
@@ -1117,7 +1749,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33178",
-    "_description": "要改修物件、家の前と後ろが日当たりの良い広い畑。"
+    "_description": "要改修物件、家の前と後ろが日当たりの良い広い畑。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 81,
@@ -1131,7 +1771,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売土地",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33176",
-    "_description": "日当たりの良い広い畑付きの宅地〈土地のみ〉"
+    "_description": "日当たりの良い広い畑付きの宅地〈土地のみ〉",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 82,
@@ -1145,7 +1793,15 @@
     "_pref_government": "吉野郡下北山村",
     "_type": "売戸建",
     "_detail_url": "https://shimokitayama-v29450.akiya-athome.jp/bukken/detail/buy/33151",
-    "_description": "のどかで静かな集落。家からの眺めが良い。広い駐車スペースあり。"
+    "_description": "のどかで静かな集落。家からの眺めが良い。広い駐車スペースあり。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 83,
@@ -1159,7 +1815,15 @@
     "_pref_government": "桜井市",
     "_type": "売戸建",
     "_detail_url": "https://sakurai-c29206.akiya-athome.jp/bukken/detail/buy/33189",
-    "_description": "田舎暮らししてみませんか？"
+    "_description": "田舎暮らししてみませんか？",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 84,
@@ -1173,7 +1837,15 @@
     "_pref_government": "宇陀郡御杖村",
     "_type": "売戸建",
     "_detail_url": "https://mitsue-v29386.akiya-athome.jp/bukken/detail/buy/33004",
-    "_description": "小規模改修必要（入居者負担）"
+    "_description": "小規模改修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 85,
@@ -1187,7 +1859,15 @@
     "_pref_government": "宇陀郡御杖村",
     "_type": "売戸建",
     "_detail_url": "https://mitsue-v29386.akiya-athome.jp/bukken/detail/buy/33000",
-    "_description": "補修不要"
+    "_description": "補修不要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 86,
@@ -1201,7 +1881,15 @@
     "_pref_government": "宇陀郡御杖村",
     "_type": "売戸建",
     "_detail_url": "https://mitsue-v29386.akiya-athome.jp/bukken/detail/buy/32999",
-    "_description": "小規模改修必要（入居者負担）"
+    "_description": "小規模改修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 87,
@@ -1215,7 +1903,15 @@
     "_pref_government": "宇陀郡御杖村",
     "_type": "売戸建",
     "_detail_url": "https://mitsue-v29386.akiya-athome.jp/bukken/detail/buy/32995",
-    "_description": "大規模改修必要（入居者負担）"
+    "_description": "大規模改修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 88,
@@ -1229,7 +1925,15 @@
     "_pref_government": "宇陀郡御杖村",
     "_type": "売戸建",
     "_detail_url": "https://mitsue-v29386.akiya-athome.jp/bukken/detail/buy/32994",
-    "_description": "小規模改修必要（入居者負担）"
+    "_description": "小規模改修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 89,
@@ -1243,7 +1947,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/32775",
-    "_description": "豊かな自然に恵まれた農地付き物件、大規模修繕意欲のある方へ"
+    "_description": "豊かな自然に恵まれた農地付き物件、大規模修繕意欲のある方へ",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 90,
@@ -1257,7 +1969,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/31822",
-    "_description": "２棟が続いた物件。二世帯や店舗利用に！"
+    "_description": "２棟が続いた物件。二世帯や店舗利用に！",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 91,
@@ -1271,7 +1991,15 @@
     "_pref_government": "五條市",
     "_type": "売戸建",
     "_detail_url": "https://gojo-c29207.akiya-athome.jp/bukken/detail/buy/31563",
-    "_description": "昔塾をやっていた建物、簡易的な流しとトイレあり。畑もついています。"
+    "_description": "昔塾をやっていた建物、簡易的な流しとトイレあり。畑もついています。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 92,
@@ -1285,7 +2013,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/30007",
-    "_description": "室内外の動画はこちらからご覧になれます。https://youtu.be/bL2Tot2onBI"
+    "_description": "室内外の動画はこちらからご覧になれます。https://youtu.be/bL2Tot2onBI",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 93,
@@ -1299,7 +2035,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/29741",
-    "_description": "価格変更しました。室内外の動画はこちらからご覧いただけます。https://youtu.be/ddiGtIdZ860"
+    "_description": "価格変更しました。室内外の動画はこちらからご覧いただけます。https://youtu.be/ddiGtIdZ860",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 94,
@@ -1313,7 +2057,15 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/28015",
-    "_description": "田舎の古民家物件（大幅に改修できる方向け）"
+    "_description": "田舎の古民家物件（大幅に改修できる方向け）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 95,
@@ -1327,7 +2079,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/28924",
-    "_description": "駅から約500ｍ！小さなお庭が付いた2階建ての物件"
+    "_description": "駅から約500ｍ！小さなお庭が付いた2階建ての物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 96,
@@ -1341,7 +2101,15 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/27961",
-    "_description": "風情ある古民家物件"
+    "_description": "風情ある古民家物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 97,
@@ -1355,7 +2123,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/27940",
-    "_description": "道場に使用していた広いスペースが魅力の物件"
+    "_description": "道場に使用していた広いスペースが魅力の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 98,
@@ -1369,7 +2145,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/26580",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 99,
@@ -1383,7 +2167,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/25676",
-    "_description": "価格改定しました。"
+    "_description": "価格改定しました。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 100,
@@ -1397,7 +2189,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/25717",
-    "_description": "駅や小中一貫校に徒歩圏内でファミリーにもおススメの物件"
+    "_description": "駅や小中一貫校に徒歩圏内でファミリーにもおススメの物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 101,
@@ -1411,7 +2211,15 @@
     "_pref_government": "吉野郡天川村",
     "_type": "売戸建",
     "_detail_url": "https://tenkawa-v29446.akiya-athome.jp/bukken/detail/buy/25644",
-    "_description": "納屋や少し広めの家庭菜園ができる農地付き平屋"
+    "_description": "納屋や少し広めの家庭菜園ができる農地付き平屋",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 102,
@@ -1425,7 +2233,15 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/25473",
-    "_description": "広いガレージ付、雰囲気のある古民家物件"
+    "_description": "広いガレージ付、雰囲気のある古民家物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 103,
@@ -1439,7 +2255,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/24903",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 104,
@@ -1453,7 +2277,15 @@
     "_pref_government": "大和郡山市",
     "_type": "売戸建",
     "_detail_url": "https://yamatokoriyama-c29203.akiya-athome.jp/bukken/detail/buy/24531",
-    "_description": "広い間取りのある物件。徒歩圏内にショッピングモールがあり、生活便利。"
+    "_description": "広い間取りのある物件。徒歩圏内にショッピングモールがあり、生活便利。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 105,
@@ -1467,7 +2299,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/23821",
-    "_description": "ファミリータイプの閑静な住宅街"
+    "_description": "ファミリータイプの閑静な住宅街",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 106,
@@ -1481,7 +2321,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/24062",
-    "_description": "交通量の少ない静かな旧国道沿い。道路から少し高台にあり、眺めの良い物件。"
+    "_description": "交通量の少ない静かな旧国道沿い。道路から少し高台にあり、眺めの良い物件。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 107,
@@ -1495,7 +2343,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/23935",
-    "_description": "日当たりの良い静かな地区。部屋数の多い、きれいな物件。・きれいな室内。・静かな地区。・地区の中では高台で日当たりが良い。・風呂は灯油ボイラーと薪も使用可"
+    "_description": "日当たりの良い静かな地区。部屋数の多い、きれいな物件。・きれいな室内。・静かな地区。・地区の中では高台で日当たりが良い。・風呂は灯油ボイラーと薪も使用可",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 108,
@@ -1509,7 +2365,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/23819",
-    "_description": "小・中学校徒歩圏内物件"
+    "_description": "小・中学校徒歩圏内物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 109,
@@ -1523,7 +2387,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/23742",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 110,
@@ -1537,7 +2409,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/23300",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 111,
@@ -1551,7 +2431,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/23136",
-    "_description": "値下げしました。１１８０万円→１１００万円平群北小学校まで徒歩２分です！！室内外動画はこちらからご覧いただけます。https://www.youtube.com/watch?v=cyxIfQVQcvo&t"
+    "_description": "値下げしました。１１８０万円→１１００万円平群北小学校まで徒歩２分です！！室内外動画はこちらからご覧いただけます。https://www.youtube.com/watch?v=cyxIfQVQcvo&t",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 112,
@@ -1565,7 +2453,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/18772",
-    "_description": "通学、お買い物に便利な立地です"
+    "_description": "通学、お買い物に便利な立地です",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 113,
@@ -1579,7 +2475,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/22837",
-    "_description": "生活に便利な静かな住宅地の物件"
+    "_description": "生活に便利な静かな住宅地の物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 114,
@@ -1593,7 +2497,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/22825",
-    "_description": "給湯器２０２０年交換済み"
+    "_description": "給湯器２０２０年交換済み",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 115,
@@ -1607,7 +2519,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/21842",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 116,
@@ -1621,7 +2541,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/22198",
-    "_description": "価格変更しました！室内動画はこちらからご覧になれます。https://youtu.be/bM0blRPhNS0"
+    "_description": "価格変更しました！室内動画はこちらからご覧になれます。https://youtu.be/bM0blRPhNS0",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 117,
@@ -1635,7 +2563,15 @@
     "_pref_government": "吉野郡天川村",
     "_type": "売戸建",
     "_detail_url": "https://tenkawa-v29446.akiya-athome.jp/bukken/detail/buy/21633",
-    "_description": "洞川温泉に近いこじんまりとした物件です"
+    "_description": "洞川温泉に近いこじんまりとした物件です",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 118,
@@ -1649,7 +2585,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/21587",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 3
+    }
   },
   {
     "house_id": 119,
@@ -1663,7 +2607,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/20673",
-    "_description": "田園に囲まれた平屋物件"
+    "_description": "田園に囲まれた平屋物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 120,
@@ -1677,7 +2629,15 @@
     "_pref_government": "宇陀市",
     "_type": "売土地",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/20393",
-    "_description": "住宅地の中にある土地のみの販売です！！"
+    "_description": "住宅地の中にある土地のみの販売です！！",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 121,
@@ -1691,7 +2651,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/20300",
-    "_description": "吉野川近く、風光明媚な場所にある物件"
+    "_description": "吉野川近く、風光明媚な場所にある物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 122,
@@ -1705,7 +2673,15 @@
     "_pref_government": "山辺郡山添村",
     "_type": "売戸建",
     "_detail_url": "https://yamazoe-v29322.akiya-athome.jp/bukken/detail/buy/20061",
-    "_description": "名張川にほど近い古民家物件"
+    "_description": "名張川にほど近い古民家物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 123,
@@ -1719,7 +2695,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/20210",
-    "_description": "駅まで徒歩圏内！高台にある庭付きの物件【令和6年7月値下げしました！】"
+    "_description": "駅まで徒歩圏内！高台にある庭付きの物件【令和6年7月値下げしました！】",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 124,
@@ -1733,7 +2717,15 @@
     "_pref_government": "吉野郡大淀町",
     "_type": "売戸建",
     "_detail_url": "https://oyodo-t29442.akiya-athome.jp/bukken/detail/buy/20134",
-    "_description": "下市口駅まで800ｍ、大淀町の駅チカ物件。"
+    "_description": "下市口駅まで800ｍ、大淀町の駅チカ物件。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 125,
@@ -1747,7 +2739,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/19591",
-    "_description": "更地にして売買可能(要相談）"
+    "_description": "更地にして売買可能(要相談）",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 126,
@@ -1761,7 +2761,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/19567",
-    "_description": "築年数は４３年ですが居住期間が少ないため、室内は比較的綺麗です。物件大幅に値下げしました！！！"
+    "_description": "築年数は４３年ですが居住期間が少ないため、室内は比較的綺麗です。物件大幅に値下げしました！！！",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 127,
@@ -1775,7 +2783,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/19840",
-    "_description": "下市まちなかの多目的倉庫付きの物件"
+    "_description": "下市まちなかの多目的倉庫付きの物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 128,
@@ -1789,7 +2805,15 @@
     "_pref_government": "吉野郡下市町",
     "_type": "売戸建",
     "_detail_url": "https://shimoichi-t29443.akiya-athome.jp/bukken/detail/buy/19728",
-    "_description": "コンパクトな長屋二階建て物件。"
+    "_description": "コンパクトな長屋二階建て物件。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 129,
@@ -1803,7 +2827,15 @@
     "_pref_government": "桜井市",
     "_type": "売戸建",
     "_detail_url": "https://sakurai-c29206.akiya-athome.jp/bukken/detail/buy/19369",
-    "_description": "駅徒歩圏内の平屋物件"
+    "_description": "駅徒歩圏内の平屋物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 130,
@@ -1817,7 +2849,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/19122",
-    "_description": "価格を値下げ致しました。580万円→380万円。ブロック塀を取り壊せば軽自動車1台の駐車スペースは確保出来ます。"
+    "_description": "価格を値下げ致しました。580万円→380万円。ブロック塀を取り壊せば軽自動車1台の駐車スペースは確保出来ます。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 131,
@@ -1831,7 +2871,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/19020",
-    "_description": "階段を上れば陽当たり場所にある離れ付きの物件"
+    "_description": "階段を上れば陽当たり場所にある離れ付きの物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 132,
@@ -1845,7 +2893,15 @@
     "_pref_government": "吉野郡天川村",
     "_type": "売戸建",
     "_detail_url": "https://tenkawa-v29446.akiya-athome.jp/bukken/detail/buy/18928",
-    "_description": "高台にある小ぶりな物件"
+    "_description": "高台にある小ぶりな物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 133,
@@ -1859,7 +2915,15 @@
     "_pref_government": "桜井市",
     "_type": "売戸建",
     "_detail_url": "https://sakurai-c29206.akiya-athome.jp/bukken/detail/buy/18440",
-    "_description": "談山神社にほど近い自然豊かな物件"
+    "_description": "談山神社にほど近い自然豊かな物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 134,
@@ -1873,7 +2937,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/18154",
-    "_description": "リフォーム済の平屋建て"
+    "_description": "リフォーム済の平屋建て",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 135,
@@ -1887,7 +2959,15 @@
     "_pref_government": "五條市",
     "_type": "売戸建",
     "_detail_url": "https://gojo-c29207.akiya-athome.jp/bukken/detail/buy/18338",
-    "_description": "静かなところにある平成3年建築の物件"
+    "_description": "静かなところにある平成3年建築の物件",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 136,
@@ -1901,7 +2981,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/18314",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 137,
@@ -1915,7 +3003,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/18285",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 138,
@@ -1929,7 +3025,15 @@
     "_pref_government": "宇陀市",
     "_type": "売戸建",
     "_detail_url": "https://uda-c29212.akiya-athome.jp/bukken/detail/buy/18189",
-    "_description": "森林の中にあるセルフビルドの物件、引き継いで頂ける方募集中です。"
+    "_description": "森林の中にあるセルフビルドの物件、引き継いで頂ける方募集中です。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 139,
@@ -1943,7 +3047,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/18143",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 140,
@@ -1957,7 +3069,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/18127",
-    "_description": "土地が約２４０坪あります。水道を引いていない(引き込み可能）ため井戸水の利用になります。2～３年前に屋根を全面改修しています。"
+    "_description": "土地が約２４０坪あります。水道を引いていない(引き込み可能）ため井戸水の利用になります。2～３年前に屋根を全面改修しています。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 141,
@@ -1971,7 +3091,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/17486",
-    "_description": "売買価格は要相談。同じ敷地内に倉庫、隣接した敷地に畑あり。"
+    "_description": "売買価格は要相談。同じ敷地内に倉庫、隣接した敷地に畑あり。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 142,
@@ -1985,7 +3113,15 @@
     "_pref_government": "吉野郡上北山村",
     "_type": "売戸建",
     "_detail_url": "https://kamikitayama-v29451.akiya-athome.jp/bukken/detail/buy/17541",
-    "_description": "役場近く、眺望・日当たりの良い物件"
+    "_description": "役場近く、眺望・日当たりの良い物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 143,
@@ -1999,7 +3135,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/17283",
-    "_description": "小堀住研の家です。あまり住んでいなかったため室内の傷みも殆どなく極上物件です。"
+    "_description": "小堀住研の家です。あまり住んでいなかったため室内の傷みも殆どなく極上物件です。",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 144,
@@ -2013,7 +3157,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/17091",
-    "_description": "積水ハウスの家価格は要相談"
+    "_description": "積水ハウスの家価格は要相談",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 145,
@@ -2027,7 +3179,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/16947",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 146,
@@ -2041,7 +3201,15 @@
     "_pref_government": "御所市",
     "_type": "売戸建",
     "_detail_url": "https://gose-c29208.akiya-athome.jp/bukken/detail/buy/16809",
-    "_description": "便利な立地でのんびり田舎暮らし"
+    "_description": "便利な立地でのんびり田舎暮らし",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 147,
@@ -2055,7 +3223,15 @@
     "_pref_government": "生駒郡平群町",
     "_type": "売戸建",
     "_detail_url": "https://heguri-t29342.akiya-athome.jp/bukken/detail/buy/15092",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 148,
@@ -2069,7 +3245,15 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/14832",
-    "_description": "市内にほど近い田舎にあるDIYしごたえのある物件"
+    "_description": "市内にほど近い田舎にあるDIYしごたえのある物件",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 149,
@@ -2083,6 +3267,14 @@
     "_pref_government": "奈良市",
     "_type": "売戸建",
     "_detail_url": "https://nara-c29201.akiya-athome.jp/bukken/detail/buy/4744",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 2,
+      "ocean": 1,
+      "nature": 2,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   }
 ]
