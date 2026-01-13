@@ -11,7 +11,15 @@
     "_pref_government": "雄勝郡羽後町",
     "_type": "売戸建",
     "_detail_url": "https://ugo-t05463.akiya-athome.jp/bukken/detail/buy/44012",
-    "_description": "部屋数が多く、収納も充実しています。 水回り（浴室・トイレ）はリフォーム済みです。 県外出身の方が住宅を取得された場合最大で100万円の助成があります。エアコン、FF式ヒーター、床暖房あり。"
+    "_description": "部屋数が多く、収納も充実しています。 水回り（浴室・トイレ）はリフォーム済みです。 県外出身の方が住宅を取得された場合最大で100万円の助成があります。エアコン、FF式ヒーター、床暖房あり。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 2,
@@ -25,7 +33,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/44194",
-    "_description": "庭付きの物件です（80.62平米）敷地内に駐車可（１台分）"
+    "_description": "庭付きの物件です（80.62平米）敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 3,
@@ -39,7 +55,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/44105",
-    "_description": "自然豊かな地域でのんびり暮らせる一軒家です部屋数が多いので、多用途な住み方が可能。駅まで1.8キロ。"
+    "_description": "自然豊かな地域でのんびり暮らせる一軒家です部屋数が多いので、多用途な住み方が可能。駅まで1.8キロ。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 4,
@@ -53,7 +77,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/44141",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 5,
@@ -67,7 +99,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/44090",
-    "_description": "敷地内に駐車可（２台以上）物置付きの物件です"
+    "_description": "敷地内に駐車可（２台以上）物置付きの物件です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 6,
@@ -81,7 +121,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/44087",
-    "_description": "敷地内に駐車可（２台以上）物置付きの物件です"
+    "_description": "敷地内に駐車可（２台以上）物置付きの物件です",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 7,
@@ -95,7 +143,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売事業用(一棟)",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43615",
-    "_description": "応相談。現在車庫として使用中。"
+    "_description": "応相談。現在車庫として使用中。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 8,
@@ -109,7 +165,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/44022",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 9,
@@ -123,7 +187,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/44013",
-    "_description": "敷地内に駐車可（５台分）庭付きの物件です"
+    "_description": "敷地内に駐車可（５台分）庭付きの物件です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 10,
@@ -137,7 +209,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/44006",
-    "_description": "平屋の物件です敷地内に駐車可（１台分）"
+    "_description": "平屋の物件です敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 11,
@@ -151,7 +231,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43880",
-    "_description": "鉄筋コンクリート・木造３階建車庫・納戸・サンルーム付きの物件です"
+    "_description": "鉄筋コンクリート・木造３階建車庫・納戸・サンルーム付きの物件です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 12,
@@ -165,7 +253,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43610",
-    "_description": "価格 応相談"
+    "_description": "価格 応相談",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 13,
@@ -179,7 +275,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43608",
-    "_description": "倉庫付きの土地です。（倉庫：14.87平米）"
+    "_description": "倉庫付きの土地です。（倉庫：14.87平米）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 14,
@@ -193,7 +297,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43607",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 15,
@@ -207,7 +319,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43606",
-    "_description": "令和4年5月に価格改定！"
+    "_description": "令和4年5月に価格改定！",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 16,
@@ -221,7 +341,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43604",
-    "_description": "価格 応相談"
+    "_description": "価格 応相談",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 17,
@@ -235,7 +363,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43602",
-    "_description": "価格応相談"
+    "_description": "価格応相談",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 18,
@@ -249,7 +385,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43601",
-    "_description": "価格応相談"
+    "_description": "価格応相談",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 19,
@@ -263,7 +407,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43600",
-    "_description": "価格は応相談。"
+    "_description": "価格は応相談。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 20,
@@ -277,7 +429,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売土地",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43599",
-    "_description": "畑付きの土地です！（畑：547平米）"
+    "_description": "畑付きの土地です！（畑：547平米）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 21,
@@ -291,7 +451,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売戸建",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43594",
-    "_description": "スーパーや公共施設が近く便利な場所です"
+    "_description": "スーパーや公共施設が近く便利な場所です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 22,
@@ -305,7 +473,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売戸建",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43587",
-    "_description": "六郷温泉あったか山まで車で3分"
+    "_description": "六郷温泉あったか山まで車で3分",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 23,
@@ -319,7 +495,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売戸建",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43583",
-    "_description": "県道11号（角館六郷）線へのアクセス良"
+    "_description": "県道11号（角館六郷）線へのアクセス良",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 24,
@@ -333,7 +517,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売戸建",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43572",
-    "_description": "静かな田園地帯にある2階建て"
+    "_description": "静かな田園地帯にある2階建て",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 25,
@@ -347,7 +539,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売戸建",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43589",
-    "_description": "二間続きの和室は様々な活用ができます"
+    "_description": "二間続きの和室は様々な活用ができます",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 26,
@@ -361,7 +561,15 @@
     "_pref_government": "仙北郡美郷町",
     "_type": "売事業用(一棟)",
     "_detail_url": "https://misato-t05434.akiya-athome.jp/bukken/detail/buy/43690",
-    "_description": "作業所併設。現状引渡になります。"
+    "_description": "作業所併設。現状引渡になります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 27,
@@ -375,7 +583,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43775",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 28,
@@ -389,7 +605,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43773",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 29,
@@ -403,7 +627,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43790",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 30,
@@ -417,7 +649,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43777",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 31,
@@ -431,7 +671,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43768",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 32,
@@ -445,7 +693,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43764",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 33,
@@ -459,7 +715,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/43766",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 34,
@@ -473,7 +737,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/43688",
-    "_description": "日本庭園あり リフォーム済駐車場2台太陽光パネル、200V用充電器あり、エコキュート"
+    "_description": "日本庭園あり リフォーム済駐車場2台太陽光パネル、200V用充電器あり、エコキュート",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 35,
@@ -487,7 +759,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43669",
-    "_description": "二世帯住宅で広々！２LDK+１LDK+３LDKの間取りです敷地内に駐車可"
+    "_description": "二世帯住宅で広々！２LDK+１LDK+３LDKの間取りです敷地内に駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 36,
@@ -501,7 +781,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43672",
-    "_description": "庭付きの物件です（約100坪）車庫兼物置あり"
+    "_description": "庭付きの物件です（約100坪）車庫兼物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 37,
@@ -515,7 +803,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43667",
-    "_description": "敷地内に駐車可（１台分）"
+    "_description": "敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 38,
@@ -529,7 +825,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43662",
-    "_description": "１階部分は元店舗（美容院）３階建ての物件です"
+    "_description": "１階部分は元店舗（美容院）３階建ての物件です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 39,
@@ -543,7 +847,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/41161",
-    "_description": "多少の修繕必要（入居者負担）風呂について特記事項あり"
+    "_description": "多少の修繕必要（入居者負担）風呂について特記事項あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 40,
@@ -557,7 +869,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43341",
-    "_description": "扇田小学校まで徒歩2分扇田駅から物件まで徒歩10分敷地内に駐車可（４台分）"
+    "_description": "扇田小学校まで徒歩2分扇田駅から物件まで徒歩10分敷地内に駐車可（４台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 41,
@@ -571,7 +891,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43339",
-    "_description": "車庫・物置有り（２台駐車可）城南小学校まで徒歩16分"
+    "_description": "車庫・物置有り（２台駐車可）城南小学校まで徒歩16分",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 42,
@@ -585,7 +913,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/43291",
-    "_description": "良好な管理状態にあるもの"
+    "_description": "良好な管理状態にあるもの",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 43,
@@ -599,7 +935,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/43240",
-    "_description": "仙市大曲日の出町1丁目 敷地面積 約100坪 余裕のある敷地に4SLDK戸建て住宅「大曲の花火」会場まで約2.2km。歩いて花火を楽しめる好立地です。整った長方形の敷地に駐車場・車庫・物置付き。リフォーム次第で活用の幅が広がります。"
+    "_description": "仙市大曲日の出町1丁目 敷地面積 約100坪 余裕のある敷地に4SLDK戸建て住宅「大曲の花火」会場まで約2.2km。歩いて花火を楽しめる好立地です。整った長方形の敷地に駐車場・車庫・物置付き。リフォーム次第で活用の幅が広がります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 44,
@@ -613,7 +957,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43202",
-    "_description": "住宅と一体の車庫有り（１台分）敷地内に駐車可（１台分）"
+    "_description": "住宅と一体の車庫有り（１台分）敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 45,
@@ -627,7 +979,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/43095",
-    "_description": "敷地内に駐車可（２台分）住宅と別に車庫有り（１台分）"
+    "_description": "敷地内に駐車可（２台分）住宅と別に車庫有り（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 46,
@@ -641,7 +1001,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/43071",
-    "_description": "須川ICまで車で約４分、雄勝小学校・雄勝中学校まで4,300ｍ、コンビニまで2,300ｍ、スーパーまで3,500ｍ、ドラッグストアまで3,400ｍ、"
+    "_description": "須川ICまで車で約４分、雄勝小学校・雄勝中学校まで4,300ｍ、コンビニまで2,300ｍ、スーパーまで3,500ｍ、ドラッグストアまで3,400ｍ、",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 47,
@@ -655,7 +1023,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/43039",
-    "_description": "広々とした敷地に建つ大きな家。住み方、使い方がいろいろありそうです。"
+    "_description": "広々とした敷地に建つ大きな家。住み方、使い方がいろいろありそうです。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 48,
@@ -669,7 +1045,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42901",
-    "_description": "有浦小学校まで徒歩約14分東中学校まで徒歩約11分車庫有り（住宅と一体／電動シャッター付）"
+    "_description": "有浦小学校まで徒歩約14分東中学校まで徒歩約11分車庫有り（住宅と一体／電動シャッター付）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 49,
@@ -683,7 +1067,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42840",
-    "_description": "車庫有り（住宅と別／１台分駐車可）"
+    "_description": "車庫有り（住宅と別／１台分駐車可）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 50,
@@ -697,7 +1089,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/42865",
-    "_description": "大仙市大曲西根字杉矢崎 5DKの車庫付き中古戸建て住宅広々とした土地で、隣家ともゆとりある距離。豊かな自然に囲まれた静かな環境で、のびのび子育てができます。小学校も近く、子育て世帯にはぴったりの住まいです。"
+    "_description": "大仙市大曲西根字杉矢崎 5DKの車庫付き中古戸建て住宅広々とした土地で、隣家ともゆとりある距離。豊かな自然に囲まれた静かな環境で、のびのび子育てができます。小学校も近く、子育て世帯にはぴったりの住まいです。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 51,
@@ -711,7 +1111,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/42854",
-    "_description": "【中古戸建住宅】大仙市大曲あけぼの町６LDK 中古戸建て住宅 大曲小学校800m 大曲の花火会場目の前200m大曲駅まで車で5分！前面道路は消雪設備あり、大曲の花火会場まで200m。広いリビングと多くの居室あり、車庫付きの物件になります。"
+    "_description": "【中古戸建住宅】大仙市大曲あけぼの町６LDK 中古戸建て住宅 大曲小学校800m 大曲の花火会場目の前200m大曲駅まで車で5分！前面道路は消雪設備あり、大曲の花火会場まで200m。広いリビングと多くの居室あり、車庫付きの物件になります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 52,
@@ -725,7 +1133,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42826",
-    "_description": "平屋の物件です建物と別に物置有り"
+    "_description": "平屋の物件です建物と別に物置有り",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 53,
@@ -739,7 +1155,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42805",
-    "_description": "【母屋】5LDKに別棟の【離れ】3DKが付いた物件です敷地内に駐車可（１台分）庭有り（約６坪）"
+    "_description": "【母屋】5LDKに別棟の【離れ】3DKが付いた物件です敷地内に駐車可（１台分）庭有り（約６坪）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 54,
@@ -753,7 +1177,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42803",
-    "_description": "【母屋】4LDKに別棟の【離れ】3LDKが付いた物件です敷地内に駐車可（２台分）物置有り（建物と別）"
+    "_description": "【母屋】4LDKに別棟の【離れ】3LDKが付いた物件です敷地内に駐車可（２台分）物置有り（建物と別）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 55,
@@ -767,7 +1199,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/42752",
-    "_description": "雄勝小学校・中学校まで500ｍコンビニ・ドラッグストアまで950ｍスーパーまで550ｍホームセンターまで850ｍ"
+    "_description": "雄勝小学校・中学校まで500ｍコンビニ・ドラッグストアまで950ｍスーパーまで550ｍホームセンターまで850ｍ",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 56,
@@ -781,7 +1221,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42711",
-    "_description": "物置あり（住宅と別・車庫を兼ねる）敷地内に駐車可（２台分）"
+    "_description": "物置あり（住宅と別・車庫を兼ねる）敷地内に駐車可（２台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 57,
@@ -795,7 +1243,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42440",
-    "_description": "物置付の物件です敷地内に駐車可（１台分）"
+    "_description": "物置付の物件です敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 58,
@@ -809,7 +1265,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42365",
-    "_description": "物置付の物件です敷地内に駐車可（１台分）"
+    "_description": "物置付の物件です敷地内に駐車可（１台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 59,
@@ -823,7 +1287,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売戸建",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/42327",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 60,
@@ -837,7 +1309,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/42125",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 61,
@@ -851,7 +1331,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/42043",
-    "_description": "※現状引き渡し※ 米代川の辺、静かな環境に建つコンパクトな人気の平屋"
+    "_description": "※現状引き渡し※ 米代川の辺、静かな環境に建つコンパクトな人気の平屋",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 62,
@@ -865,7 +1353,15 @@
     "_pref_government": "大館市",
     "_type": "売事業用(一棟)",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/42026",
-    "_description": "駐車は敷地に収まる限り何台でも可100台は駐車可能と思われます"
+    "_description": "駐車は敷地に収まる限り何台でも可100台は駐車可能と思われます",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 63,
@@ -879,7 +1375,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/41765",
-    "_description": "暮らしやすい５DKの間取りが登場！駐車1台可。車で３分、近くにスーパーもあります。"
+    "_description": "暮らしやすい５DKの間取りが登場！駐車1台可。車で３分、近くにスーパーもあります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 64,
@@ -893,7 +1397,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/41602",
-    "_description": "最寄り駅から徒歩5分。漁港や海水浴場、公園にも近い商店街の中に佇む２階建４LDKの物件です。"
+    "_description": "最寄り駅から徒歩5分。漁港や海水浴場、公園にも近い商店街の中に佇む２階建４LDKの物件です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 65,
@@ -907,7 +1419,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/41603",
-    "_description": "海がすぐ目の前にある閑静な古い街並みにある２LDKの物件です。吹き抜けの開放的なロフト付きです。にかほ市内に日帰りの立ち寄り湯があります。鳥海山の眺望と日本海の眺めが最高です。"
+    "_description": "海がすぐ目の前にある閑静な古い街並みにある２LDKの物件です。吹き抜けの開放的なロフト付きです。にかほ市内に日帰りの立ち寄り湯があります。鳥海山の眺望と日本海の眺めが最高です。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 66,
@@ -921,7 +1441,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/41745",
-    "_description": "駅、商業施設や病院、学校などが全て徒歩圏内の住宅地にある７LDKの物件です。にかほ市の移住支援制度、リフォーム補助金制度など対象物件。にかほ市には市内数カ所の立ち寄り温泉入浴施設もあります。"
+    "_description": "駅、商業施設や病院、学校などが全て徒歩圏内の住宅地にある７LDKの物件です。にかほ市の移住支援制度、リフォーム補助金制度など対象物件。にかほ市には市内数カ所の立ち寄り温泉入浴施設もあります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 67,
@@ -935,7 +1463,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/41895",
-    "_description": "釣りスポットやキャンプ場、鳥海山を眺望できる公園まで近い２階建6LDKの物件ですにかほ市への移住支援制度や空き家情報バンク支援制度、リフォーム補助金対象物件です。"
+    "_description": "釣りスポットやキャンプ場、鳥海山を眺望できる公園まで近い２階建6LDKの物件ですにかほ市への移住支援制度や空き家情報バンク支援制度、リフォーム補助金対象物件です。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 68,
@@ -949,7 +1485,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/41777",
-    "_description": "古の城下町の風情が残る檜山地区。その中心地に建つゆとりの空間。のんびりとして暮らしができそうです。"
+    "_description": "古の城下町の風情が残る檜山地区。その中心地に建つゆとりの空間。のんびりとして暮らしができそうです。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 69,
@@ -963,7 +1507,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/41629",
-    "_description": "倉庫付き物件！敷地には広い庭で夏はBBQ、冬は雪捨て場も十分。広々とした家で多様な暮らし方が考えられるお家です。"
+    "_description": "倉庫付き物件！敷地には広い庭で夏はBBQ、冬は雪捨て場も十分。広々とした家で多様な暮らし方が考えられるお家です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 70,
@@ -977,7 +1529,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/41716",
-    "_description": "敷地内に駐車可（３台分）ウッドデッキ付き＆サンルーム付きの物件です"
+    "_description": "敷地内に駐車可（３台分）ウッドデッキ付き＆サンルーム付きの物件です",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 71,
@@ -991,7 +1551,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/41702",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 72,
@@ -1005,7 +1573,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/41706",
-    "_description": "敷地内に２台駐車可庭有り（約100平米）"
+    "_description": "敷地内に２台駐車可庭有り（約100平米）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 73,
@@ -1019,7 +1595,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/41649",
-    "_description": "管理がしっかりとされていて、状態は良好です。湯沢東小・湯沢北中まで1700ｍ、雄勝中央病院まで5600ｍ、コンビニまで700ｍ、スーパーまで1500ｍ"
+    "_description": "管理がしっかりとされていて、状態は良好です。湯沢東小・湯沢北中まで1700ｍ、雄勝中央病院まで5600ｍ、コンビニまで700ｍ、スーパーまで1500ｍ",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 74,
@@ -1033,7 +1617,15 @@
     "_pref_government": "南秋田郡大潟村",
     "_type": "売戸建",
     "_detail_url": "https://ogta-v05368.akiya-athome.jp/bukken/detail/buy/41630",
-    "_description": "広い２世帯住宅です"
+    "_description": "広い２世帯住宅です",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 75,
@@ -1047,7 +1639,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/41478",
-    "_description": "海沿いにある平屋建ての趣のある古民家物件です♪ 別荘やゲストハウスなどでの二拠点居住の方にもオススメです。温泉施設にも近く、にかほ市内は他にも鳥海山を眺望できる温泉施設も多く、500円ほどで市内のそうした施設を楽しむことができます。リフォーム補助金や移住支援金など対象となる人にもオススメします！"
+    "_description": "海沿いにある平屋建ての趣のある古民家物件です♪ 別荘やゲストハウスなどでの二拠点居住の方にもオススメです。温泉施設にも近く、にかほ市内は他にも鳥海山を眺望できる温泉施設も多く、500円ほどで市内のそうした施設を楽しむことができます。リフォーム補助金や移住支援金など対象となる人にもオススメします！",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 76,
@@ -1061,7 +1661,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/41426",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 77,
@@ -1075,7 +1683,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/41439",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 78,
@@ -1089,7 +1705,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/41380",
-    "_description": "敷地面積が広大な物件敷地内に10台分駐車可庭有り（約100坪）"
+    "_description": "敷地面積が広大な物件敷地内に10台分駐車可庭有り（約100坪）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 79,
@@ -1103,7 +1727,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/41200",
-    "_description": "【中古戸建住宅】大仙市藤木字八幡腰 平成5年新築広々とした敷地で陽当たり良好！建物大きく、洋室・和室部屋数多数あり！大型車庫・倉庫付き！詳細はお気軽にお問い合わせください。"
+    "_description": "【中古戸建住宅】大仙市藤木字八幡腰 平成5年新築広々とした敷地で陽当たり良好！建物大きく、洋室・和室部屋数多数あり！大型車庫・倉庫付き！詳細はお気軽にお問い合わせください。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 80,
@@ -1117,7 +1749,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/41191",
-    "_description": "敷地内に駐車可（３台分）扇田長岡下バス停まで徒歩約4分扇田小学校まで徒歩約11分"
+    "_description": "敷地内に駐車可（３台分）扇田長岡下バス停まで徒歩約4分扇田小学校まで徒歩約11分",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 81,
@@ -1131,7 +1771,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/40893",
-    "_description": "庭石を配した庭が、暮らしにスペースと心にゆとりをつくります。"
+    "_description": "庭石を配した庭が、暮らしにスペースと心にゆとりをつくります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 82,
@@ -1145,7 +1793,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/40956",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 83,
@@ -1159,7 +1815,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/40957",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 84,
@@ -1173,7 +1837,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40961",
-    "_description": "山瀬小学校まで徒歩約11分車庫・庭付きの物件です車庫（２台分）敷地内に駐車可（２台分）"
+    "_description": "山瀬小学校まで徒歩約11分車庫・庭付きの物件です車庫（２台分）敷地内に駐車可（２台分）",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 85,
@@ -1187,7 +1859,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/40534",
-    "_description": "田園が広がる地域の一画。広い敷地には、母屋のほか車庫と物置小屋の別棟、車３～４台駐車可能なスペースがあります。"
+    "_description": "田園が広がる地域の一画。広い敷地には、母屋のほか車庫と物置小屋の別棟、車３～４台駐車可能なスペースがあります。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 86,
@@ -1201,7 +1881,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/40856",
-    "_description": "4LDKの平屋建てで高速乗り口からすぐ。海水浴場も近い立地の物件です♪にかほ市空き家情報バンク登録物件です。市の補助金支援制度対象です。"
+    "_description": "4LDKの平屋建てで高速乗り口からすぐ。海水浴場も近い立地の物件です♪にかほ市空き家情報バンク登録物件です。市の補助金支援制度対象です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 87,
@@ -1215,7 +1903,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40718",
-    "_description": "庭付きの物件です（約10坪）"
+    "_description": "庭付きの物件です（約10坪）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 88,
@@ -1229,7 +1925,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40684",
-    "_description": "敷地内に駐車可（2～3台）住宅と別に車庫有"
+    "_description": "敷地内に駐車可（2～3台）住宅と別に車庫有",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 89,
@@ -1243,7 +1947,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/40527",
-    "_description": "多様な暮らし方が期待できる、駅チカ９DK！洋室、和室と数多くありますので、事務所利用にも。閑静な住宅街。"
+    "_description": "多様な暮らし方が期待できる、駅チカ９DK！洋室、和室と数多くありますので、事務所利用にも。閑静な住宅街。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 90,
@@ -1257,7 +1969,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40405",
-    "_description": "敷地内に駐車可（２台分）建物と別に車庫有り（２台分）"
+    "_description": "敷地内に駐車可（２台分）建物と別に車庫有り（２台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 91,
@@ -1271,7 +1991,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40336",
-    "_description": "敷地内に駐車可（1台分）住宅と別に車庫有り（１台分）車庫の２階部分に物置有り下水道工事中"
+    "_description": "敷地内に駐車可（1台分）住宅と別に車庫有り（１台分）車庫の２階部分に物置有り下水道工事中",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 92,
@@ -1285,7 +2013,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/40240",
-    "_description": "敷地内に駐車可（3～4台分）住宅と別に車庫有り（１台分）庭部分（約100坪）で家庭菜園可能です（日当たり良好）"
+    "_description": "敷地内に駐車可（3～4台分）住宅と別に車庫有り（１台分）庭部分（約100坪）で家庭菜園可能です（日当たり良好）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 93,
@@ -1299,7 +2035,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/40176",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 94,
@@ -1313,7 +2057,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/40001",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 95,
@@ -1327,7 +2079,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/39761",
-    "_description": "収納スペースたっぷりの車庫付邸宅！南西角地で日当たり良好車庫付き(１台分)・南向きのベランダ有り２階には小屋裏収納があり季節などを収納するスペースにぴったり玄関部分は吹き抜けで開放的"
+    "_description": "収納スペースたっぷりの車庫付邸宅！南西角地で日当たり良好車庫付き(１台分)・南向きのベランダ有り２階には小屋裏収納があり季節などを収納するスペースにぴったり玄関部分は吹き抜けで開放的",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 96,
@@ -1341,7 +2101,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/39670",
-    "_description": "広々とした住居スペースと車庫兼作業小屋のついて子育て世帯にもオススメの物件です。"
+    "_description": "広々とした住居スペースと車庫兼作業小屋のついて子育て世帯にもオススメの物件です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 97,
@@ -1355,7 +2123,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売戸建",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39619",
-    "_description": "家・物置・畑と全部揃った\"家”道路が狭く駐車できる車種は限られるが、自宅の築年数が古いもののトイレやお風呂といった水回りのリフォームも済んでおり、毎年帰省の度にメンテナンスしていることからも状態が良く、暮らすにはオススメとのこと。"
+    "_description": "家・物置・畑と全部揃った\"家”道路が狭く駐車できる車種は限られるが、自宅の築年数が古いもののトイレやお風呂といった水回りのリフォームも済んでおり、毎年帰省の度にメンテナンスしていることからも状態が良く、暮らすにはオススメとのこと。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 98,
@@ -1369,7 +2145,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売戸建",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39630",
-    "_description": "朝市通りに面した賑やかな立地で、通りを歩いていても目を惹く立派な日本家屋広々とした縁側は、四季折々の景色が楽しめる特等席であり、朝市通りに面した側とは異なる静けさを楽しむことができます。"
+    "_description": "朝市通りに面した賑やかな立地で、通りを歩いていても目を惹く立派な日本家屋広々とした縁側は、四季折々の景色が楽しめる特等席であり、朝市通りに面した側とは異なる静けさを楽しむことができます。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 99,
@@ -1383,7 +2167,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/39283",
-    "_description": "広々とした７LDK、車庫が２カ所あります。１階、２階にトイレあり。"
+    "_description": "広々とした７LDK、車庫が２カ所あります。１階、２階にトイレあり。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 100,
@@ -1397,7 +2189,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39600",
-    "_description": "雄和相川にある平家建住宅。県道に接し交通アクセスが良好。敷地が広く家庭菜園も楽しめます。耐震診断未実施、建物状況調査未実施山林1462平米および畑（現況山林）275平米も併せて売却。畑については地目変更（農業委員会への非農地申請）が必要。未登記の物置小屋有。多少の補修が必要"
+    "_description": "雄和相川にある平家建住宅。県道に接し交通アクセスが良好。敷地が広く家庭菜園も楽しめます。耐震診断未実施、建物状況調査未実施山林1462平米および畑（現況山林）275平米も併せて売却。畑については地目変更（農業委員会への非農地申請）が必要。未登記の物置小屋有。多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 101,
@@ -1411,7 +2211,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39599",
-    "_description": "スーパー、牛島小学校、城南中学校に近く、利便性の高い住宅地です。耐震診断不要、建物状況調査未実施前面道路は私道（持分有）多少の補修が必要"
+    "_description": "スーパー、牛島小学校、城南中学校に近く、利便性の高い住宅地です。耐震診断不要、建物状況調査未実施前面道路は私道（持分有）多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 102,
@@ -1425,7 +2233,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39598",
-    "_description": "飯島鼠田の閑静な住宅地にある5K2階建住宅です。建物解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施建ぺい率、容積率超過建物解体更地渡し可多少の補修が必要"
+    "_description": "飯島鼠田の閑静な住宅地にある5K2階建住宅です。建物解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施建ぺい率、容積率超過建物解体更地渡し可多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 103,
@@ -1439,7 +2255,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39596",
-    "_description": "スーパーや病院に近く、横山金足線へのアクセスも良好な利便性の高い住宅地です。耐震診断不要、建物状況調査未実施未登記物件あり（物置小屋）前面道路私道（共有持分あり）令和5年7月の水害により床下浸水被害あり大幅な補修が必要"
+    "_description": "スーパーや病院に近く、横山金足線へのアクセスも良好な利便性の高い住宅地です。耐震診断不要、建物状況調査未実施未登記物件あり（物置小屋）前面道路私道（共有持分あり）令和5年7月の水害により床下浸水被害あり大幅な補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 104,
@@ -1453,7 +2277,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39595",
-    "_description": "田園風景の広がる自然豊かな立地の9DK・2階建住宅です。耐震診断未実施、建物状況調査未実施敷地全体が土砂災害警戒区域、うち敷地の一部（物置含む）が土砂災害特別警戒区域内の指定あり。多少の補修が必要"
+    "_description": "田園風景の広がる自然豊かな立地の9DK・2階建住宅です。耐震診断未実施、建物状況調査未実施敷地全体が土砂災害警戒区域、うち敷地の一部（物置含む）が土砂災害特別警戒区域内の指定あり。多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 105,
@@ -1467,7 +2299,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39594",
-    "_description": "川沿いの自然豊かな土地に建つ、庭付き5SLDK2階建の純和風住宅です。耐震診断不要、建物状況調査未実施線引き前住宅（平成12年2月建て替え）土砂災害警戒区域内および急傾斜地崩壊危険区域内（土地建物を現状のまま使用の場合は許可不要）多少の補修が必要"
+    "_description": "川沿いの自然豊かな土地に建つ、庭付き5SLDK2階建の純和風住宅です。耐震診断不要、建物状況調査未実施線引き前住宅（平成12年2月建て替え）土砂災害警戒区域内および急傾斜地崩壊危険区域内（土地建物を現状のまま使用の場合は許可不要）多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 106,
@@ -1481,7 +2321,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39592",
-    "_description": "幅員16mの公道に接する整形地の8DK+N、2階建住宅です。耐震診断未実施、建物状況調査未実施多少の補修が必要"
+    "_description": "幅員16mの公道に接する整形地の8DK+N、2階建住宅です。耐震診断未実施、建物状況調査未実施多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 107,
@@ -1495,7 +2343,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39590",
-    "_description": "横山金足線沿いの濁川地区にある4LDK2階建住宅です。耐震診断不要、建物状況調査未実施敷地と建物の一部に土砂災害警戒区域の指定有多少の補修が必要"
+    "_description": "横山金足線沿いの濁川地区にある4LDK2階建住宅です。耐震診断不要、建物状況調査未実施敷地と建物の一部に土砂災害警戒区域の指定有多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 108,
@@ -1509,7 +2365,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39589",
-    "_description": "秋田高校まで約350ｍ、秋田大学まで約500ｍの手形字大松沢にある5LDK2階建住宅です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可多少の補修が必要"
+    "_description": "秋田高校まで約350ｍ、秋田大学まで約500ｍの手形字大松沢にある5LDK2階建住宅です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 109,
@@ -1523,7 +2387,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39587",
-    "_description": "新屋沖田町にある4DK二階建て住宅です。新屋駅に近く利便性の高い住宅地です。耐震診断未実施、建物状況調査未実施建物は建ぺい率超過。室内の動産処分は売主にて負担。その他は現状渡し。多少の補修が必要"
+    "_description": "新屋沖田町にある4DK二階建て住宅です。新屋駅に近く利便性の高い住宅地です。耐震診断未実施、建物状況調査未実施建物は建ぺい率超過。室内の動産処分は売主にて負担。その他は現状渡し。多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 110,
@@ -1537,7 +2409,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39586",
-    "_description": "自然豊かな環境にある軽量鉄骨造4LDK二階建住宅です。耐震診断不要、建物状況調査未実施敷地全体が急傾斜地崩壊危険区域および一部が土砂災害警戒区域（建物含む）、うち敷地の一部が土砂災害特別警戒区域内の指定あり。多少の補修が必要"
+    "_description": "自然豊かな環境にある軽量鉄骨造4LDK二階建住宅です。耐震診断不要、建物状況調査未実施敷地全体が急傾斜地崩壊危険区域および一部が土砂災害警戒区域（建物含む）、うち敷地の一部が土砂災害特別警戒区域内の指定あり。多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 111,
@@ -1551,7 +2431,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39585",
-    "_description": "横山金足線に近い5SLDK2階建て住宅。秋田温泉にも近い閑静な住宅地にあります。耐震診断不要、建物状況調査未実施多少の補修が必要"
+    "_description": "横山金足線に近い5SLDK2階建て住宅。秋田温泉にも近い閑静な住宅地にあります。耐震診断不要、建物状況調査未実施多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 112,
@@ -1565,7 +2453,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39583",
-    "_description": "国道7号線に近い金足下刈にある6LDK2階建住宅です。耐震診断不要、建物状況調査未実施建物の建替、増改築時は建築基準法第43条2項2号の事前協議、許可申請が必要です。多少の修繕が必要"
+    "_description": "国道7号線に近い金足下刈にある6LDK2階建住宅です。耐震診断不要、建物状況調査未実施建物の建替、増改築時は建築基準法第43条2項2号の事前協議、許可申請が必要です。多少の修繕が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 113,
@@ -1579,7 +2475,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39581",
-    "_description": "自宅裏に竹林があり、風情のある景色を眺めることのできる4DK平家建住宅です。耐震診断未実施、建物状況調査未実施線引き前住宅。建物未登記（売買契約後、引き渡し前に要登記）。多少の補修が必要"
+    "_description": "自宅裏に竹林があり、風情のある景色を眺めることのできる4DK平家建住宅です。耐震診断未実施、建物状況調査未実施線引き前住宅。建物未登記（売買契約後、引き渡し前に要登記）。多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 114,
@@ -1593,7 +2497,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39580",
-    "_description": "秋田市郊外の自然豊かで閑静な住宅地にある6SLDK2階建の住宅です。耐震診断不要、建物状況調査未実施原野（河辺岩見字会沢）484平米も併せて売却多少補修必要"
+    "_description": "秋田市郊外の自然豊かで閑静な住宅地にある6SLDK2階建の住宅です。耐震診断不要、建物状況調査未実施原野（河辺岩見字会沢）484平米も併せて売却多少補修必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 115,
@@ -1607,7 +2519,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39575",
-    "_description": "飯島文京町にある3LDK二階建住宅です。22帖LDKで収納スペースも充実しています。耐震診断不要、建物状況調査未実施。建物の建替、増改築時は建築基準法第43条2項2号の事前協議、許可申請が必要。および実測によりセットバック(0.005メートル)が必要。駐車場は車種によって複数台駐車可能。大幅な補修が必要"
+    "_description": "飯島文京町にある3LDK二階建住宅です。22帖LDKで収納スペースも充実しています。耐震診断不要、建物状況調査未実施。建物の建替、増改築時は建築基準法第43条2項2号の事前協議、許可申請が必要。および実測によりセットバック(0.005メートル)が必要。駐車場は車種によって複数台駐車可能。大幅な補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 116,
@@ -1621,7 +2541,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39574",
-    "_description": "飯島道東にある車庫付きの5LDK2階建て住宅。上飯島駅に近く、利便性のある住宅地です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可未登記物件あり（車庫：13.22平米）多少の補修が必要"
+    "_description": "飯島道東にある車庫付きの5LDK2階建て住宅。上飯島駅に近く、利便性のある住宅地です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可未登記物件あり（車庫：13.22平米）多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 117,
@@ -1635,7 +2563,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/39571",
-    "_description": "幹線道路に近い、牛島東一丁目にある5SDK平屋建て住宅です。耐震診断未実施、建物状況調査未実施全面道路が私道のため、再建築の際は43条2項2号の許可申請が必要（事前協議済）。多少の補修が必要"
+    "_description": "幹線道路に近い、牛島東一丁目にある5SDK平屋建て住宅です。耐震診断未実施、建物状況調査未実施全面道路が私道のため、再建築の際は43条2項2号の許可申請が必要（事前協議済）。多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 118,
@@ -1649,7 +2585,15 @@
     "_pref_government": "横手市",
     "_type": "売戸建",
     "_detail_url": "https://yokote-c05203.akiya-athome.jp/bukken/detail/buy/39524",
-    "_description": "多少補修必要（入居者負担）"
+    "_description": "多少補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 119,
@@ -1663,7 +2607,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39509",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 120,
@@ -1677,7 +2629,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39508",
-    "_description": "小屋がありますが、更地渡し可能です。"
+    "_description": "小屋がありますが、更地渡し可能です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 121,
@@ -1691,7 +2651,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/39450",
-    "_description": "建物と別に４台駐車可の車庫有（住宅敷地の道路向かい）給湯（エコキュート）・キッチン・お風呂等水廻りはリフォーム済"
+    "_description": "建物と別に４台駐車可の車庫有（住宅敷地の道路向かい）給湯（エコキュート）・キッチン・お風呂等水廻りはリフォーム済",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 122,
@@ -1705,7 +2673,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39252",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 123,
@@ -1719,7 +2695,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39395",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 124,
@@ -1733,7 +2717,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売土地",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/39398",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 125,
@@ -1747,7 +2739,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/39094",
-    "_description": "令和７年１０月リフォーム済敷地内に２台以上駐車可車庫有（住宅と一体）全居室８畳以上"
+    "_description": "令和７年１０月リフォーム済敷地内に２台以上駐車可車庫有（住宅と一体）全居室８畳以上",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 126,
@@ -1761,7 +2761,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/38987",
-    "_description": "港町の店舗付き物件港町にある店舗つき住宅物件です。平成24年にリフォームされており空き家になってからまだ間もない物件です。市内の温泉施設９ヶ所利用できます。"
+    "_description": "港町の店舗付き物件港町にある店舗つき住宅物件です。平成24年にリフォームされており空き家になってからまだ間もない物件です。市内の温泉施設９ヶ所利用できます。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 127,
@@ -1775,7 +2783,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/38977",
-    "_description": "港町でカフェ起業をしたい人にオススメ！漁港、海水浴場に近くカフェスペースもありカフェ起業したい人にもオススメな物件です♪市内９ヶ所に日帰り温泉施設もあります♪"
+    "_description": "港町でカフェ起業をしたい人にオススメ！漁港、海水浴場に近くカフェスペースもありカフェ起業したい人にもオススメな物件です♪市内９ヶ所に日帰り温泉施設もあります♪",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 128,
@@ -1789,7 +2805,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/38980",
-    "_description": "部屋数多い物件探している人必見です！漁港に近く、部屋数も駐車スペースも広い物件です。シェアハウスなど向けの部屋数の多さです。"
+    "_description": "部屋数多い物件探している人必見です！漁港に近く、部屋数も駐車スペースも広い物件です。シェアハウスなど向けの部屋数の多さです。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 129,
@@ -1803,7 +2827,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/38979",
-    "_description": "閑静な住宅地にある物件です♪田園風景や鳥海山が眺望できる子育て世帯向けの物件です。にかほ市内の温泉施設９ヶ所も利用可能です！"
+    "_description": "閑静な住宅地にある物件です♪田園風景や鳥海山が眺望できる子育て世帯向けの物件です。にかほ市内の温泉施設９ヶ所も利用可能です！",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 130,
@@ -1817,7 +2849,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/38835",
-    "_description": "人気の住宅街の一画、車庫と駐車スペース合わせて３台駐車可能です。"
+    "_description": "人気の住宅街の一画、車庫と駐車スペース合わせて３台駐車可能です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 131,
@@ -1831,7 +2871,15 @@
     "_pref_government": "南秋田郡五城目町",
     "_type": "売戸建",
     "_detail_url": "https://gojome-t05361.akiya-athome.jp/bukken/detail/buy/38361",
-    "_description": "水源もある自然豊かな環境周囲には自然風景が広がっています。自宅の山には水源もあり、手入れすることで融雪にも使えます。内川地区というと2年連続で起きた水害をイメージしてしまいますが、山側にあり水害の影響は受けていないお宅です。"
+    "_description": "水源もある自然豊かな環境周囲には自然風景が広がっています。自宅の山には水源もあり、手入れすることで融雪にも使えます。内川地区というと2年連続で起きた水害をイメージしてしまいますが、山側にあり水害の影響は受けていないお宅です。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 132,
@@ -1845,7 +2893,15 @@
     "_pref_government": "山本郡藤里町",
     "_type": "売戸建",
     "_detail_url": "https://fujisato-t05346.akiya-athome.jp/bukken/detail/buy/38316",
-    "_description": "これぞ里山の眺望！一の渡地区の高台に立地し、豊かな水田を見下ろす。"
+    "_description": "これぞ里山の眺望！一の渡地区の高台に立地し、豊かな水田を見下ろす。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 133,
@@ -1859,7 +2915,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/38029",
-    "_description": "コンビニまで徒歩5分車庫1台＋敷地内に2台駐車可"
+    "_description": "コンビニまで徒歩5分車庫1台＋敷地内に2台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 134,
@@ -1873,7 +2937,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/36790",
-    "_description": "近隣にスーパーがあり、暮らしに便利な6DK！部屋数が多くゆったりとした生活が実現できます。車庫付き物件です。"
+    "_description": "近隣にスーパーがあり、暮らしに便利な6DK！部屋数が多くゆったりとした生活が実現できます。車庫付き物件です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 135,
@@ -1887,7 +2959,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/37742",
-    "_description": "コンビニまで徒歩6分ニプロハチ公ドームまで徒歩10分"
+    "_description": "コンビニまで徒歩6分ニプロハチ公ドームまで徒歩10分",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 136,
@@ -1901,7 +2981,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/37448",
-    "_description": "【中古戸建住宅】大仙市協和上淀川字東町後 昭和51年新築広い土地に車３台駐車可能！小中学校が近く、子育て世代に便利な土地です！"
+    "_description": "【中古戸建住宅】大仙市協和上淀川字東町後 昭和51年新築広い土地に車３台駐車可能！小中学校が近く、子育て世代に便利な土地です！",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 4
+    }
   },
   {
     "house_id": 137,
@@ -1915,7 +3003,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/37370",
-    "_description": "2台分のカーポート有り建物と別に物置ありオール電化住宅太陽光パネル4.96kW蓄電池（容量規格4kW）"
+    "_description": "2台分のカーポート有り建物と別に物置ありオール電化住宅太陽光パネル4.96kW蓄電池（容量規格4kW）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 138,
@@ -1929,7 +3025,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/37209",
-    "_description": "十分な部屋数と建物前に屋根付きの駐車スペースがあるほか、向いには車庫と駐車スペースあるので、車を多く所有する家族におススメです。"
+    "_description": "十分な部屋数と建物前に屋根付きの駐車スペースがあるほか、向いには車庫と駐車スペースあるので、車を多く所有する家族におススメです。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 139,
@@ -1943,7 +3047,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/37198",
-    "_description": "最寄りコンビニまで徒歩5分圏内桂城小学校まで徒歩10分圏内敷地内に2台駐車可"
+    "_description": "最寄りコンビニまで徒歩5分圏内桂城小学校まで徒歩10分圏内敷地内に2台駐車可",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 140,
@@ -1957,7 +3069,15 @@
     "_pref_government": "由利本荘市",
     "_type": "売戸建",
     "_detail_url": "https://yurihonjo-c05210.akiya-athome.jp/bukken/detail/buy/37196",
-    "_description": "８DKの広々空間で海風を感じる田舎暮らし！広大な畑と海の景色が広がる、贅沢なライフスタイルはいかがですか♫"
+    "_description": "８DKの広々空間で海風を感じる田舎暮らし！広大な畑と海の景色が広がる、贅沢なライフスタイルはいかがですか♫",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 141,
@@ -1971,7 +3091,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/23833",
-    "_description": "通学や買い物に便利な立地の物件有浦小学校まで徒歩5分東中学校まで徒歩10分コンビニ・スーパー・ドラッグストアいずれも徒歩15分圏内住宅に隣接して1台分の車庫あり"
+    "_description": "通学や買い物に便利な立地の物件有浦小学校まで徒歩5分東中学校まで徒歩10分コンビニ・スーパー・ドラッグストアいずれも徒歩15分圏内住宅に隣接して1台分の車庫あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 142,
@@ -1985,7 +3113,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/36803",
-    "_description": "駅、バス停に近い住宅街の一画。小学校・中学校への通学も徒歩１０分以内なので、子育て世帯にオススメ！"
+    "_description": "駅、バス停に近い住宅街の一画。小学校・中学校への通学も徒歩１０分以内なので、子育て世帯にオススメ！",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 143,
@@ -1999,7 +3135,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/36538",
-    "_description": "小学校まで徒歩10分圏内のオール電化住宅小学校まで徒歩10分圏内オール電化住宅カーポート3台分敷地内に2台駐車可住宅と別に物置あり"
+    "_description": "小学校まで徒歩10分圏内のオール電化住宅小学校まで徒歩10分圏内オール電化住宅カーポート3台分敷地内に2台駐車可住宅と別に物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 144,
@@ -2013,7 +3157,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/36492",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 145,
@@ -2027,7 +3179,15 @@
     "_pref_government": "雄勝郡羽後町",
     "_type": "売戸建",
     "_detail_url": "https://ugo-t05463.akiya-athome.jp/bukken/detail/buy/36493",
-    "_description": "まるでポツンと一軒家のような物件。隣の家との距離が離れており静かな環境です。敷地が広く、家庭菜園が十分にできる広さです。"
+    "_description": "まるでポツンと一軒家のような物件。隣の家との距離が離れており静かな環境です。敷地が広く、家庭菜園が十分にできる広さです。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 146,
@@ -2041,7 +3201,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/36278",
-    "_description": "敷地内に2台駐車可住宅と別に車庫兼物置あり（1台分、40.48平米）耕作可能な土地あり"
+    "_description": "敷地内に2台駐車可住宅と別に車庫兼物置あり（1台分、40.48平米）耕作可能な土地あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 147,
@@ -2055,7 +3223,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/36231",
-    "_description": "良好な管理状態にあるもの（小破修繕が必要な場合あり）"
+    "_description": "良好な管理状態にあるもの（小破修繕が必要な場合あり）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 148,
@@ -2069,7 +3245,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/36233",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 149,
@@ -2083,7 +3267,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/35885",
-    "_description": "車庫1台分別途61平米の駐車場土地あり"
+    "_description": "車庫1台分別途61平米の駐車場土地あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 150,
@@ -2097,7 +3289,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/35876",
-    "_description": "車庫あり（2台分）敷地内に2台駐車可住宅と別に簡易物置あり"
+    "_description": "車庫あり（2台分）敷地内に2台駐車可住宅と別に簡易物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 151,
@@ -2111,7 +3311,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/35713",
-    "_description": "建物と別に物置あり敷地内2台駐車可"
+    "_description": "建物と別に物置あり敷地内2台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 152,
@@ -2125,7 +3333,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/35706",
-    "_description": "敷地内に2台駐車可（傾斜地となる点に注意）建物と別に物置あり"
+    "_description": "敷地内に2台駐車可（傾斜地となる点に注意）建物と別に物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 153,
@@ -2139,7 +3355,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/34592",
-    "_description": "【価格が変更になりました】注目の東能代エリアに車庫・物置付き物件！閑静な住宅街にあり、買い物や子育て環境にも十分な環境ではないでしょうか。使い勝手の良い間取りの２階建てです。"
+    "_description": "【価格が変更になりました】注目の東能代エリアに車庫・物置付き物件！閑静な住宅街にあり、買い物や子育て環境にも十分な環境ではないでしょうか。使い勝手の良い間取りの２階建てです。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 154,
@@ -2153,7 +3377,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/34995",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 155,
@@ -2167,7 +3399,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/34727",
-    "_description": "旧旅館建物（離れ有り）市の中心部にあり、総合病院や小学校まで徒歩10分以内の好立地"
+    "_description": "旧旅館建物（離れ有り）市の中心部にあり、総合病院や小学校まで徒歩10分以内の好立地",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 156,
@@ -2181,7 +3421,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/34724",
-    "_description": "希望があれば隣接する畑の売却も可能住宅と別に物置あり"
+    "_description": "希望があれば隣接する畑の売却も可能住宅と別に物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 157,
@@ -2195,7 +3443,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/34657",
-    "_description": "駅やバス乗り場が近い住宅街の一画。"
+    "_description": "駅やバス乗り場が近い住宅街の一画。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 158,
@@ -2209,7 +3465,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/34656",
-    "_description": "広々とした土地と建物、敷地内ではガーデニングや家庭菜園なども楽しめそうです"
+    "_description": "広々とした土地と建物、敷地内ではガーデニングや家庭菜園なども楽しめそうです",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 159,
@@ -2223,7 +3487,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/34506",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 160,
@@ -2237,7 +3509,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/34509",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 161,
@@ -2251,7 +3531,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/34078",
-    "_description": "住宅と別に物置あり敷地内に1台駐車可"
+    "_description": "住宅と別に物置あり敷地内に1台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 162,
@@ -2265,7 +3553,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/33891",
-    "_description": "車庫内に1台駐車可。ほか、敷地内に1台駐車可。"
+    "_description": "車庫内に1台駐車可。ほか、敷地内に1台駐車可。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 163,
@@ -2279,7 +3575,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/33597",
-    "_description": "人気の平屋物件中庭に家庭菜園スペース、蔵・倉庫付き"
+    "_description": "人気の平屋物件中庭に家庭菜園スペース、蔵・倉庫付き",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 164,
@@ -2293,7 +3597,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/33600",
-    "_description": "海好きさんにオススメ。公園や漁港、海水浴場にも近い立地。窓がある明るいキッチンです。"
+    "_description": "海好きさんにオススメ。公園や漁港、海水浴場にも近い立地。窓がある明るいキッチンです。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 165,
@@ -2307,7 +3619,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/33602",
-    "_description": "店舗併設住居物件スーパー、駅、学校が徒歩圏内の立地。"
+    "_description": "店舗併設住居物件スーパー、駅、学校が徒歩圏内の立地。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 166,
@@ -2321,7 +3641,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/33604",
-    "_description": "海好きさんにオススメ。人気の平屋物件。"
+    "_description": "海好きさんにオススメ。人気の平屋物件。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 167,
@@ -2335,7 +3663,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/33422",
-    "_description": "ご要望に応じて格安でお譲りできます。リフォーム後、ほとんど使用していないのできれいな状態です。家具類はそのままご使用いただけます。契約条件等については、当事者同士での交渉になります。詳細情報については所有者へお聞きいただくこととなります和室の床はフローリングにリフォーム済みです"
+    "_description": "ご要望に応じて格安でお譲りできます。リフォーム後、ほとんど使用していないのできれいな状態です。家具類はそのままご使用いただけます。契約条件等については、当事者同士での交渉になります。詳細情報については所有者へお聞きいただくこととなります和室の床はフローリングにリフォーム済みです",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 168,
@@ -2349,7 +3685,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/33421",
-    "_description": "契約条件等については、当事者同士での交渉になります。物件の詳細情報については所有者へお聞きいただくこととなります要修繕：水回り（所有者と相談）"
+    "_description": "契約条件等については、当事者同士での交渉になります。物件の詳細情報については所有者へお聞きいただくこととなります要修繕：水回り（所有者と相談）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 169,
@@ -2363,7 +3707,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/33419",
-    "_description": "価格は要相談既存家具については所有者との協議により決定契約条件等については、当事者同士での交渉になります。"
+    "_description": "価格は要相談既存家具については所有者との協議により決定契約条件等については、当事者同士での交渉になります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 170,
@@ -2377,7 +3729,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/33417",
-    "_description": "100万円以下物件要修繕：屋根の剥がれ、台所・和室一部雨漏り（入居者負担）"
+    "_description": "100万円以下物件要修繕：屋根の剥がれ、台所・和室一部雨漏り（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 171,
@@ -2391,7 +3751,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/33415",
-    "_description": "契約条件等については、当事者同士での交渉になります。要修繕（入居者負担）"
+    "_description": "契約条件等については、当事者同士での交渉になります。要修繕（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 172,
@@ -2405,7 +3773,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/33203",
-    "_description": "広い作業場あり"
+    "_description": "広い作業場あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 173,
@@ -2419,7 +3795,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/32758",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 174,
@@ -2433,7 +3817,15 @@
     "_pref_government": "由利本荘市",
     "_type": "売戸建",
     "_detail_url": "https://yurihonjo-c05210.akiya-athome.jp/bukken/detail/buy/32391",
-    "_description": "リンゴや柿などの果樹のほか、さまざまな野菜が採れる広々とした菜園が付いた物件！緑に囲まれた三角屋根の家で、自分だけの「人生の楽園」を見つけてみませんか？動産（家具等）の処分は購入希望者と協議し、不要であれば所有者が処分下記の付帯物件あり〇車庫兼倉庫 〇隣地246.46平米 〇のり面7.95平米＋7.84平米"
+    "_description": "リンゴや柿などの果樹のほか、さまざまな野菜が採れる広々とした菜園が付いた物件！緑に囲まれた三角屋根の家で、自分だけの「人生の楽園」を見つけてみませんか？動産（家具等）の処分は購入希望者と協議し、不要であれば所有者が処分下記の付帯物件あり〇車庫兼倉庫 〇隣地246.46平米 〇のり面7.95平米＋7.84平米",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 175,
@@ -2447,7 +3839,15 @@
     "_pref_government": "由利本荘市",
     "_type": "売戸建",
     "_detail_url": "https://yurihonjo-c05210.akiya-athome.jp/bukken/detail/buy/32399",
-    "_description": "薪ストーブの柔らかい温もりで毎日の生活に癒やしとくつろぎを。開口部が多く明るい雰囲気のダイニングルーム。きれいにお手入れされた住宅です♪動産（家具等）は引き渡し前までに空き家所有者が処分。田11筆、畑1筆、山林4筆、原野6筆、車庫1棟有り(要相談)"
+    "_description": "薪ストーブの柔らかい温もりで毎日の生活に癒やしとくつろぎを。開口部が多く明るい雰囲気のダイニングルーム。きれいにお手入れされた住宅です♪動産（家具等）は引き渡し前までに空き家所有者が処分。田11筆、畑1筆、山林4筆、原野6筆、車庫1棟有り(要相談)",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 176,
@@ -2461,7 +3861,15 @@
     "_pref_government": "山本郡藤里町",
     "_type": "売戸建",
     "_detail_url": "https://fujisato-t05346.akiya-athome.jp/bukken/detail/buy/32416",
-    "_description": "町中心部まで徒歩15分！広々と使えるお家粕毛地区の高台にあるお家。家の裏では藤琴川や田んぼなど自然豊かな景色が見られます。畑、小屋（2階建て）有り"
+    "_description": "町中心部まで徒歩15分！広々と使えるお家粕毛地区の高台にあるお家。家の裏では藤琴川や田んぼなど自然豊かな景色が見られます。畑、小屋（2階建て）有り",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 177,
@@ -2475,7 +3883,15 @@
     "_pref_government": "山本郡藤里町",
     "_type": "売戸建",
     "_detail_url": "https://fujisato-t05346.akiya-athome.jp/bukken/detail/buy/32410",
-    "_description": "単身から大人数まで色々な形で利用できる住宅社会福祉協議会や居酒屋に徒歩数分で行くことができます。数百メートル離れた場所に小屋、車庫あり（価格：100万円）"
+    "_description": "単身から大人数まで色々な形で利用できる住宅社会福祉協議会や居酒屋に徒歩数分で行くことができます。数百メートル離れた場所に小屋、車庫あり（価格：100万円）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 178,
@@ -2489,7 +3905,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32310",
-    "_description": "良好な管理状態にあるもの"
+    "_description": "良好な管理状態にあるもの",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 179,
@@ -2503,7 +3927,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32299",
-    "_description": "良好な管理状態にあるもの"
+    "_description": "良好な管理状態にあるもの",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 180,
@@ -2517,7 +3949,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32306",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 181,
@@ -2531,7 +3971,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32296",
-    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)"
+    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 182,
@@ -2545,7 +3993,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32300",
-    "_description": "平成5年車庫新築平成11年住宅増築"
+    "_description": "平成5年車庫新築平成11年住宅増築",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 183,
@@ -2559,7 +4015,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32308",
-    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)"
+    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 184,
@@ -2573,7 +4037,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32292",
-    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)"
+    "_description": "良好な管理状態にあるもの(小破修繕が必要な場合あり)",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 185,
@@ -2587,7 +4059,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32278",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 186,
@@ -2601,7 +4081,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32277",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 187,
@@ -2615,7 +4103,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32275",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 188,
@@ -2629,7 +4125,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32274",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 189,
@@ -2643,7 +4147,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32273",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 190,
@@ -2657,7 +4169,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32272",
-    "_description": "建築基準法上の道路に面してない何らかの対策が必要"
+    "_description": "建築基準法上の道路に面してない何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 191,
@@ -2671,7 +4191,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32270",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 192,
@@ -2685,7 +4213,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32267",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 193,
@@ -2699,7 +4235,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32264",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 194,
@@ -2713,7 +4257,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32260",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 195,
@@ -2727,7 +4279,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32256",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 196,
@@ -2741,7 +4301,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32255",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 197,
@@ -2755,7 +4323,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32254",
-    "_description": "建物を撤去（自己負担）した後の利用。環境省の十和田湖管理計画に基づく規制あり何らかの対策が必要"
+    "_description": "建物を撤去（自己負担）した後の利用。環境省の十和田湖管理計画に基づく規制あり何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 198,
@@ -2769,7 +4345,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32253",
-    "_description": "環境省の十和田湖管理計画に基づく規制あり良好な管理状態"
+    "_description": "環境省の十和田湖管理計画に基づく規制あり良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 199,
@@ -2783,7 +4367,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32248",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 200,
@@ -2797,7 +4389,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32247",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 201,
@@ -2811,7 +4411,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32245",
-    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態"
+    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 202,
@@ -2825,7 +4433,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32244",
-    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態"
+    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 203,
@@ -2839,7 +4455,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32243",
-    "_description": "価格＝所有者との交渉小坂町分譲宅地(狐崎団地)良好な管理状態"
+    "_description": "価格＝所有者との交渉小坂町分譲宅地(狐崎団地)良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 204,
@@ -2853,7 +4477,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/32246",
-    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態"
+    "_description": "価格＝所有者との交渉小坂町分譲宅地(緑ヶ丘団地)良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 205,
@@ -2867,7 +4499,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/32171",
-    "_description": "100万円以下物件多少補修必要（入居者負担）"
+    "_description": "100万円以下物件多少補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 206,
@@ -2881,7 +4521,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/32176",
-    "_description": "ボイラー設置必要"
+    "_description": "ボイラー設置必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 207,
@@ -2895,7 +4543,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32121",
-    "_description": "林、田園に囲まれ、自然豊かな環境にある純和風8SDK住宅です。家庭菜園なども楽しめます。耐震診断未実施、建物状況調査未実施原野：25平米 物置（作業小屋、2階建て）：88.30平米あり多少の補修が必要"
+    "_description": "林、田園に囲まれ、自然豊かな環境にある純和風8SDK住宅です。家庭菜園なども楽しめます。耐震診断未実施、建物状況調査未実施原野：25平米 物置（作業小屋、2階建て）：88.30平米あり多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 208,
@@ -2909,7 +4565,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32143",
-    "_description": "田園風景の広がる自然豊かな立地の2階建て住宅です。敷地内では本格的な家庭菜園も楽しめます。耐震診断未実施、建物状況調査未実施、線引き前住宅、建物未登記（売買契約後、引渡し前に要登記）、建物解体更地渡し可多少の補修が必要"
+    "_description": "田園風景の広がる自然豊かな立地の2階建て住宅です。敷地内では本格的な家庭菜園も楽しめます。耐震診断未実施、建物状況調査未実施、線引き前住宅、建物未登記（売買契約後、引渡し前に要登記）、建物解体更地渡し可多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 209,
@@ -2923,7 +4587,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32146",
-    "_description": "市内中心地にも近い楢山地区にある5DKの平屋建て住宅です！収納も多くて便利です！建物一部未登記接道、南側道路は法定外法定外公共物（建築基準法43条但書きの協議要）多少の補修が必要"
+    "_description": "市内中心地にも近い楢山地区にある5DKの平屋建て住宅です！収納も多くて便利です！建物一部未登記接道、南側道路は法定外法定外公共物（建築基準法43条但書きの協議要）多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 210,
@@ -2937,7 +4609,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32079",
-    "_description": "飯島鼠田にある4K2階建て住宅です。車庫に1台、駐車場に2台駐車可能です。耐震診断不要、建物状況調査未実施水道管の一部凍結破損あり要修理下水道接続なし"
+    "_description": "飯島鼠田にある4K2階建て住宅です。車庫に1台、駐車場に2台駐車可能です。耐震診断不要、建物状況調査未実施水道管の一部凍結破損あり要修理下水道接続なし",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 211,
@@ -2951,7 +4631,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32083",
-    "_description": "新屋町字新町後の静かな住宅地にある5DKの2階建て住宅です。建物解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可引き渡し時までに相続登記完了予定前面道路私有地（引き渡し時までに通行承諾書徴求）未登記物件あり（小屋）多少補修必要"
+    "_description": "新屋町字新町後の静かな住宅地にある5DKの2階建て住宅です。建物解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施建物解体更地渡し可引き渡し時までに相続登記完了予定前面道路私有地（引き渡し時までに通行承諾書徴求）未登記物件あり（小屋）多少補修必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 212,
@@ -2965,7 +4653,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32107",
-    "_description": "利便性のよい土崎港北一丁目にある5DK二階建住宅です。再建築不可多少補修必要"
+    "_description": "利便性のよい土崎港北一丁目にある5DK二階建住宅です。再建築不可多少補修必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 213,
@@ -2979,7 +4675,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32108",
-    "_description": "自然豊かな環境にある、2階建ての住宅です。建物解体更地渡しも可能です。大幅な補修が必要"
+    "_description": "自然豊かな環境にある、2階建ての住宅です。建物解体更地渡しも可能です。大幅な補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 214,
@@ -2993,7 +4697,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32111",
-    "_description": "土崎港北二丁目にある6DK、2階建て住宅です。建物解体更地渡しも可能です。大幅な補修が必要"
+    "_description": "土崎港北二丁目にある6DK、2階建て住宅です。建物解体更地渡しも可能です。大幅な補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 215,
@@ -3007,7 +4719,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32113",
-    "_description": "秋田市河辺の郊外の静かな住宅地にある、6LDK、二階建住宅です。土地や建物も広くゆったりと使用できます。耐震診断未実施、建物状況調査未実施宅地の向かいにある河辺松渕字行人塚33‐1、原野190平米の土地とその上にある物置（未登記）を含む。多少の補修が必要"
+    "_description": "秋田市河辺の郊外の静かな住宅地にある、6LDK、二階建住宅です。土地や建物も広くゆったりと使用できます。耐震診断未実施、建物状況調査未実施宅地の向かいにある河辺松渕字行人塚33‐1、原野190平米の土地とその上にある物置（未登記）を含む。多少の補修が必要",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 216,
@@ -3021,7 +4741,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32116",
-    "_description": "飯島穀丁にある車庫付き4DK2階建て住宅です。建物解体後の更地渡しも可能です。耐震診断未実施、建物状況調査未実施建物の建替えおよび増改築時は建築基準法第43条第2項の許可が必要 告知事項あり 大幅な補修が必要"
+    "_description": "飯島穀丁にある車庫付き4DK2階建て住宅です。建物解体後の更地渡しも可能です。耐震診断未実施、建物状況調査未実施建物の建替えおよび増改築時は建築基準法第43条第2項の許可が必要 告知事項あり 大幅な補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 217,
@@ -3035,7 +4763,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32117",
-    "_description": "新屋北浜町の閑静な住宅街にある3DK平家建住宅です。耐震診断未実施、建物状況調査未実施土地の一部道路負担有。建物東側増築部分未登記。土地は東側の法面含む。昔利用していた井戸跡あり。多少の補修が必要"
+    "_description": "新屋北浜町の閑静な住宅街にある3DK平家建住宅です。耐震診断未実施、建物状況調査未実施土地の一部道路負担有。建物東側増築部分未登記。土地は東側の法面含む。昔利用していた井戸跡あり。多少の補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 218,
@@ -3049,7 +4785,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32119",
-    "_description": "土崎港北三丁目にある5LDK二階建住宅です。建物の解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施現在の建物について解体し更地渡し可能です。建物の建替え、増改築の時は建築基準法第43条の事前協議と本申請、許可が必要です（建築基準法で認める道路に宅地が接道していないため）。大幅な補修が必要"
+    "_description": "土崎港北三丁目にある5LDK二階建住宅です。建物の解体更地渡しも可能です。耐震診断未実施、建物状況調査未実施現在の建物について解体し更地渡し可能です。建物の建替え、増改築の時は建築基準法第43条の事前協議と本申請、許可が必要です（建築基準法で認める道路に宅地が接道していないため）。大幅な補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 219,
@@ -3063,7 +4807,15 @@
     "_pref_government": "秋田市",
     "_type": "売戸建",
     "_detail_url": "https://akita-c05201.akiya-athome.jp/bukken/detail/buy/32120",
-    "_description": "新屋寿町の閑静な住宅地にある6LDKの中古住宅です。耐震診断不要、建物状況調査未実施、建物の建替え、増改築時は建築基準法第43条の事前協議、許可が必要。大幅な補修が必要"
+    "_description": "新屋寿町の閑静な住宅地にある6LDKの中古住宅です。耐震診断不要、建物状況調査未実施、建物の建替え、増改築時は建築基準法第43条の事前協議、許可が必要。大幅な補修が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 220,
@@ -3077,7 +4829,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/31053",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 221,
@@ -3091,7 +4851,15 @@
     "_pref_government": "大仙市",
     "_type": "売戸建",
     "_detail_url": "https://daisen-c05212.akiya-athome.jp/bukken/detail/buy/29806",
-    "_description": "【中古戸建住宅】大仙市大曲住吉町 敷地面積１８９坪 緑の庭を楽しむ和風建築大曲駅まで車6分、敷地面積は628.01平米(189.97坪)公簿、緑の庭を楽しむ広い敷地面積で、和風建築の外観です。建物は199.67平米(60.40坪)公簿の5LDK。"
+    "_description": "【中古戸建住宅】大仙市大曲住吉町 敷地面積１８９坪 緑の庭を楽しむ和風建築大曲駅まで車6分、敷地面積は628.01平米(189.97坪)公簿、緑の庭を楽しむ広い敷地面積で、和風建築の外観です。建物は199.67平米(60.40坪)公簿の5LDK。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 222,
@@ -3105,7 +4873,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/29764",
-    "_description": "住宅と別に車庫（1台分）あり"
+    "_description": "住宅と別に車庫（1台分）あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 223,
@@ -3119,7 +4895,15 @@
     "_pref_government": "雄勝郡羽後町",
     "_type": "売戸建",
     "_detail_url": "https://ugo-t05463.akiya-athome.jp/bukken/detail/buy/29235",
-    "_description": "西馬音内盆踊り会場前病院まで歩いて徒歩10分以内西馬音内盆踊り会場のすぐそばです。部屋数・収納ともが多く、日当たり良好です。"
+    "_description": "西馬音内盆踊り会場前病院まで歩いて徒歩10分以内西馬音内盆踊り会場のすぐそばです。部屋数・収納ともが多く、日当たり良好です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 224,
@@ -3133,7 +4917,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/29388",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 225,
@@ -3147,7 +4939,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/28607",
-    "_description": "便利な立地の物件です。"
+    "_description": "便利な立地の物件です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 226,
@@ -3161,7 +4961,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/28614",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 227,
@@ -3175,7 +4983,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/28626",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 228,
@@ -3189,7 +5005,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/28335",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 229,
@@ -3203,7 +5027,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/28110",
-    "_description": "屋根融雪付き（設備稼働可否不明）"
+    "_description": "屋根融雪付き（設備稼働可否不明）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 230,
@@ -3217,7 +5049,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/28076",
-    "_description": "敷地内に1台駐車可"
+    "_description": "敷地内に1台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 231,
@@ -3231,7 +5071,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/27418",
-    "_description": "１階の和室８帖３室は、広く通し間にしたり襖を閉めてコンンパクトに使用したり、色々と使い方を楽しめそうです。国道１０１号線に面した便利な場所にあり、駐車スペースも２台分あります。"
+    "_description": "１階の和室８帖３室は、広く通し間にしたり襖を閉めてコンンパクトに使用したり、色々と使い方を楽しめそうです。国道１０１号線に面した便利な場所にあり、駐車スペースも２台分あります。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 232,
@@ -3245,7 +5093,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/27087",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 233,
@@ -3259,7 +5115,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/26539",
-    "_description": "理想の田舎暮らしを実現！広々とした間取りのお家で自分時間を充実させませんか。駐車場はありませんが、近くにバス停や駅があります。広い庭の楽しみ方も工夫次第。地域住民のつながりが感じられる、のどかな場所にある物件です。部屋数が多く、１階はそれぞれの部屋が仕切られているので、用途に合った使い方やプライベート空間も保てます。"
+    "_description": "理想の田舎暮らしを実現！広々とした間取りのお家で自分時間を充実させませんか。駐車場はありませんが、近くにバス停や駅があります。広い庭の楽しみ方も工夫次第。地域住民のつながりが感じられる、のどかな場所にある物件です。部屋数が多く、１階はそれぞれの部屋が仕切られているので、用途に合った使い方やプライベート空間も保てます。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 234,
@@ -3273,7 +5137,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/26639",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 235,
@@ -3287,7 +5159,15 @@
     "_pref_government": "湯沢市",
     "_type": "売戸建",
     "_detail_url": "https://yuzawa-c05207.akiya-athome.jp/bukken/detail/buy/25678",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 236,
@@ -3301,7 +5181,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/26227",
-    "_description": "蔵のある日本家屋。最寄り駅までも徒歩圏内の風情のある古い町並みにあります。立派な柱梁を使用した座敷部分は、築年数を思わせない手入れが行き届いた状況。建具に狂いのないきちんとした造りの住居部分は座敷部分より後に増築された建物。"
+    "_description": "蔵のある日本家屋。最寄り駅までも徒歩圏内の風情のある古い町並みにあります。立派な柱梁を使用した座敷部分は、築年数を思わせない手入れが行き届いた状況。建具に狂いのないきちんとした造りの住居部分は座敷部分より後に増築された建物。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 237,
@@ -3315,7 +5203,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/26091",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 238,
@@ -3329,7 +5225,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/25317",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 239,
@@ -3343,7 +5247,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/25074",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 240,
@@ -3357,7 +5269,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/24882",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 241,
@@ -3371,7 +5291,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/24429",
-    "_description": "平屋。駅やバス停まで徒歩2分、銀行やスーパーなども徒歩１０分圏内にあり、車を持たない方でも便利です！"
+    "_description": "平屋。駅やバス停まで徒歩2分、銀行やスーパーなども徒歩１０分圏内にあり、車を持たない方でも便利です！",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 242,
@@ -3385,7 +5313,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/24646",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 243,
@@ -3399,7 +5335,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/24645",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 244,
@@ -3413,7 +5357,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/23900",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 245,
@@ -3427,7 +5379,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/23165",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 246,
@@ -3441,7 +5401,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/22430",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 247,
@@ -3455,7 +5423,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/22897",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 248,
@@ -3469,7 +5445,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/21035",
-    "_description": "店舗付き物件として利用できる物件。店舗だった部分がビルドインガレージになっており、駐車場や趣味の作業スペースに出来ます。動画→ https://youtu.be/J13_L3TV64EVR画像→ https://www.nikahome.jp/pages/vacant-house-information"
+    "_description": "店舗付き物件として利用できる物件。店舗だった部分がビルドインガレージになっており、駐車場や趣味の作業スペースに出来ます。動画→ https://youtu.be/J13_L3TV64EVR画像→ https://www.nikahome.jp/pages/vacant-house-information",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 249,
@@ -3483,7 +5467,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/20991",
-    "_description": "地方では希少な適度な大きさの３LDK動画→ https://youtu.be/y-mcC-OKVeAVR画像→ https://www.nikahome.jp/pages/vacant-house-information"
+    "_description": "地方では希少な適度な大きさの３LDK動画→ https://youtu.be/y-mcC-OKVeAVR画像→ https://www.nikahome.jp/pages/vacant-house-information",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 250,
@@ -3497,7 +5489,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/21030",
-    "_description": "古民家物件のような旧街道に面した日本家屋。駅や子育て施設、小・中学校へのアクセスの良い、こだわりの建材が使用された日本家屋です。こだわりの日本建築家屋。炉のある物件です。庭に面した２階縁側から庭の眺めも美しく、広い裏庭では家庭菜園も楽しめ、駐車スペースも充実しています。"
+    "_description": "古民家物件のような旧街道に面した日本家屋。駅や子育て施設、小・中学校へのアクセスの良い、こだわりの建材が使用された日本家屋です。こだわりの日本建築家屋。炉のある物件です。庭に面した２階縁側から庭の眺めも美しく、広い裏庭では家庭菜園も楽しめ、駐車スペースも充実しています。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 4,
+      "diy": 2
+    }
   },
   {
     "house_id": 251,
@@ -3511,7 +5511,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/21373",
-    "_description": "住宅と別に車庫有り（1台分）車庫のほか敷地内に駐車可（1台分）"
+    "_description": "住宅と別に車庫有り（1台分）車庫のほか敷地内に駐車可（1台分）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 252,
@@ -3525,7 +5533,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/20997",
-    "_description": "駅前すぐの店舗付き物件賃貸も可能JR羽越線「仁賀保駅」の駅前。住居部分も154平米と広い間取りです。飲食店などを始めたい方にもピッタリの物件です。"
+    "_description": "駅前すぐの店舗付き物件賃貸も可能JR羽越線「仁賀保駅」の駅前。住居部分も154平米と広い間取りです。飲食店などを始めたい方にもピッタリの物件です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 253,
@@ -3539,7 +5555,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/20984",
-    "_description": "田舎暮らしを楽しむ趣味の部屋が持てる物件です。日曜大工もできる広い倉庫付き。綺麗に手入れされている出雲神社に面しが和風のお庭が楽しめる物件です。象潟庁舎や駅にも近く便利な立地です。"
+    "_description": "田舎暮らしを楽しむ趣味の部屋が持てる物件です。日曜大工もできる広い倉庫付き。綺麗に手入れされている出雲神社に面しが和風のお庭が楽しめる物件です。象潟庁舎や駅にも近く便利な立地です。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 254,
@@ -3553,7 +5577,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/20870",
-    "_description": "住宅と別に車庫兼物置（未登記）有り。車庫は1台分。"
+    "_description": "住宅と別に車庫兼物置（未登記）有り。車庫は1台分。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 255,
@@ -3567,7 +5599,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/20787",
-    "_description": "※農地付き 国道7号線から約１km田園を進み、広い敷地に建つこじんまりした家です。"
+    "_description": "※農地付き 国道7号線から約１km田園を進み、広い敷地に建つこじんまりした家です。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 256,
@@ -3581,7 +5621,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/20670",
-    "_description": "平成10年に増築車庫あり2台駐車可物置あり"
+    "_description": "平成10年に増築車庫あり2台駐車可物置あり",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 257,
@@ -3595,7 +5643,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/20083",
-    "_description": "カーポート有り敷地内に2台駐車可"
+    "_description": "カーポート有り敷地内に2台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 258,
@@ -3609,7 +5665,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/20024",
-    "_description": "住宅とは別に車庫（1台分）・物置有り敷地内に2台駐車可"
+    "_description": "住宅とは別に車庫（1台分）・物置有り敷地内に2台駐車可",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 259,
@@ -3623,7 +5687,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/18684",
-    "_description": "【価格変更】中心部の住宅街にあるので、車を持たない世代の方でも便利に生活できます。"
+    "_description": "【価格変更】中心部の住宅街にあるので、車を持たない世代の方でも便利に生活できます。",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 260,
@@ -3637,7 +5709,15 @@
     "_pref_government": "能代市",
     "_type": "売戸建",
     "_detail_url": "https://noshiro-c05202.akiya-athome.jp/bukken/detail/buy/15007",
-    "_description": "スーパー、ドラッグストア、ホームセンターにいづれも徒歩１０分圏内。便利でありながら静かな住宅街の一角にある物件です。"
+    "_description": "スーパー、ドラッグストア、ホームセンターにいづれも徒歩１０分圏内。便利でありながら静かな住宅街の一角にある物件です。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 261,
@@ -3651,7 +5731,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/15016",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 262,
@@ -3665,7 +5753,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/13028",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 263,
@@ -3679,7 +5775,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/12784",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 264,
@@ -3693,7 +5797,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売戸建",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/12467",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 265,
@@ -3707,7 +5819,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/10462",
-    "_description": "100万円以下物件告知事項有り多少補修必要（入居者負担）"
+    "_description": "100万円以下物件告知事項有り多少補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 266,
@@ -3721,7 +5841,15 @@
     "_pref_government": "山本郡三種町",
     "_type": "売戸建",
     "_detail_url": "https://mitane-t05348.akiya-athome.jp/bukken/detail/buy/5174",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 267,
@@ -3735,7 +5863,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/6937",
-    "_description": ""
+    "_description": "",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 268,
@@ -3749,7 +5885,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/6081",
-    "_description": "契約条件等については、当事者同士での交渉になります。要修繕：上水道給水管（入居者負担）"
+    "_description": "契約条件等については、当事者同士での交渉になります。要修繕：上水道給水管（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 269,
@@ -3763,7 +5907,15 @@
     "_pref_government": "山本郡八峰町",
     "_type": "売戸建",
     "_detail_url": "https://happou-t05349.akiya-athome.jp/bukken/detail/buy/6078",
-    "_description": "契約条件等については、当事者同士での交渉になります。要修繕：天井、ボイラー等（入居者負担）"
+    "_description": "契約条件等については、当事者同士での交渉になります。要修繕：天井、ボイラー等（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 270,
@@ -3777,7 +5929,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/5930",
-    "_description": "補修の可否：多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成28年～ カーポート、物置有り 風呂：灯油 下水道：仲介業者に要問合せカーポート、物置有り！"
+    "_description": "補修の可否：多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成28年～ カーポート、物置有り 風呂：灯油 下水道：仲介業者に要問合せカーポート、物置有り！",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 271,
@@ -3791,7 +5951,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/5918",
-    "_description": "多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成29年5月～ 物置有り 風呂：灯油下水道：無し（公共下水道公共桝設置ありだが未接続）駅近くの好立地！物置有、車1台駐車可！"
+    "_description": "多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成29年5月～ 物置有り 風呂：灯油下水道：無し（公共下水道公共桝設置ありだが未接続）駅近くの好立地！物置有、車1台駐車可！",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 4,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 272,
@@ -3805,7 +5973,15 @@
     "_pref_government": "大館市",
     "_type": "売戸建",
     "_detail_url": "https://odate-c05204.akiya-athome.jp/bukken/detail/buy/5927",
-    "_description": "間取り：8Ｋ+店舗 補修の可否：多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成21年5月～ 4台分の車庫付き、物置有り 風呂：灯油店舗付き物件！"
+    "_description": "間取り：8Ｋ+店舗 補修の可否：多少の補修必要 補修の費用負担：入居者負担 空き家となった時期：平成21年5月～ 4台分の車庫付き、物置有り 風呂：灯油店舗付き物件！",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 4
+    }
   },
   {
     "house_id": 273,
@@ -3819,7 +5995,15 @@
     "_pref_government": "にかほ市",
     "_type": "売戸建",
     "_detail_url": "https://nikaho-c05214.akiya-athome.jp/bukken/detail/buy/3917",
-    "_description": "田舎生活が満喫できる暖炉のある家。薪もたくさんあります。家庭菜園の庭。ぶどう棚のあるポーチ。鳥海山の見える２階からの景色。"
+    "_description": "田舎生活が満喫できる暖炉のある家。薪もたくさんあります。家庭菜園の庭。ぶどう棚のあるポーチ。鳥海山の見える２階からの景色。",
+    "ai_scores": {
+      "farming": 4,
+      "ocean": 1,
+      "nature": 4,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 274,
@@ -3833,7 +6017,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/4396",
-    "_description": "多少の補修必要（入居者負担）"
+    "_description": "多少の補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 275,
@@ -3847,7 +6039,15 @@
     "_pref_government": "北秋田市",
     "_type": "売戸建",
     "_detail_url": "https://kitaakita-c05213.akiya-athome.jp/bukken/detail/buy/4398",
-    "_description": "店舗付住宅です店舗部分及び2階部分は解体の必要有り大幅な補修必要（入居者負担）"
+    "_description": "店舗付住宅です店舗部分及び2階部分は解体の必要有り大幅な補修必要（入居者負担）",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 276,
@@ -3861,7 +6061,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3699",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 277,
@@ -3875,7 +6083,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3697",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 278,
@@ -3889,7 +6105,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3695",
-    "_description": "環境省の十和田湖管理計画に基づいた規制あり現況地目：宅地介在雑種地良好な管理状態"
+    "_description": "環境省の十和田湖管理計画に基づいた規制あり現況地目：宅地介在雑種地良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 279,
@@ -3903,7 +6127,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3692",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 280,
@@ -3917,7 +6149,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3691",
-    "_description": "良好な管理状態"
+    "_description": "良好な管理状態",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 281,
@@ -3931,7 +6171,15 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3690",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   },
   {
     "house_id": 282,
@@ -3945,6 +6193,14 @@
     "_pref_government": "鹿角郡小坂町",
     "_type": "売土地",
     "_detail_url": "https://kosaka-t05303.akiya-athome.jp/bukken/detail/buy/3689",
-    "_description": "何らかの対策が必要"
+    "_description": "何らかの対策が必要",
+    "ai_scores": {
+      "farming": 3,
+      "ocean": 1,
+      "nature": 3,
+      "convenience": 2,
+      "parenting": 2,
+      "diy": 2
+    }
   }
 ]
