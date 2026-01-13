@@ -52,7 +52,7 @@ export default function RootLayout({
   };
 
   return (
-    <html lang="ja">
+    <html lang="ja" suppressHydrationWarning>
       <head>
         <title>空き家マッチングプラットフォーム</title>
         <meta
@@ -61,6 +61,7 @@ export default function RootLayout({
         />
       </head>
       <body
+        suppressHydrationWarning
         className={`${outfit.variable} ${notoSansJP.variable} font-sans antialiased`}
       >
         <FavoritesProvider>
